@@ -290,7 +290,7 @@ hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "73219b16a0d68ef382664857d784c7e68504ed66195ab1ea46b458444a0650a3"
+hash = "7799038bcf9d9165425b4e677eaf19ceb3824918f07ff8215db47a9c69b0c60b"
 
 [[files]]
 file = "config/almostunified/debug.json"
@@ -1386,7 +1386,7 @@ hash = "061b506b8f81b5e2fe0bd52fe58c9768df4128046acbfe26264dd8d72b23ff94"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
-hash = "de1dc66fb1c9e17b2494647eb2b29628f86236b9e913e7c98d6b41cad21dcd1f"
+hash = "6af34440e937e5b7b97d47330f890854934b0f86fb712ea88f17bc61bf8b3a74"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/quests.snbt"
@@ -4821,11 +4821,6 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "06f7c48a87a485cd01a5ff4f7a2a8fdd25eed78c35ab7ecc386fa18bf2316909"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "ec653b08d4f6ecc9992d1e1cffa77a305b2878db1ab447cfb038cd5e601e8d0c"
 metafile = true
 
 [[files]]

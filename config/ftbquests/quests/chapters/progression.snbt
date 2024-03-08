@@ -53,11 +53,6 @@
 			}]
 			rewards: [
 				{
-					id: "1DB0D5BA24F93B0F"
-					type: "item"
-					item: "antiqueatlas:empty_antique_atlas"
-				}
-				{
 					id: "419427A795E296D0"
 					type: "item"
 					item: {
