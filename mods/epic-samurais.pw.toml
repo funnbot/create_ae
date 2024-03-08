@@ -1,0 +1,13 @@
+name = "Epic Samurai's - Forge"
+filename = "epicsamurai-0.0.2-1.18.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c1b5d8c56dff9c7bd2bda9cef51490da5e58eef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4645523
+project-id = 848381

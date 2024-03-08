@@ -1,0 +1,13 @@
+name = "Video Extension for FancyMenu v2 [Forge]"
+filename = "fancymenu_video_extension_forge_1.1.1_MC_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b35220a52da15844afd21bb1b35437d812153784"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3928276
+project-id = 591711

@@ -1,0 +1,13 @@
+name = "Create: Arcane Engineering Core"
+filename = "cae-1.99.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d07b785b57b82eaa1ecfdac9746d215e419ba79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4842356
+project-id = 890398

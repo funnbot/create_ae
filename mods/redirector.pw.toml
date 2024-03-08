@@ -1,0 +1,13 @@
+name = "Redirector [Modern]"
+filename = "redirector-1.18.2-2.4.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e0ffc779437cff8cfd814e784158ff32e1f1bf6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4751577
+project-id = 877289

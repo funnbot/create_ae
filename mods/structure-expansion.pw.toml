@@ -1,0 +1,13 @@
+name = "Structure Expansion"
+filename = "structure-expansion-1802.1.2-build.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a829153f8ee86b93a911b74e71c2ff2df3af9387"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377178
+project-id = 398430
