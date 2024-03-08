@@ -22,12 +22,12 @@
 *.mtl          text
 *.db           text
 
+*.toml.bak     text
+
 *.nbt          binary
 *.dat          binary
 *.ase          binary
 *.rar          binary
-*.bak          binary
-
 
 # Documents
 *.bibtex   text diff=bibtex
