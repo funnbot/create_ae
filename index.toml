@@ -6856,7 +6856,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "93b3fabbe710935d2783933986c8d9d793a31d5738dddc7c0e1583e13b41fddd"
+hash = "c5012d7abd319b7551a112d56f8bd557a5b1631a267862018f460784a37fb168"
 metafile = true
 
 [[files]]
@@ -6876,7 +6876,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "851799a1007600db6924a6cae66b8f1c86b9fc4c92c7aff0295ffa1b68fc13dc"
+hash = "225bdd8800600e8859da07b2d91fd6e658b08061e9de8cae4b05ace59580643e"
 metafile = true
 
 [[files]]
@@ -6921,7 +6921,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "41235b4f2becd53e63d0e41f3df27bc4687412969f948148a4226c09096a61a7"
+hash = "29350e9f89d17effb595d37ab655ea8e1f0f6d13bd7f1619ae30d37a7a11d6b7"
 metafile = true
 
 [[files]]
@@ -6946,7 +6946,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "ffe3e1feb65e6ec7ed7596ad06f36bd840e3b68d0309301a6c4e2e7fa29c4725"
+hash = "7dadbd77346a72335b518d68abbf7e2b3d8da1009a96e92df0fad91e6d0c4b92"
 metafile = true
 
 [[files]]
