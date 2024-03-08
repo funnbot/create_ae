@@ -5144,6 +5144,11 @@ hash = "be13c6c50adc17948ef1a8689537f09bcd550b7d998901ad6a50870c38d5399c"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "9431bfc3ad07735f25e6881fa396aa0d56fb70d880f29a0d2028475ffa2b5b32"
+metafile = true
+
+[[files]]
 file = "mods/entangled-fix.pw.toml"
 hash = "3f0227af06e49c39da15c28b22a30d1a349ffbd4b647cf63bd1c2d7031ec22f1"
 metafile = true
@@ -5606,11 +5611,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
 metafile = true
 
 [[files]]
