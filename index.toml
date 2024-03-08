@@ -4870,7 +4870,7 @@ metafile = true
 
 [[files]]
 file = "mods/audio-extension-for-fancymenu-forge.pw.toml"
-hash = "43edcee8a1f2f2488828f7fe032d295f2f2937c60de80e5d3b8d8aaeffac823e"
+hash = "cca6f4341f99bb0441029d97b1b83840b424c56856e60364275b22090a18456f"
 metafile = true
 
 [[files]]
@@ -5029,11 +5029,6 @@ hash = "f6ab95ce40c5241c5db3e34f30ad517f33600c54443cb4dc17cc35b91c719a56"
 metafile = true
 
 [[files]]
-file = "mods/create-extended-cogs.pw.toml"
-hash = "895f9e1e4f3d3492540b158bf41eb91ed9dd2955cd6de24982865bdfc505804e"
-metafile = true
-
-[[files]]
 file = "mods/create-modern-train-parts.pw.toml"
 hash = "56b590e597931eabf96f4ea19c8e4418443a0205749540c56f7522292ee68b88"
 metafile = true
@@ -5130,7 +5125,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "9cc838f874c00e251cd87dde20214f3718d7cb9e7ab6d9f535a458def1573560"
+hash = "ac937206fcefb61a2bd95e2a9db762fdb0055930b005e8396d34d561edc0e72f"
 metafile = true
 
 [[files]]
@@ -5190,7 +5185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5981ce916ea5e92b5fe97ca87e1007de39ae5a109ee0ca6833dbb1a83d39ffe5"
+hash = "7f28c313589693fea70cb70634b1b828ef158a88b670ded45fd526af49d80a1f"
 metafile = true
 
 [[files]]
