@@ -53,10 +53,6 @@ file = "config/Advancedperipherals/world.toml"
 hash = "20a77e677bebcd0e4b27c3ab15ef52a19e8ff76b7828af543abaacff98a952d3"
 
 [[files]]
-file = "config/ChunkyMcChunkFace-common.toml"
-hash = "9eec9c60c67bbe5b6ef177b5d670f47b1153a63f539dfe249db7832fcfe2c512"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
