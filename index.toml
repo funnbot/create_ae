@@ -5318,7 +5318,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7fd6bc3e0bc4c45ca6ba8beef3c66393f9d3643d51e0dfc3c302703e2b221f46"
+hash = "a748377defc6b6837575eb5994445d8ab6f1b7ea5ec3bd789384354d859e33ed"
 metafile = true
 
 [[files]]
@@ -5458,7 +5458,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "b5b5ad45c529d7234e671408878c9ca63ca82c44c564794950e1e72f071764b0"
+hash = "b36d2fa8fdc8940cb24d74d3b4d830e2586970bbdbd56407ed7327908cea2cf3"
 metafile = true
 
 [[files]]
@@ -5498,7 +5498,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fad0e1c59d0548afbcbe2e34d25fbf97cf4c6effe40b3f7e2b93dd5c546ee601"
+hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
 metafile = true
 
 [[files]]
@@ -5738,7 +5738,7 @@ metafile = true
 
 [[files]]
 file = "mods/video-extension-for-fancymenu-forge.pw.toml"
-hash = "a195ad8b6b16ce56dd5b1de4dd76e7e944ea1fa9d43e34a4ea104b7aa7e90df0"
+hash = "6bff28c3548ce3821686e7b8a56696f678cc7a4f6b327765101f0f0585b6f665"
 metafile = true
 
 [[files]]
@@ -6304,7 +6304,7 @@ hash = "2914e3e04198925e388d37fe47c0726724f90999c32f894c82af1f4adbdb0e61"
 
 [[files]]
 file = "resourcepacks/copycat-framed-blocks.pw.toml"
-hash = "57b891eab98b1208a486baa2d251a573565836c3ccc7233310ff87b167be5bd5"
+hash = "cd3e56893b5a48be372dd048e7aeb3764b25d72ba3ca08efddbb87530b56d2ea"
 metafile = true
 
 [[files]]

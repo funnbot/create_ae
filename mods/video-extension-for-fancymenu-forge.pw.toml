@@ -1,6 +1,6 @@
 name = "Video Extension for FancyMenu v2 [Forge]"
 filename = "fancymenu_video_extension_forge_1.1.1_MC_1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
