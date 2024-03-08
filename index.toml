@@ -6930,6 +6930,11 @@ hash = "4c4ac0d38664c1321f53729ced55d8b6ea6d39fd397c1d10375366dd09a25501"
 metafile = true
 
 [[files]]
+file = "mods/exchangers.pw.toml"
+hash = "787229fad8668970e54a2484195f947c5b51323ca296b3c783340137f41b1b05"
+metafile = true
+
+[[files]]
 file = "mods/expandability.pw.toml"
 hash = "b754294dc84849fefc76b67c1f39cf80f2f40cd5ef4b45d94e30a0721efd87a3"
 metafile = true
@@ -7062,6 +7067,11 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "7f550fbe32e316ccb038fe8eda9619e184838094897095241a0428c74713f7d7"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "919473f36a5d8393caba8ccbfed49b44b4b03cff49dbc079bf8a30910bf9f4de"
 metafile = true
 
 [[files]]
