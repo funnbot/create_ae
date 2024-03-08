@@ -6591,7 +6591,7 @@ metafile = true
 
 [[files]]
 file = "mods/auudio-forge.pw.toml"
-hash = "85047dd3e82f1ed70055d856c377aece5fe53c1b2af95cc31f2ee42ec8073bdc"
+hash = "111bb803bfbcf88d8574dc329e4e2bb2448c2ce7a42371d6d2777fd3122ae695"
 metafile = true
 
 [[files]]
@@ -6826,7 +6826,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "ccec1db1d85626fc9171e1d14b0b66563d85b5ee5b9894c776d850ada74aba2d"
+hash = "99f0614ddfae7e5b7f691b25be875f17c3608ba49e0dba182ec247e212f04878"
 metafile = true
 
 [[files]]
@@ -6851,7 +6851,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective-forge.pw.toml"
-hash = "abe39ad8a84f594341713b21da9d5a7881f3a7283dcd3ac6d109af17acdd813f"
+hash = "d5df1d8072c5e8be550e04604bad325ed77d9d67cba0bbb8cb96d003c87396f3"
 metafile = true
 
 [[files]]
@@ -6901,7 +6901,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "fcc1d403b7812bc4be27ca8970564012f6ad14dd044557d035122e7fde9d4613"
+hash = "23b15328b93c9daa3e3611222de4763249d8917fd7a2ff7167b2081bf6d5c8fb"
 metafile = true
 
 [[files]]
@@ -6911,7 +6911,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancyvideo-api.pw.toml"
-hash = "6f3286979bbddcef5a5f0056d5fb998655a693e77e8c3c9903e8ccf847aab761"
+hash = "42459aa73d137ba646fbc15cce97099c2e794c9cdee48e05dfdc11b127706c5f"
 metafile = true
 
 [[files]]
@@ -6966,7 +6966,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "bbd9219f690d521cdf4cf245e9fc3a75b8f5440f001c5b4966dcfaf38d0bfc19"
+hash = "4000dbd053296ca5bdc89c477f47b973884cc5df727b9ac84a2ab3fa96bc775a"
 metafile = true
 
 [[files]]
@@ -7236,7 +7236,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "80ebf49d29a321fbc0c78c54d98cb65a7bcd9b74f109254e759a603a56aa2fe5"
+hash = "12e97456e6589a060e60a6939dbb7ae2712ad1492846e5200fd4a8129b5c82bb"
 metafile = true
 
 [[files]]

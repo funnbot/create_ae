@@ -1,6 +1,6 @@
 name = "Do a Barrel Roll"
 filename = "do-a-barrel-roll-2.5.3+1.18.2-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
