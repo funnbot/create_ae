@@ -136,15 +136,14 @@
 			x: 13.0d
 			y: -8.0d
 			description: [
-				"This is a create chunkloader. It ONLY works on contraptions. "
-				"But it doesnt simulate randomticks, which is the stuff you need to grow crops. FTBchunks force load can do that for you. "
+				"This is a create power loader. It works on contraptions. "
 				"Chunk Loading is more or less required to complete this pack."
 			]
 			id: "3147CC1F634EF8E7"
 			tasks: [{
 				id: "00D0B84159CDC1CE"
 				type: "item"
-				item: "createchunkloading:chunk_loader"
+				item: "create_power_loader:andesite_chunk_loader"
 			}]
 		}
 		{
@@ -716,12 +715,12 @@
 			x: 11.0d
 			y: -6.0d
 			subtitle: "Another Chunkloader."
-			description: ["Right-Click to Activate. If the player is longer than 140 minutes offline, it will disable itself."]
+			description: ["It is another chunkloader."]
 			id: "79A1DE90448ED2F4"
 			tasks: [{
 				id: "1C4067CE9D0886AC"
 				type: "item"
-				item: "chunkymcchunkface:chunk_loader"
+				item: "create_power_loader:andesite_chunk_loader"
 			}]
 		}
 		{

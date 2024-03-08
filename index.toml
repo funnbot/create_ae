@@ -6643,11 +6643,6 @@ hash = "c89433b1a2be761c9f15c07698f1a100a590da4afa2135ccd991e445858b217f"
 metafile = true
 
 [[files]]
-file = "mods/chunky-mcchunkface.pw.toml"
-hash = "d9bcccb05c49e8462aa1f3f378606f9cd4dd113c3aa27482170518c7bd09deb6"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "8120db6e39c3f29e8e5d8f4e5c1f25c0a51e5bf2e387df868a78103cddb6d2df"
 metafile = true
@@ -6728,11 +6723,6 @@ hash = "cbeaf7b419970a0bf98dfcf84b06d60d2516c9c95f125f2bb23f75de082cb3aa"
 metafile = true
 
 [[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "f8c9c7b48aaab0d4524160a9ac05b3f937c7a2b3301fed0e46d8fb1f4887148d"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "141762a5d3698e1f0715a2bae38dd9f9e86876679f965c8fd6a30f66e90e9247"
 metafile = true
@@ -6760,6 +6750,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "a214cde555b1b8f299b75a429daeeefa717d3d0d3d0977c00ad4884c35e675b3"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "05b89c579f32ad6ae11802c7c4c02703293319a15794dd4a3dbb0288adca442d"
 metafile = true
 
 [[files]]
