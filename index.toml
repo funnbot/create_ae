@@ -2021,10 +2021,6 @@ file = "defaultconfigs/veinmining-server.toml"
 hash = "9bbc461aeab5a68ee717bc6be223c52667df0ad51237f5e0575dced42cd34511"
 
 [[files]]
-file = "icon.png"
-hash = "03433274c1f9e6009f76380c10f363f40526a5d3d779e70efc2750b474b316d7"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "9c2e224068560b5942f4a0a9fe8a54fe7382dbc37c36043ab402a0ceecc259f6"
 
