@@ -5014,6 +5014,11 @@ hash = "ecf370997609f5d2b35c85c6516eca0d4fbf86399d2116fcf6337f2f3bccb6b4"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "837e6dea0f6566c90ac2440feb5112397eca6d773f6e4a0b97921c99b9c783a9"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "2dc6b12493ef87e7b192f9eb3085e4c93a396a53c5d147aa320c3d7ab67d8316"
 metafile = true
