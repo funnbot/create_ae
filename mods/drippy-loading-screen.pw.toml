@@ -1,6 +1,7 @@
 name = "Drippy Loading Screen"
 filename = "drippyloadingscreen_forge_2.2.2_MC_1.18.2.jar"
-side = "both"
+side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
