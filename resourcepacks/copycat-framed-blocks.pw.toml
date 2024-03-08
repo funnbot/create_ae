@@ -1,0 +1,13 @@
+name = "Copycat Framed Blocks"
+filename = "Copycat Framed Block.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "02a6f6a8a3bffc400940949ff4cec7b2320ea9cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4809411
+project-id = 925763

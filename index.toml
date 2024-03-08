@@ -6303,6 +6303,11 @@ file = "multiblocked/recipe_map/thething.json"
 hash = "2914e3e04198925e388d37fe47c0726724f90999c32f894c82af1f4adbdb0e61"
 
 [[files]]
+file = "resourcepacks/copycat-framed-blocks.pw.toml"
+hash = "57b891eab98b1208a486baa2d251a573565836c3ccc7233310ff87b167be5bd5"
+metafile = true
+
+[[files]]
 file = "schematics/arcane_reactor.nbt"
 hash = "394961a9374241537e70bbbc7fac505ffc7665e8536fa563f56b3a6f7c7f6221"
 
