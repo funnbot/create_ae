@@ -4170,7 +4170,7 @@ hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
 
 [[files]]
 file = "kubejs/exported/tags/block_entity_type.txt"
-hash = "8b1c899aa3a8b4f5effb6fbcbb9c8f620fd9e4986be63b9a10bb731c012bf3da"
+hash = "9caf24f28a5d9e6e4f6cf038006d33ba3efe52d2c43875de762fb1a031ea65be"
 
 [[files]]
 file = "kubejs/exported/tags/block_predicate_type.txt"
@@ -4178,7 +4178,7 @@ hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
-hash = "fb34336ee3de96d6d9c0a265639b4a0b2bbb031376f0babd69ae18316408c046"
+hash = "fc358a028472bb70b5ac92e3c1a9608fe30f4d38ca99ef0f498149849cd55101"
 
 [[files]]
 file = "kubejs/exported/tags/byg/blending_function.txt"
@@ -4210,7 +4210,7 @@ hash = "ab9b8d59972c41649f6c47db10ce733db9a3ba03c0deecfe7b5a3bb1f4c6c8ac"
 
 [[files]]
 file = "kubejs/exported/tags/entity_types.txt"
-hash = "8a0f95141d59eda2c3dbdd9864814b57aafc61b209847d68e441675d6be06ba3"
+hash = "6368723a55f9d37aa7ce7124c6cc380381125892c4b93a25512f263dc1b4ecf7"
 
 [[files]]
 file = "kubejs/exported/tags/float_provider_type.txt"
@@ -4218,7 +4218,7 @@ hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
 
 [[files]]
 file = "kubejs/exported/tags/fluids.txt"
-hash = "a9f7e22399354b4cad910ec924f7a3095a3ddb4cf9d653d4a54b901cc2132ba1"
+hash = "c58a1b9b4d23859e70a7c885f602dfc2f0e2091df32ec938da2bcab4085b3d64"
 
 [[files]]
 file = "kubejs/exported/tags/forge/loot_modifier_serializers.txt"
@@ -4242,7 +4242,7 @@ hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
 
 [[files]]
 file = "kubejs/exported/tags/items.txt"
-hash = "3b54212cf3a10e4d0da6e3fb86a4645565eb14244231f835d7830098e5cf1977"
+hash = "aeaf56491866df3aa5ac650264a4bbe86b55923cb891d7d175965346edf53d13"
 
 [[files]]
 file = "kubejs/exported/tags/loot_condition_type.txt"
@@ -4306,7 +4306,7 @@ hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
 
 [[files]]
 file = "kubejs/exported/tags/recipe_serializer.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
+hash = "af6a42855976ee390b792cc92a488677f15b7b2351e62f4e008576d7bf0f5fbe"
 
 [[files]]
 file = "kubejs/exported/tags/recipe_type.txt"
@@ -4342,7 +4342,7 @@ hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
 
 [[files]]
 file = "kubejs/exported/tags/worldgen/biome.txt"
-hash = "70bbf70e6d5cd6143bf433a92303e1ee73e85c606d00e93e8e3b0450c1f2d05f"
+hash = "af67e90731d3152ea0c75e3d0266ac5214634d35cca7bc2ade418d8e72eaaac7"
 
 [[files]]
 file = "kubejs/exported/tags/worldgen/biome_source.txt"
@@ -4370,7 +4370,7 @@ hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
 
 [[files]]
 file = "kubejs/exported/tags/worldgen/configured_structure_feature.txt"
-hash = "97c286d10a1335855d7be67862743ba836673a3344646d165021a7f6ecab620a"
+hash = "27088fd05ee8a3d3fce169f12294ef36a47151a32013fbcc970bab98e2da72f4"
 
 [[files]]
 file = "kubejs/exported/tags/worldgen/density_function.txt"
@@ -4459,34 +4459,6 @@ hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
 [[files]]
 file = "kubejs/jsconfig.json"
 hash = "058c91a44f9f4c079069775e15aea88454aee80420815cf5af51dedf01187d24"
-
-[[files]]
-file = "kubejs/probe/generated/constants.d.ts"
-hash = "98078c7ce27467a5997f2b16242a931f660e4ba8cf52b9b97dcd77494b82b9e8"
-
-[[files]]
-file = "kubejs/probe/generated/events.d.ts"
-hash = "6f89683bf40c380fc415e5421fe8635a8dc0eb3f2fed679d11a0b77d338e82d8"
-
-[[files]]
-file = "kubejs/probe/generated/globals.d.ts"
-hash = "dfa33e2ba885adcb6904985fca5cb28d3a609a3589b5abee96fb8785aa20597e"
-
-[[files]]
-file = "kubejs/probe/generated/java.d.ts"
-hash = "220ef9782515aaf2eb8dddf37e3677fb211860fffd58f27010170869bd4bf71d"
-
-[[files]]
-file = "kubejs/probe/generated/names.d.ts"
-hash = "75dab46873d85ca906a8ae86020e2ec983b1bfad76b5f50d243674f77d0e10ea"
-
-[[files]]
-file = "kubejs/probe/generated/raw.d.ts"
-hash = "7dd20bae4d1d77b4e87102941bb45925375fa8efbcb9273bc0f171273dd674fe"
-
-[[files]]
-file = "kubejs/probe/generated/registries.d.ts"
-hash = "6981784677328bfd4b931fa05eb19d2afbf477cc17de88a0cc518dc2da0f72c0"
 
 [[files]]
 file = "kubejs/server_scripts/Constants/trees.js"
