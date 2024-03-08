@@ -7,6 +7,28 @@
 # The above will handle all files NOT found below
 #
 
+
+*.snbt         text
+*.js           text
+*.cfg          text
+*.json5        text
+*.mcmeta       text
+*.bbmodel      text
+*.ini          text
+*.sample       text
+*.local        text
+*.properties   text
+*.ts           text
+*.mtl          text
+*.db           text
+
+*.nbt          binary
+*.dat          binary
+*.ase          binary
+*.rar          binary
+*.bak          binary
+
+
 # Documents
 *.bibtex   text diff=bibtex
 *.doc      diff=astextplain
