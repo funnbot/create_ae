@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Immersive Weathering Generated Pack","Supplementaries Generated Pack","file/ldlib","file/multiblocked","file/Copycat Framed Block.zip","railways:green_signals"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
