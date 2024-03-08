@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "1d8b6bb6e93158d09d1a0288db04d67d96174b612911e82c79d2743f8f1cefee"
 
 [versions]
-forge = "40.2.9"
+forge = "40.2.17"
 minecraft = "1.18.2"
