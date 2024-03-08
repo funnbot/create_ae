@@ -1005,6 +1005,10 @@ file = "config/create-common.toml"
 hash = "c4a130a37dd81f6de8709e771a6967f5f96a07887e406d7c6d48e0f7924c7f90"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "3e99fe5a618a256eefebf59f446ea4d99d996a22666e202765c2af2c66458d7c"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "ea389fa5767bd3203429da8c405b3f2d2541a7e6f2a0d2aa051d039a2a330221"
 
@@ -1993,24 +1997,8 @@ file = "config/veinmining-client.toml"
 hash = "27f5b4ed68122e9821102ee05b32181aae2157f000fd9f8eb8f1f40e78dc75fa"
 
 [[files]]
-file = "config/vs_clockwork-client.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
-file = "config/vs_clockwork-common.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "73992ff5a806f9f29446d23cdd47a6b637a2688874584310bef97c34f675cf5d"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "cf0ae8ee8b076cf7525aec4c0b6161cda1a0f9e7d9a267ecd4d10f6e63078a3a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
