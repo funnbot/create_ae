@@ -5379,6 +5379,16 @@ hash = "5356b593744916e0d8c8a6a4b0d72281f640aa089d68abce02ed4f4391ef5b03"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "a0281aaec51e530a9b77ea1436085895b2db0521866f0a9a7d8e0040f065123b"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ce296ccceff60433f63e44102ea6d7a6af75cfc20cd86b3b2832d9c07ed23389"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
