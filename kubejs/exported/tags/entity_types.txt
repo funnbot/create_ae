@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jun 4, 2023, 12:10:44 PM
+To refresh this file, delete it and run /reload command again! Last updated: Mar 7, 2024, 8:23:14 PM
 
 #supplementaries:cage_baby_catchable
 - minecraft:cow
@@ -155,11 +155,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:trident
 - minecraft:dragon_fireball
 - minecraft:wither_skull
-- supplementaries:rope_arrow
-- supplementaries:brick_projectile
 - thermal:basalz_projectile
 - thermal:blitz_projectile
 - thermal:blizz_projectile
+- supplementaries:rope_arrow
+- supplementaries:brick_projectile
 
 #minecraft:beehive_inhabitors
 - minecraft:bee
@@ -189,14 +189,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:item
 - create:carriage_contraption
 - create:contraption
+- ars_nouveau:spell_proj
+- ars_nouveau:starbuncle
+- minecraft:minecart
 - create:stationary_contraption
 - minecraft:hopper_minecart
 - minecraft:chest_minecart
 - minecraft:furnace_minecart
 - supplementaries:dispenser_minecart
-- goldenhopper:golden_hopper_minecart
 - ars_nouveau:starbuncle
 - lootr:lootr_minecart
+- pneumaticcraft:drone
+- pneumaticcraft:amadrone
+- pneumaticcraft:logistics_drone
+- pneumaticcraft:collector_drone
+- pneumaticcraft:harvesting_drone
+- pneumaticcraft:guard_drone
 
 #starmute:ghastling_enemy
 - minecraft:ghast
@@ -221,8 +229,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - ars_nouveau:wixie
 - ars_elemental:siren_entity
 
-#ftbchunks:entity_interact_whitelist
-- corpse:corpse?
+#forge:bosses
+- minecraft:ender_dragon
+- minecraft:wither
 
 #immersive_weathering:light_freeze_immune
 - #minecraft:freeze_immune_entity_types
@@ -264,18 +273,31 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #ars_nouveau:spell_can_hit
 
+#create:blaze_burner_capturable
+- minecraft:blaze
+
+#create:ignore_seat
+
 #ars_nouveau:portal_blacklisted
 - minecraft:item
 - create:carriage_contraption
 - create:contraption
+- ars_nouveau:spell_proj
+- ars_nouveau:starbuncle
+- minecraft:minecart
 - create:stationary_contraption
 - minecraft:hopper_minecart
 - minecraft:chest_minecart
 - minecraft:furnace_minecart
 - supplementaries:dispenser_minecart
-- goldenhopper:golden_hopper_minecart
 - ars_nouveau:starbuncle
 - lootr:lootr_minecart
+- pneumaticcraft:drone
+- pneumaticcraft:amadrone
+- pneumaticcraft:logistics_drone
+- pneumaticcraft:collector_drone
+- pneumaticcraft:harvesting_drone
+- pneumaticcraft:guard_drone
 
 #farmersdelight:horse_feed_users
 - minecraft:horse
@@ -706,3 +728,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomemakeover:scuttler?
 - ars_nouveau:starbuncle?
 - ars_nouveau:whirlisprig?
+
+#farmersdelight:horse_feed_tempted
+- minecraft:horse
+- minecraft:donkey
+- minecraft:mule

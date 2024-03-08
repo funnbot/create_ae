@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jun 4, 2023, 12:10:45 PM
+To refresh this file, delete it and run /reload command again! Last updated: Mar 7, 2024, 8:23:15 PM
 
 #chipped:black_stained_glass
 - minecraft:black_stained_glass
@@ -15,6 +15,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:glass/tinted
 - minecraft:tinted_glass
+- tconstruct:clear_tinted_glass
 
 #forge:gears
 - pneumaticcraft:compressed_iron_gear
@@ -66,9 +67,29 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:iron_sheet
 - create:golden_sheet
 - createaddition:zinc_sheet
+- createaddition:electrum_sheet
 
 #forge:dyes/gray
 - minecraft:gray_dye
+
+#davebuildingmod:dyeable_steel_buffer
+- davebuildingmod:yellow_steel_buffer
+- davebuildingmod:pink_steel_buffer
+- davebuildingmod:red_steel_buffer
+- davebuildingmod:white_steel_buffer
+- davebuildingmod:green_steel_buffer
+- davebuildingmod:cyan_steel_buffer
+- davebuildingmod:gray_steel_buffer
+- davebuildingmod:light_gray_steel_buffer
+- davebuildingmod:purple_steel_buffer
+- davebuildingmod:light_blue_steel_buffer
+- davebuildingmod:magenta_steel_buffer
+- davebuildingmod:orange_steel_buffer
+- davebuildingmod:blue_steel_buffer
+- davebuildingmod:brown_steel_buffer
+- davebuildingmod:lime_steel_buffer
+- davebuildingmod:black_steel_buffer
+- davebuildingmod:steel_buffer
 
 #create:stone_types/veridium
 - create:cut_veridium
@@ -85,6 +106,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_veridium_brick_wall
 - create:layered_veridium
 - create:veridium_pillar
+- create:veridium
 
 #chipped:dark_oak_planks
 - minecraft:dark_oak_planks
@@ -242,6 +264,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_slime_leaves
 - tconstruct:ender_slime_leaves
 
+#create:crushed_raw_materials
+- create:crushed_raw_iron
+- create:crushed_raw_gold
+- create:crushed_raw_copper
+- create:crushed_raw_zinc
+- create:crushed_raw_osmium
+- create:crushed_raw_platinum
+- create:crushed_raw_silver
+- create:crushed_raw_tin
+- create:crushed_raw_lead
+- create:crushed_raw_quicksilver
+- create:crushed_raw_aluminum
+- create:crushed_raw_uranium
+- create:crushed_raw_nickel
+
 #fabric:axes
 - byg:pendorite_axe
 - byg:pendorite_battleaxe
@@ -334,6 +371,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:ores/redstone
 - #minecraft:redstone_ores
 - #minecraft:redstone_ores
+- #minecraft:redstone_ores
 - byg:cryptic_redstone_ore
 
 #chipped:white_carpet
@@ -386,6 +424,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:oak_trapdoor_10
 - chipped:oak_trapdoor_11
 
+#farmersdelight:flat_on_cutting_board
+- minecraft:trident
+- minecraft:spyglass
+- supplementaries:quiver?
+- autumnity:turkey?
+- autumnity:cooked_turkey?
+
 #railways:internal/dyes/magenta_dyes
 - #c:magenta_dyes?
 - #forge:dyes/magenta?
@@ -427,6 +472,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:purple_glazed_terracotta_9
 - chipped:purple_glazed_terracotta_10
 - chipped:purple_glazed_terracotta_11
+
+#davebuildingmod:dyeable_steel_steam_exhaust_tag
+- davebuildingmod:yellow_steel_steam_exhaust
+- davebuildingmod:light_gray_steel_steam_exhaust
+- davebuildingmod:blue_steel_steam_exhaust
+- davebuildingmod:purple_steel_steam_exhaust
+- davebuildingmod:lime_steel_steam_exhaust
+- davebuildingmod:magenta_steel_steam_exhaust
+- davebuildingmod:light_blue_steel_steam_exhaust
+- davebuildingmod:orange_steel_steam_exhaust
+- davebuildingmod:brown_steel_steam_exhaust
+- davebuildingmod:green_steel_steam_exhaust
+- davebuildingmod:steel_steam_exhaust
+- davebuildingmod:pink_steel_steam_exhaust
+- davebuildingmod:gray_steel_steam_exhaust
+- davebuildingmod:black_steel_steam_exhaust
+- davebuildingmod:red_steel_steam_exhaust
+- davebuildingmod:white_steel_steam_exhaust
+- davebuildingmod:cyan_steel_steam_exhaust
 
 #forge:ingots/pig_iron
 - tconstruct:pig_iron_ingot
@@ -545,11 +609,46 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:cobblestone/infested
 - minecraft:infested_cobblestone
 
+#davebuildingmod:dyeable_steel_wall_tag
+- davebuildingmod:lime_steel_wall
+- davebuildingmod:white_steel_wall
+- davebuildingmod:blue_steel_wall
+- davebuildingmod:gray_steel_wall
+- davebuildingmod:steel_wall
+- davebuildingmod:green_steel_wall
+- davebuildingmod:brown_steel_wall
+- davebuildingmod:red_steel_wall
+- davebuildingmod:light_blue_steel_wall
+- davebuildingmod:black_steel_wall
+- davebuildingmod:pink_steel_wall
+- davebuildingmod:magenta_steel_wall
+- davebuildingmod:orange_steel_wall
+- davebuildingmod:purple_steel_wall
+- davebuildingmod:cyan_steel_wall
+- davebuildingmod:yellow_steel_wall
+- davebuildingmod:light_gray_steel_wall
+
 #forge:ingots/arcane_gold
 - forbidden_arcanus:arcane_gold_ingot
 
 #forge:storage_blocks/lapis
 - minecraft:lapis_block
+
+#forge:armors/helmets
+- minecraft:leather_helmet
+- minecraft:turtle_helmet
+- minecraft:chainmail_helmet
+- minecraft:iron_helmet
+- minecraft:golden_helmet
+- minecraft:diamond_helmet
+- minecraft:netherite_helmet
+- epicsamurai:red_samurai_helmet
+- epicsamurai:blue_samurai_helmet
+- epicsamurai:gray_samurai_helmet
+- epicsamurai:green_samurai_helmet
+- epicsamurai:white_samurai_helmet
+- create:copper_diving_helmet
+- create:netherite_diving_helmet
 
 #dramaticdoors:categories/tall_darkerdepths_doors
 - dramaticdoors:tall_petrified_door
@@ -692,6 +791,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #tconstruct:casts/multi_use/coin
 - tconstruct:coin_cast
 
+#tconstruct:modifiable/book_armor/mighty_smelting
+
 #functionalstorage:ignore_crafting_check
 - minecraft:clay
 - minecraft:clay_ball
@@ -730,6 +831,18 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:cyan_concrete_19
 - chipped:cyan_concrete_20
 - chipped:cyan_concrete_21
+
+#davebuildingmod:yellow_asciis
+- davebuildingmod:thomas_ascii_1
+- davebuildingmod:thomas_ascii_0
+- davebuildingmod:thomas_ascii_3
+- davebuildingmod:thomas_ascii_2
+- davebuildingmod:thomas_ascii_9
+- davebuildingmod:thomas_ascii_8
+- davebuildingmod:thomas_ascii_5
+- davebuildingmod:thomas_ascii_4
+- davebuildingmod:thomas_ascii_7
+- davebuildingmod:thomas_ascii_6
 
 #forge:shields
 - minecraft:shield
@@ -869,6 +982,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:raw_materials/iron
 - minecraft:raw_iron
 - minecraft:raw_iron
+- minecraft:raw_iron
+
+#forge:ores/jade
+- epicsamurai:jade_ore
+- epicsamurai:deepslate_jade_ore
 
 #forge:slimeball/ender
 - tconstruct:ender_slime_ball
@@ -951,6 +1069,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:music_disc_pigstep
 - minecraft:music_disc_otherside
 - biomesoplenty:music_disc_wanderer
+- create_connected:music_disc_elevator
+- create_connected:music_disc_interlude
 - quark:music_disc_endermosh
 - quark:music_disc_drips
 - quark:music_disc_ocean
@@ -1007,6 +1127,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_diorite_brick_wall
 - create:layered_diorite
 - create:diorite_pillar
+- minecraft:diorite
 
 #forge:dyes/light_gray
 - minecraft:light_gray_dye
@@ -1020,6 +1141,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:milk_bucket
 
 #forge:ingots/copper
+- minecraft:copper_ingot
 - minecraft:copper_ingot
 - minecraft:copper_ingot
 - minecraft:copper_ingot
@@ -1267,8 +1389,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:nuggets/netherite
 - thermal:netherite_nugget
-- tconstruct:netherite_nugget
 - createdeco:netherite_nugget
+- tconstruct:netherite_nugget
 
 #dramaticdoors:categories/short_abnormals_doors
 - dramaticdoors:short_aspen_door?
@@ -1422,6 +1544,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:gems/apatite
 - thermal:apatite
 
+#davebuildingmod:dyeable_steel_stair_tag
+- davebuildingmod:orange_steel_stairs
+- davebuildingmod:black_steel_stairs
+- davebuildingmod:light_gray_steel_stairs
+- davebuildingmod:steel_stairs
+- davebuildingmod:pink_steel_stairs
+- davebuildingmod:light_blue_steel_stairs
+- davebuildingmod:white_steel_stairs
+- davebuildingmod:purple_steel_stairs
+- davebuildingmod:cyan_steel_stairs
+- davebuildingmod:gray_steel_stairs
+- davebuildingmod:lime_steel_stairs
+- davebuildingmod:red_steel_stairs
+- davebuildingmod:green_steel_stairs
+- davebuildingmod:blue_steel_stairs
+- davebuildingmod:yellow_steel_stairs
+- davebuildingmod:brown_steel_stairs
+- davebuildingmod:magenta_steel_stairs
+
 #forge:storage_blocks/raw_gold
 - minecraft:raw_gold_block
 
@@ -1433,6 +1574,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:storage_blocks/silver
 - thermal:silver_block
+
+#forge:nuggets/all_metal
+- createaddition:electrum_nugget
 
 #dramaticdoors:categories/short_malum_doors
 - dramaticdoors:short_runewood_door?
@@ -1446,6 +1590,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:nuggets/knightslime
 - tconstruct:knightslime_nugget
+
+#tconstruct:modifiable/book_armor/puny_smelting
+- tconstruct:travelers_helmet
+- tconstruct:travelers_chestplate
+- tconstruct:travelers_leggings
+- tconstruct:travelers_boots
+- tconstruct:travelers_shield
 
 #forge:nuggets/zinc
 - create:zinc_nugget
@@ -1462,6 +1613,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:blue_stained_glass_pane_8
 - chipped:blue_stained_glass_pane_9
 - chipped:blue_stained_glass_pane_10
+
+#forge:armors/leggings
+- minecraft:leather_leggings
+- minecraft:chainmail_leggings
+- minecraft:iron_leggings
+- minecraft:golden_leggings
+- minecraft:diamond_leggings
+- minecraft:netherite_leggings
+- epicsamurai:red_samurai_leggings
+- epicsamurai:blue_samurai_leggings
+- epicsamurai:gray_samurai_leggings
+- epicsamurai:green_samurai_leggings
+- epicsamurai:white_samurai_leggings
 
 #forge:chests/wooden
 - minecraft:chest
@@ -1504,6 +1668,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 - #tconstruct:modifiable/armor/boots
 
 #dramaticdoors:categories/tall_vanilla_doors
@@ -1687,6 +1852,83 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - infernalexp:soul_slate_slab
 - infernalexp:soul_stone_brick_slab
 - infernalexp:soul_slate_brick_slab
+- biomesoplenty:black_sandstone_slab
+- biomesoplenty:cut_black_sandstone_slab
+- biomesoplenty:smooth_black_sandstone_slab
+- biomesoplenty:orange_sandstone_slab
+- biomesoplenty:cut_orange_sandstone_slab
+- biomesoplenty:smooth_orange_sandstone_slab
+- biomesoplenty:white_sandstone_slab
+- biomesoplenty:cut_white_sandstone_slab
+- biomesoplenty:smooth_white_sandstone_slab
+- biomesoplenty:mud_brick_slab
+- biomesoplenty:fir_slab
+- biomesoplenty:redwood_slab
+- biomesoplenty:cherry_slab
+- biomesoplenty:mahogany_slab
+- biomesoplenty:jacaranda_slab
+- biomesoplenty:palm_slab
+- biomesoplenty:willow_slab
+- biomesoplenty:dead_slab
+- biomesoplenty:magic_slab
+- biomesoplenty:umbran_slab
+- biomesoplenty:hellbark_slab
+- framedblocks:framed_slab
+- #pneumaticcraft:slabs
+- alloyed:steel_sheet_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:dacite_cobblestone_slab
+- byg:mossy_stone_slab
+- byg:rocky_stone_slab
+- byg:scoria_stone_slab
+- byg:scoria_cobblestone_slab
+- byg:scoria_stonebrick_slab
+- byg:soapstone_slab
+- byg:polished_soapstone_slab
+- byg:soapstone_brick_slab
+- byg:soapstone_tile_slab
+- byg:red_rock_slab
+- byg:red_rock_brick_slab
+- byg:mossy_red_rock_brick_slab
+- byg:cracked_red_rock_brick_slab
+- byg:chiseled_red_rock_brick_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:ether_stone_slab
+- byg:cobbled_ether_stone_slab
+- byg:carved_ether_stone_slab
+- byg:purpur_stone_slab
+- byg:imparius_slab
+- byg:chiseled_fungal_imparius_slab
+- byg:windswept_sandstone_slab
+- byg:cut_windswept_sandstone_slab
+- byg:chiseled_windswept_sandstone_slab
+- byg:smooth_windswept_sandstone_slab
 - architects_palette:abyssaline_brick_slab
 - architects_palette:abyssaline_tile_slab
 - architects_palette:hadaline_brick_slab
@@ -1749,36 +1991,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - architects_palette:oracle_tile_slab
 - architects_palette:cerebral_slab
 - architects_palette:cerebral_tile_slab
-- biomesoplenty:black_sandstone_slab
-- biomesoplenty:cut_black_sandstone_slab
-- biomesoplenty:smooth_black_sandstone_slab
-- biomesoplenty:orange_sandstone_slab
-- biomesoplenty:cut_orange_sandstone_slab
-- biomesoplenty:smooth_orange_sandstone_slab
-- biomesoplenty:white_sandstone_slab
-- biomesoplenty:cut_white_sandstone_slab
-- biomesoplenty:smooth_white_sandstone_slab
-- biomesoplenty:mud_brick_slab
-- biomesoplenty:fir_slab
-- biomesoplenty:redwood_slab
-- biomesoplenty:cherry_slab
-- biomesoplenty:mahogany_slab
-- biomesoplenty:jacaranda_slab
-- biomesoplenty:palm_slab
-- biomesoplenty:willow_slab
-- biomesoplenty:dead_slab
-- biomesoplenty:magic_slab
-- biomesoplenty:umbran_slab
-- biomesoplenty:hellbark_slab
-- framedblocks:framed_slab
-- #pneumaticcraft:slabs
 - ars_nouveau:archwood_slab
-- supplementaries:checker_slab
-- supplementaries:stone_tile_slab
-- supplementaries:blackstone_tile_slab
-- supplementaries:ash_bricks_slab
-- supplementaries:lapis_bricks_slab
-- alloyed:steel_sheet_slab
 - create:cut_granite_slab
 - create:polished_cut_granite_slab
 - create:cut_granite_brick_slab
@@ -1835,6 +2048,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:polished_cut_veridium_slab
 - create:cut_veridium_brick_slab
 - create:small_veridium_brick_slab
+- supplementaries:checker_slab
+- supplementaries:stone_tile_slab
+- supplementaries:blackstone_tile_slab
+- supplementaries:ash_bricks_slab
+- supplementaries:lapis_bricks_slab
 - quark:andesite_bricks_slab
 - quark:azalea_planks_slab
 - quark:blackstone_bricks_slab
@@ -1897,59 +2115,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - quark:tuff_slab
 - quark:white_shingles_slab
 - quark:yellow_shingles_slab
-- byg:aspen_slab
-- byg:baobab_slab
-- byg:blue_enchanted_slab
-- byg:cherry_slab
-- byg:cika_slab
-- byg:cypress_slab
-- byg:ebony_slab
-- byg:fir_slab
-- byg:green_enchanted_slab
-- byg:holly_slab
-- byg:jacaranda_slab
-- byg:mahogany_slab
-- byg:mangrove_slab
-- byg:maple_slab
-- byg:pine_slab
-- byg:rainbow_eucalyptus_slab
-- byg:redwood_slab
-- byg:skyris_slab
-- byg:willow_slab
-- byg:witch_hazel_slab
-- byg:zelkova_slab
-- byg:dacite_cobblestone_slab
-- byg:mossy_stone_slab
-- byg:rocky_stone_slab
-- byg:scoria_stone_slab
-- byg:scoria_cobblestone_slab
-- byg:scoria_stonebrick_slab
-- byg:soapstone_slab
-- byg:polished_soapstone_slab
-- byg:soapstone_brick_slab
-- byg:soapstone_tile_slab
-- byg:red_rock_slab
-- byg:red_rock_brick_slab
-- byg:mossy_red_rock_brick_slab
-- byg:cracked_red_rock_brick_slab
-- byg:chiseled_red_rock_brick_slab
-- byg:sythian_slab
-- byg:embur_slab
-- byg:palm_slab
-- byg:lament_slab
-- byg:ether_slab
-- byg:bulbis_slab
-- byg:nightshade_slab
-- byg:ether_stone_slab
-- byg:cobbled_ether_stone_slab
-- byg:carved_ether_stone_slab
-- byg:purpur_stone_slab
-- byg:imparius_slab
-- byg:chiseled_fungal_imparius_slab
-- byg:windswept_sandstone_slab
-- byg:cut_windswept_sandstone_slab
-- byg:chiseled_windswept_sandstone_slab
-- byg:smooth_windswept_sandstone_slab
 - forbidden_arcanus:darkstone_slab
 - forbidden_arcanus:polished_darkstone_slab
 - forbidden_arcanus:polished_darkstone_brick_slab
@@ -1966,22 +2131,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - alloyed:steel_sheet
 
 #create:casing
-- create_crystal_clear:andesite_glass_casing
-- create_crystal_clear:brass_glass_casing
-- create_crystal_clear:copper_glass_casing
-- create_crystal_clear:train_glass_casing
-- create_crystal_clear:andesite_clear_glass_casing
-- create_crystal_clear:brass_clear_glass_casing
-- create_crystal_clear:copper_clear_glass_casing
-- create_crystal_clear:train_clear_glass_casing
-- create_crystal_clear:steel_glass_casing
-- create_crystal_clear:steel_tinted_glass_casing
+- alloyed:steel_casing
 - create:andesite_casing
 - create:brass_casing
 - create:copper_casing
 - create:shadow_steel_casing
 - create:refined_radiance_casing
 - create:railway_casing
+- create_crystal_clear:andesite_clear_glass_casing
+- create_crystal_clear:brass_clear_glass_casing
+- create_crystal_clear:copper_clear_glass_casing
+- create_crystal_clear:train_clear_glass_casing
+- create_crystal_clear:andesite_glass_casing
+- create_crystal_clear:brass_glass_casing
+- create_crystal_clear:copper_glass_casing
+- create_crystal_clear:train_glass_casing
+- cae:gold_casing
+- cae:zinc_casing
+- cae:enderium_casing
+- cae:supercritical_casing
 
 #minecraft:smooth_stones
 - minecraft:smooth_stone
@@ -2065,7 +2233,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_pressure_plate
 - minecraft:crimson_pressure_plate
 - minecraft:warped_pressure_plate
-- architects_palette:twisted_pressure_plate
 - biomesoplenty:fir_pressure_plate
 - biomesoplenty:redwood_pressure_plate
 - biomesoplenty:cherry_pressure_plate
@@ -2077,10 +2244,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_pressure_plate
 - biomesoplenty:umbran_pressure_plate
 - biomesoplenty:hellbark_pressure_plate
-- ars_nouveau:archwood_pressure_plate
-- tconstruct:greenheart_pressure_plate
-- tconstruct:skyroot_pressure_plate
-- tconstruct:bloodshroom_pressure_plate
 - byg:aspen_pressure_plate
 - byg:baobab_pressure_plate
 - byg:blue_enchanted_pressure_plate
@@ -2110,6 +2273,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_pressure_plate
 - byg:nightshade_pressure_plate
 - byg:imparius_pressure_plate
+- architects_palette:twisted_pressure_plate
+- ars_nouveau:archwood_pressure_plate
+- tconstruct:greenheart_pressure_plate
+- tconstruct:skyroot_pressure_plate
+- tconstruct:bloodshroom_pressure_plate
 - forbidden_arcanus:fungyss_pressure_plate
 - forbidden_arcanus:cherrywood_pressure_plate
 - forbidden_arcanus:mysterywood_pressure_plate
@@ -2209,26 +2377,29 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #tconstruct:seared_blocks
 - #tconstruct:seared_tanks
 - tconstruct:smeltery_controller
+- tconstruct:seared_ladder
 - tconstruct:seared_drain
 - tconstruct:seared_chute
 - tconstruct:seared_duct
 - tconstruct:seared_glass
-- tconstruct:seared_ladder
+- tconstruct:seared_soul_glass
+- tconstruct:seared_tinted_glass
 
 #c:ores/pendorite
 - byg:pendorite_ore
 
 #create:pressurized_air_sources
 - create:copper_backtank
+- create:netherite_backtank
 
 #forge:hoes
+- byg:pendorite_hoe
 - minecraft:wooden_hoe
 - minecraft:stone_hoe
 - minecraft:iron_hoe
 - minecraft:golden_hoe
 - minecraft:diamond_hoe
 - minecraft:netherite_hoe
-- byg:pendorite_hoe
 
 #minecraft:cluster_max_harvestables
 - minecraft:diamond_pickaxe
@@ -2545,6 +2716,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:ores/netherite_scrap
 - minecraft:ancient_debris
+- minecraft:ancient_debris
 
 #forge:fiber/flax
 - supplementaries:flax
@@ -2658,13 +2830,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:special_lantern_4
 
 #forge:shovels
+- byg:pendorite_shovel
 - minecraft:wooden_shovel
 - minecraft:stone_shovel
 - minecraft:iron_shovel
 - minecraft:golden_shovel
 - minecraft:diamond_shovel
 - minecraft:netherite_shovel
-- byg:pendorite_shovel
 
 #balm:iron_ingots
 - #forge:ingots/iron?
@@ -2818,11 +2990,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_limestone_brick_wall
 - create:layered_limestone
 - create:limestone_pillar
+- create:limestone
 
 #tconstruct:modifiable/staffs
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 
 #forge:storage_blocks/lumium
 - thermal:lumium_block
@@ -2966,7 +3140,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_sapling
 - minecraft:azalea
 - minecraft:flowering_azalea
-- architects_palette:twisted_sapling
 - biomesoplenty:origin_sapling
 - biomesoplenty:flowering_oak_sapling
 - biomesoplenty:rainbow_birch_sapling
@@ -2985,19 +3158,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_sapling
 - biomesoplenty:umbran_sapling
 - biomesoplenty:hellbark_sapling
-- ars_nouveau:red_archwood_sapling
-- ars_nouveau:blue_archwood_sapling
-- ars_nouveau:green_archwood_sapling
-- ars_nouveau:purple_archwood_sapling
-- #tconstruct:slimy_saplings
 - integrateddynamics:menril_sapling
-- quark:blue_blossom_sapling
-- quark:lavender_blossom_sapling
-- quark:orange_blossom_sapling
-- quark:pink_blossom_sapling
-- quark:yellow_blossom_sapling
-- quark:red_blossom_sapling
-- ars_elemental:yellow_archwood_sapling
 - byg:aspen_sapling
 - byg:baobab_sapling
 - byg:blue_enchanted_sapling
@@ -3042,10 +3203,24 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:withering_oak_sapling
 - byg:ether_sapling
 - byg:nightshade_sapling
+- architects_palette:twisted_sapling
+- ars_nouveau:red_archwood_sapling
+- ars_nouveau:blue_archwood_sapling
+- ars_nouveau:green_archwood_sapling
+- ars_nouveau:purple_archwood_sapling
+- #tconstruct:slimy_saplings
+- quark:blue_blossom_sapling
+- quark:lavender_blossom_sapling
+- quark:orange_blossom_sapling
+- quark:pink_blossom_sapling
+- quark:yellow_blossom_sapling
+- quark:red_blossom_sapling
+- ars_elemental:yellow_archwood_sapling
 - forbidden_arcanus:cherrywood_sapling
 - forbidden_arcanus:mysterywood_sapling
 
 #forge:ores/copper
+- #minecraft:copper_ores
 - #minecraft:copper_ores
 - #minecraft:copper_ores
 
@@ -3079,7 +3254,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:jungle_fence
 - minecraft:crimson_fence
 - minecraft:warped_fence
-- architects_palette:twisted_fence
 - biomesoplenty:fir_fence
 - biomesoplenty:redwood_fence
 - biomesoplenty:cherry_fence
@@ -3091,13 +3265,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_fence
 - biomesoplenty:umbran_fence
 - biomesoplenty:hellbark_fence
-- ars_nouveau:archwood_fence
-- tconstruct:greenheart_fence
-- tconstruct:skyroot_fence
-- tconstruct:bloodshroom_fence
 - integrateddynamics:menril_fence
-- quark:azalea_fence
-- quark:blossom_fence
 - byg:aspen_fence
 - byg:baobab_fence
 - byg:blue_enchanted_fence
@@ -3127,6 +3295,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_fence
 - byg:nightshade_fence
 - byg:imparius_fence
+- architects_palette:twisted_fence
+- ars_nouveau:archwood_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+- quark:azalea_fence
+- quark:blossom_fence
 - forbidden_arcanus:fungyss_fence
 - forbidden_arcanus:cherrywood_fence
 - forbidden_arcanus:mysterywood_fence
@@ -3178,12 +3353,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:gold_ore
 - minecraft:iron_ore
 - minecraft:nether_quartz_ore
-- tconstruct:cobalt_ore
 - byg:ametrine_ore
 - byg:budding_ametrine_ore
 - byg:anthracite_ore
 - byg:emeraldite_ore
 - byg:pendorite_ore
+- tconstruct:cobalt_ore
 
 #chipped:calcite
 - minecraft:calcite
@@ -3261,6 +3436,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - thermal:niter
 
 #forge:raw_materials/copper
+- minecraft:raw_copper
 - minecraft:raw_copper
 - minecraft:raw_copper
 
@@ -3481,6 +3657,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:black_rose
 
 #forge:ores/ruby
+- epicsamurai:ruby_ore
+- epicsamurai:deepslate_ruby_ore
 - thermal:ruby_ore
 - thermal:deepslate_ruby_ore
 
@@ -3488,12 +3666,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - framedblocks:framed_wrench
 - pneumaticcraft:pneumatic_wrench
 - thermal:wrench
+- integrateddynamics:wrench
+- create:wrench
 - ae2:certus_quartz_wrench
 - ae2:nether_quartz_wrench
 - ae2:network_tool
 - immersiveengineering:hammer?
-- create:wrench
-- integrateddynamics:wrench
 
 #forge:blackstone
 - minecraft:blackstone
@@ -3653,7 +3831,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - supplementaries:hanging_sign_dark_oak
 - supplementaries:hanging_sign_crimson
 - supplementaries:hanging_sign_warped
-- supplementaries:architects_palette/hanging_sign_twisted
 - supplementaries:biomesoplenty/hanging_sign_fir
 - supplementaries:biomesoplenty/hanging_sign_redwood
 - supplementaries:biomesoplenty/hanging_sign_cherry
@@ -3665,12 +3842,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - supplementaries:biomesoplenty/hanging_sign_magic
 - supplementaries:biomesoplenty/hanging_sign_umbran
 - supplementaries:biomesoplenty/hanging_sign_hellbark
-- supplementaries:tconstruct/hanging_sign_greenheart
-- supplementaries:tconstruct/hanging_sign_skyroot
-- supplementaries:tconstruct/hanging_sign_bloodshroom
 - supplementaries:integrateddynamics/hanging_sign_menril
-- supplementaries:quark/hanging_sign_azalea
-- supplementaries:quark/hanging_sign_blossom
 - supplementaries:byg/hanging_sign_aspen
 - supplementaries:byg/hanging_sign_baobab
 - supplementaries:byg/hanging_sign_blue_enchanted
@@ -3699,6 +3871,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - supplementaries:byg/hanging_sign_nightshade
 - supplementaries:byg/hanging_sign_ether
 - supplementaries:byg/hanging_sign_imparius
+- supplementaries:architects_palette/hanging_sign_twisted
+- supplementaries:tconstruct/hanging_sign_greenheart
+- supplementaries:tconstruct/hanging_sign_skyroot
+- supplementaries:tconstruct/hanging_sign_bloodshroom
+- supplementaries:quark/hanging_sign_blossom
+- supplementaries:quark/hanging_sign_azalea
 - supplementaries:forbidden_arcanus/hanging_sign_fungyss
 - supplementaries:forbidden_arcanus/hanging_sign_cherrywood
 - supplementaries:forbidden_arcanus/hanging_sign_mysterywood
@@ -3812,7 +3990,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:dough
 
 #forge:stone
-- architects_palette:myonite
 - #pneumaticcraft:reinforced_stone
 - #pneumaticcraft:compressed_stone
 - minecraft:andesite
@@ -3827,16 +4004,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:polished_deepslate
 - minecraft:infested_deepslate
 - minecraft:tuff
-- quark:jasper
-- quark:limestone
-- quark:permafrost
-- quark:shale
-- quark:myalite
-- quark:polished_jasper
-- quark:polished_limestone
-- quark:polished_calcite
-- quark:polished_shale
-- quark:polished_myalite
 - byg:soapstone
 - byg:scoria_stone
 - byg:dacite
@@ -3848,6 +4015,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:podzol_dacite
 - byg:red_rock
 - byg:ether_stone
+- architects_palette:myonite
+- quark:jasper
+- quark:limestone
+- quark:permafrost
+- quark:shale
+- quark:myalite
+- quark:polished_jasper
+- quark:polished_limestone
+- quark:polished_calcite
+- quark:polished_shale
+- quark:polished_myalite
 - forbidden_arcanus:darkstone
 
 #chipped:pumpkin
@@ -3892,6 +4070,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:gems/lapis
 - minecraft:lapis_lazuli
+- minecraft:lapis_lazuli
 
 #forge:gunpowder
 - minecraft:gunpowder
@@ -3927,6 +4106,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:stripped_cherry_log
 - biomesoplenty:stripped_cherry_wood
 
+#epicsamurai:armors/gem_samurai_armor_chestplate
+- epicsamurai:diamond_samurai_chestplate
+- epicsamurai:red_samurai_chestplate
+- epicsamurai:blue_samurai_chestplate
+- epicsamurai:gray_samurai_chestplate
+- epicsamurai:green_samurai_chestplate
+
 #chipped:stripped_acacia_log
 - minecraft:stripped_acacia_log
 - chipped:stripped_acacia_log_1
@@ -3961,19 +4147,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:stripped_palm_wood
 
 #forge:crops
-- #forge:crops/cabbage
-- #forge:crops/onion
-- #forge:crops/rice
-- #forge:crops/tomato
 - #forge:crops/beetroot
 - #forge:crops/carrot
 - #forge:crops/nether_wart
 - #forge:crops/potato
 - #forge:crops/wheat
-- supplementaries:flax
 - byg:blueberries
 - byg:green_apple
 - byg:crimson_berries
+- #forge:crops/cabbage
+- #forge:crops/onion
+- #forge:crops/rice
+- #forge:crops/tomato
+- supplementaries:flax
 
 #forge:ore_bearing_ground/netherrack
 - minecraft:netherrack
@@ -4072,6 +4258,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:lingering_potion
 - minecraft:enchanted_book
 - minecraft:tipped_arrow
+- custommachinery:custom_machine_item
 
 #minecraft:birch_logs
 - minecraft:birch_log
@@ -4218,21 +4405,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:cooked_mutton
 
 #forge:bread
-- #forge:bread/wheat
 - pneumaticcraft:sourdough_bread
+- #forge:bread/wheat
 
 #curios:belt
 - integratedterminals:terminal_storage_portable
+- thermal:satchel
+- thermal:potion_quiver
+- ars_nouveau:belt_of_levitation
+- ars_nouveau:belt_of_unstable_gifts
 - artifacts:antidote_vessel
 - artifacts:cloud_in_a_bottle
 - artifacts:crystal_heart
 - artifacts:obsidian_skull
 - artifacts:universal_attractor
 - artifacts:helium_flamingo
-- ars_nouveau:belt_of_levitation
-- ars_nouveau:belt_of_unstable_gifts
-- thermal:satchel
-- thermal:potion_quiver
 - reliquary:mob_charm_belt
 
 #forge:storage_blocks/slimesteel
@@ -4489,7 +4676,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_fence_gate
 - biomesoplenty:umbran_fence_gate
 - biomesoplenty:hellbark_fence_gate
-- ars_nouveau:archwood_fence_gate
 - minecraft:oak_fence_gate
 - minecraft:spruce_fence_gate
 - minecraft:birch_fence_gate
@@ -4498,11 +4684,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_fence_gate
 - minecraft:crimson_fence_gate
 - minecraft:warped_fence_gate
-- tconstruct:greenheart_fence_gate
-- tconstruct:skyroot_fence_gate
-- tconstruct:bloodshroom_fence_gate
-- quark:azalea_fence_gate
-- quark:blossom_fence_gate
 - byg:aspen_fence_gate
 - byg:baobab_fence_gate
 - byg:blue_enchanted_fence_gate
@@ -4532,6 +4713,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_fence_gate
 - byg:nightshade_fence_gate
 - byg:imparius_fence_gate
+- ars_nouveau:archwood_fence_gate
+- tconstruct:greenheart_fence_gate
+- tconstruct:skyroot_fence_gate
+- tconstruct:bloodshroom_fence_gate
+- quark:azalea_fence_gate
+- quark:blossom_fence_gate
 - forbidden_arcanus:fungyss_fence_gate
 - forbidden_arcanus:cherrywood_fence_gate
 - forbidden_arcanus:mysterywood_fence_gate
@@ -4570,7 +4757,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:cyan_glazed_terracotta_11
 
 #sereneseasons:spring_crops
-- farmersdelight:onion
 - biomesoplenty:origin_sapling
 - biomesoplenty:flowering_oak_sapling
 - biomesoplenty:rainbow_birch_sapling
@@ -4592,6 +4778,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:clover
 - biomesoplenty:toadstool
 - biomesoplenty:glowshroom
+- farmersdelight:onion
 - supplementaries:flax
 
 #forge:torches
@@ -4766,6 +4953,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 - tconstruct:travelers_boots
 - tconstruct:travelers_leggings
 - tconstruct:travelers_chestplate
@@ -4782,56 +4970,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:plate_shield
 
 #curios:curio
-- artifacts:whoopee_cushion
 - pneumaticcraft:memory_stick
+- artifacts:whoopee_cushion
 - supplementaries:key
 
 #curios:back
-- travelersbackpack:standard
-- travelersbackpack:netherite
-- travelersbackpack:diamond
-- travelersbackpack:gold
-- travelersbackpack:emerald
-- travelersbackpack:iron
-- travelersbackpack:lapis
-- travelersbackpack:redstone
-- travelersbackpack:coal
-- travelersbackpack:quartz
-- travelersbackpack:bookshelf
-- travelersbackpack:end
-- travelersbackpack:nether
-- travelersbackpack:sandstone
-- travelersbackpack:snow
-- travelersbackpack:sponge
-- travelersbackpack:cake
-- travelersbackpack:cactus
-- travelersbackpack:hay
-- travelersbackpack:melon
-- travelersbackpack:pumpkin
-- travelersbackpack:creeper
-- travelersbackpack:dragon
-- travelersbackpack:enderman
-- travelersbackpack:blaze
-- travelersbackpack:ghast
-- travelersbackpack:magma_cube
-- travelersbackpack:skeleton
-- travelersbackpack:spider
-- travelersbackpack:wither
-- travelersbackpack:bat
-- travelersbackpack:bee
-- travelersbackpack:wolf
-- travelersbackpack:fox
-- travelersbackpack:ocelot
-- travelersbackpack:horse
-- travelersbackpack:cow
-- travelersbackpack:pig
-- travelersbackpack:sheep
-- travelersbackpack:chicken
-- travelersbackpack:squid
-- travelersbackpack:villager
-- travelersbackpack:iron_golem
 - thermal:satchel
 - thermal:potion_quiver
+- sophisticatedbackpacks:backpack
+- sophisticatedbackpacks:copper_backpack
+- sophisticatedbackpacks:iron_backpack
+- sophisticatedbackpacks:gold_backpack
+- sophisticatedbackpacks:diamond_backpack
+- sophisticatedbackpacks:netherite_backpack
 
 #forge:storage_blocks/diamond
 - minecraft:diamond_block
@@ -5098,6 +5249,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:magenta_clear_stained_glass_pane
 
 #forge:nuggets
+- #forge:nuggets/gold
+- #forge:nuggets/iron
+- #forge:nuggets/silver
+- #forge:nuggets/steel
 - #forge:nuggets/iron
 - #forge:nuggets/gold
 - #forge:nuggets/copper
@@ -5115,6 +5270,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:nuggets/invar
 - #forge:nuggets/rose_gold
 - #forge:nuggets/steel
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+- create:experience_nugget
 - #forge:nuggets/copper
 - #forge:nuggets/netherite
 - #forge:nuggets/netherite_scrap
@@ -5128,12 +5287,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:nuggets/hepatizon
 - #forge:nuggets/soulsteel
 - #forge:nuggets/knightslime
-- create:copper_nugget
-- create:zinc_nugget
-- create:brass_nugget
-- create:experience_nugget
 - #forge:nuggets/arcane_gold
 - #forge:nuggets/ender_pearl
+- createaddition:electrum_nugget
 
 #chipped:light_blue_concrete
 - minecraft:light_blue_concrete
@@ -5182,6 +5338,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:nuggets/electrum
 - thermal:electrum_nugget
+- createaddition:electrum_nugget
 
 #forge:plates/netherite
 - thermal:netherite_plate
@@ -5225,6 +5382,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #create:upright_on_belt
 - farmersdelight:milk_bottle
 - farmersdelight:hot_cocoa
+- farmersdelight:apple_cider
+- farmersdelight:melon_juice
 - farmersdelight:pie_crust
 - farmersdelight:apple_pie
 - farmersdelight:sweet_berry_cheesecake
@@ -5746,6 +5905,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #tconstruct:casts/single_use/bow_grip
 
 #tconstruct:seeds
+- farmersdelight:onion
 - #forge:seeds
 - minecraft:carrot
 - minecraft:potato
@@ -5770,6 +5930,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #balm:cyan_dyes
 - #forge:dyes/cyan?
 - minecraft:cyan_dye
+
+#tconstruct:modifiable/book_armor/fantastic_foundry
+- tconstruct:plate_helmet
+- tconstruct:plate_chestplate
+- tconstruct:plate_leggings
+- tconstruct:plate_boots
+- tconstruct:plate_shield
 
 #thermal:crafting/casts
 - thermal:chiller_ball_cast
@@ -6075,6 +6242,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:ores/diamond
 - #minecraft:diamond_ores
 - #minecraft:diamond_ores
+- #minecraft:diamond_ores
 
 #forge:ingots/manyullyn
 - tconstruct:manyullyn_ingot
@@ -6082,6 +6250,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #minecraft:doors
 - #minecraft:wooden_doors
 - minecraft:iron_door
+- framedblocks:framed_door
+- framedblocks:framed_iron_door
+- #pneumaticcraft:doors
+- integrateddynamics:menril_door
 - #chipped:acacia_door
 - #chipped:birch_door
 - #chipped:dark_oak_door
@@ -6090,23 +6262,65 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #chipped:spruce_door
 - #chipped:crimson_door
 - #chipped:warped_door
-- framedblocks:framed_door
-- framedblocks:framed_iron_door
-- #pneumaticcraft:doors
 - ars_nouveau:archwood_door
+- create:andesite_door
+- create:brass_door
+- create:copper_door
+- create:train_door
+- create:framed_glass_door
 - supplementaries:gold_door
 - supplementaries:netherite_door
 - supplementaries:silver_door
 - supplementaries:lead_door
-- create:train_door
-- create:framed_glass_door
-- integrateddynamics:menril_door
 - quark:azalea_door
 - quark:blossom_door
 - forbidden_arcanus:arcane_gold_door
 
 #forge:ingots/knightslime
 - tconstruct:knightslime_ingot
+
+#davebuildingmod:white_asciis
+- davebuildingmod:ascii_z
+- davebuildingmod:ascii_x
+- davebuildingmod:ascii_y
+- davebuildingmod:ascii_dash
+- davebuildingmod:ascii_and
+- davebuildingmod:ascii_n
+- davebuildingmod:ascii_o
+- davebuildingmod:ascii_l
+- davebuildingmod:ascii_m
+- davebuildingmod:ascii_j
+- davebuildingmod:ascii_k
+- davebuildingmod:ascii_h
+- davebuildingmod:ascii_i
+- davebuildingmod:ascii_v
+- davebuildingmod:ascii_w
+- davebuildingmod:ascii_t
+- davebuildingmod:ascii_u
+- davebuildingmod:ascii_r
+- davebuildingmod:ascii_s
+- davebuildingmod:ascii_p
+- davebuildingmod:ascii_q
+- davebuildingmod:ascii_dollar
+- davebuildingmod:ascii_8
+- davebuildingmod:ascii_9
+- davebuildingmod:ascii_f
+- davebuildingmod:ascii_g
+- davebuildingmod:ascii_d
+- davebuildingmod:ascii_e
+- davebuildingmod:ascii_b
+- davebuildingmod:ascii_c
+- davebuildingmod:ascii_a
+- davebuildingmod:ascii_6
+- davebuildingmod:ascii_7
+- davebuildingmod:ascii_4
+- davebuildingmod:ascii_5
+- davebuildingmod:ascii_2
+- davebuildingmod:ascii_question_mark
+- davebuildingmod:ascii_3
+- davebuildingmod:ascii_0
+- davebuildingmod:ascii_exclamation_mark
+- davebuildingmod:ascii_1
 
 #chipped:melon
 - minecraft:melon
@@ -6155,6 +6369,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #tconstruct:casts/single_use/broad_blade
 - tconstruct:broad_blade_sand_cast
 - tconstruct:broad_blade_red_sand_cast
+
+#epicsamurai:armors/gem_samurai_armor_leggings
+- epicsamurai:diamond_samurai_leggings
+- epicsamurai:red_samurai_leggings
+- epicsamurai:blue_samurai_leggings
+- epicsamurai:gray_samurai_leggings
+- epicsamurai:green_samurai_leggings
 
 #tconstruct:casts/single_use/hammer_head
 - tconstruct:hammer_head_sand_cast
@@ -6260,16 +6481,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:slimeballs
 
 #forge:tools/knives
+- alloyed:steel_knife
 - farmersdelight:flint_knife
 - farmersdelight:iron_knife
 - farmersdelight:diamond_knife
 - farmersdelight:golden_knife
 - farmersdelight:netherite_knife
-- alloyed:steel_knife
 
 #balm:white_dyes
 - #forge:dyes/white?
 - minecraft:white_dye
+
+#epicsamurai:armors/gem_samurai_armor_helmet
+- epicsamurai:diamond_samurai_helmet
+- epicsamurai:red_samurai_helmet
+- epicsamurai:blue_samurai_helmet
+- epicsamurai:gray_samurai_helmet
+- epicsamurai:green_samurai_helmet
 
 #chipped:magenta_concrete
 - minecraft:magenta_concrete
@@ -6418,6 +6646,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - blue_skies:stripped_dusk_wood?
 - blue_skies:stripped_maple_wood?
 - blue_skies:stripped_cherry_wood?
+- environmental:stripped_cherry_wood?
+- environmental:stripped_willow_wood?
+- environmental:stripped_wisteria_wood?
+- atmospheric:stripped_aspen_wood?
+- atmospheric:stripped_kousa_wood?
+- atmospheric:stripped_yucca_wood?
+- atmospheric:stripped_morado_wood?
+- atmospheric:stripped_rosewood?
+- atmospheric:stripped_grimwood?
+- goodending:stripped_muddy_oak_wood?
+- goodending:stripped_cypress_wood?
+- biomemakeover:stripped_blighted_balsa_wood?
+- biomemakeover:stripped_willow_wood?
+- biomemakeover:stripped_swamp_cypress_wood?
+- biomemakeover:stripped_ancient_oak_wood?
+- infernalexp:stripped_luminous_hyphae?
 - byg:stripped_bulbis_wood?
 
 #tconstruct:smeltery_bricks
@@ -6438,14 +6682,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:pink_glazed_terracotta_11
 
 #forge:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
 - minecraft:wooden_sword
 - minecraft:stone_sword
 - minecraft:iron_sword
 - minecraft:golden_sword
 - minecraft:diamond_sword
 - minecraft:netherite_sword
-- byg:pendorite_sword
-- byg:pendorite_battleaxe
 
 #forge:storage_blocks/charcoal
 - thermal:charcoal_block
@@ -6461,6 +6705,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #tconstruct:greenheart_logs
 - #tconstruct:skyroot_logs
 - #tconstruct:bloodshroom_logs
+
+#copycats:copycat_fence_gate
+- create_connected:copycat_fence_gate
 
 #dramaticdoors:categories/tall_byg_doors
 - dramaticdoors:tall_byg_aspen_door
@@ -6619,8 +6866,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - thermal:emerald_dust
 
 #sereneseasons:summer_crops
-- farmersdelight:tomato_seeds
-- farmersdelight:rice
 - biomesoplenty:origin_sapling
 - biomesoplenty:flowering_oak_sapling
 - biomesoplenty:rainbow_birch_sapling
@@ -6644,6 +6889,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:clover
 - biomesoplenty:toadstool
 - biomesoplenty:glowshroom
+- farmersdelight:tomato_seeds
+- farmersdelight:rice
 
 #chipped:blue_glazed_terracotta
 - minecraft:blue_glazed_terracotta
@@ -6665,16 +6912,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:diamond
 - minecraft:gold_ingot
 - minecraft:iron_ingot
+- byg:ametrine_gems
+- byg:pendorite_scraps
 - ars_nouveau:source_gem
+- #create:create_ingots
 - #forge:ingots/cobalt
 - #forge:ingots/queens_slime
 - #forge:ingots/manyullyn
 - #forge:ingots/hepatizon
-- #create:create_ingots
-- byg:ametrine_gems
-- byg:pendorite_scraps
 
 #forge:ores/quartz
+- minecraft:nether_quartz_ore
 - minecraft:nether_quartz_ore
 - minecraft:nether_quartz_ore
 
@@ -6699,6 +6947,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - ae2:red_smart_cable
 - ae2:black_smart_cable
 - ae2:fluix_smart_cable
+
+#copycats:copycat_wall
+- create_connected:copycat_wall
 
 #minecraft:coal_ores
 - minecraft:coal_ore
@@ -6810,6 +7061,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #biomesoplenty:magic_logs
 - #biomesoplenty:umbran_logs
 - #biomesoplenty:hellbark_logs
+- #byg:sythian_stems
+- #byg:embur_pedus
+- #byg:lament_logs
+- #byg:withering_oak_logs
 - ars_nouveau:red_archwood_log
 - ars_nouveau:blue_archwood_log
 - ars_nouveau:purple_archwood_log
@@ -6839,10 +7094,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - ars_elemental:yellow_archwood
 - ars_elemental:stripped_yellow_archwood
 - ars_elemental:stripped_yellow_archwood_log
-- #byg:sythian_stems
-- #byg:embur_pedus
-- #byg:lament_logs
-- #byg:withering_oak_logs
 - #forbidden_arcanus:fungyss_stems
 - #forbidden_arcanus:cherrywood_logs
 - #forbidden_arcanus:mysterywood_logs
@@ -6974,9 +7225,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:nahuatl
 
 #sereneseasons:autumn_crops
-- farmersdelight:cabbage_seeds
-- farmersdelight:onion
-- farmersdelight:rice
 - biomesoplenty:origin_sapling
 - biomesoplenty:flowering_oak_sapling
 - biomesoplenty:rainbow_birch_sapling
@@ -6997,6 +7245,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:hellbark_sapling
 - biomesoplenty:toadstool
 - biomesoplenty:glowshroom
+- farmersdelight:cabbage_seeds
+- farmersdelight:onion
+- farmersdelight:rice
 
 #quark:vertical_slab
 - infernalexp:smooth_glowstone_vertical_slab
@@ -7261,10 +7512,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:short_ft_cherry_door?
 - dramaticdoors:short_ft_citrus_door?
 
+#forge:gems/jade
+- epicsamurai:jade
+
 #forge:seeds/wheat
 - minecraft:wheat_seeds
 
 #forge:ingots/iron
+- minecraft:iron_ingot
 - minecraft:iron_ingot
 
 #curios:ring
@@ -7274,6 +7529,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #balm:iron_nuggets
 - #forge:nuggets/iron?
 - minecraft:iron_nugget
+
+#copycats:copycat_board
+- create_connected:copycat_board
 
 #minecraft:anvil
 - minecraft:anvil
@@ -7381,6 +7639,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - supplementaries:sconce_soul
 - tconstruct:zombified_piglin_head
 
+#forge:ingots/all_metal
+- createaddition:electrum_ingot
+
 #forge:fences/nether_brick
 - minecraft:nether_brick_fence
 
@@ -7394,6 +7655,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - createaddition:copper_rod
 - createaddition:gold_rod
 - createaddition:brass_rod
+- createaddition:electrum_rod
 
 #chipped:pink_wool
 - minecraft:pink_wool
@@ -7423,6 +7685,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - ae2:nether_quartz_cutting_knife
 
 #forge:ores/iron
+- #minecraft:iron_ores
 - #minecraft:iron_ores
 - #minecraft:iron_ores
 
@@ -7585,7 +7848,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_button
 - minecraft:crimson_button
 - minecraft:warped_button
-- architects_palette:twisted_button
 - biomesoplenty:fir_button
 - biomesoplenty:redwood_button
 - biomesoplenty:cherry_button
@@ -7597,12 +7859,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_button
 - biomesoplenty:umbran_button
 - biomesoplenty:hellbark_button
-- ars_nouveau:archwood_button
-- tconstruct:greenheart_button
-- tconstruct:skyroot_button
-- tconstruct:bloodshroom_button
-- quark:azalea_button
-- quark:blossom_button
 - byg:aspen_button
 - byg:baobab_button
 - byg:blue_enchanted_button
@@ -7632,6 +7888,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_button
 - byg:nightshade_button
 - byg:imparius_button
+- architects_palette:twisted_button
+- ars_nouveau:archwood_button
+- tconstruct:greenheart_button
+- tconstruct:skyroot_button
+- tconstruct:bloodshroom_button
+- quark:azalea_button
+- quark:blossom_button
 - forbidden_arcanus:fungyss_button
 - forbidden_arcanus:cherrywood_button
 - forbidden_arcanus:mysterywood_button
@@ -7667,6 +7930,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:tool/wrench
 - supplementaries:wrench
+
+#epicsamurai:armors/gem_samurai_armor_boots
+- epicsamurai:diamond_samurai_boots
+- epicsamurai:red_samurai_boots
+- epicsamurai:blue_samurai_boots
+- epicsamurai:gray_samurai_boots
+- epicsamurai:green_samurai_boots
 
 #chipped:crimson_trapdoor
 - minecraft:crimson_trapdoor
@@ -7744,6 +8014,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:yellow_shulker_box
 
 #forge:nuggets/silver
+- epicsamurai:silver_nugget
 - thermal:silver_nugget
 
 #bookshelf:bows
@@ -7825,24 +8096,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - blue_skies:stripped_dusk_log?
 - blue_skies:stripped_maple_log?
 - blue_skies:stripped_cherry_log?
+- environmental:stripped_cherry_log?
+- environmental:stripped_willow_log?
+- environmental:stripped_wisteria_log?
+- atmospheric:stripped_aspen_log?
+- atmospheric:stripped_kousa_log?
+- atmospheric:stripped_yucca_log?
+- atmospheric:stripped_morado_log?
+- atmospheric:stripped_rosewood_log?
+- atmospheric:stripped_grimwood_log?
+- goodending:stripped_muddy_oak_log?
+- goodending:stripped_cypress_log?
+- biomemakeover:stripped_blighted_balsa_log?
+- biomemakeover:stripped_willow_log?
+- biomemakeover:stripped_swamp_cypress_log?
+- biomemakeover:stripped_ancient_oak_log?
+- infernalexp:stripped_luminous_stem?
 - byg:stripped_bulbis_stem?
-
-#forge:flywheels/iron_painted_flywheels
-- extendedflywheels:black_iron_flywheel
-- extendedflywheels:gray_iron_flywheel
-- extendedflywheels:light_gray_iron_flywheel
-- extendedflywheels:white_iron_flywheel
-- extendedflywheels:red_iron_flywheel
-- extendedflywheels:orange_iron_flywheel
-- extendedflywheels:yellow_iron_flywheel
-- extendedflywheels:lime_iron_flywheel
-- extendedflywheels:green_iron_flywheel
-- extendedflywheels:cyan_iron_flywheel
-- extendedflywheels:light_blue_iron_flywheel
-- extendedflywheels:blue_iron_flywheel
-- extendedflywheels:magenta_iron_flywheel
-- extendedflywheels:purple_iron_flywheel
-- extendedflywheels:pink_iron_flywheel
 
 #forge:storage_blocks/raw_iron
 - minecraft:raw_iron_block
@@ -7955,6 +8225,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:lime_glazed_terracotta_10
 - chipped:lime_glazed_terracotta_11
 
+#tconstruct:modifiable/book_armor
+- #tconstruct:modifiable/book_armor/materials_and_you
+- #tconstruct:modifiable/book_armor/puny_smelting
+- #tconstruct:modifiable/book_armor/mighty_smelting
+- #tconstruct:modifiable/book_armor/fantastic_foundry
+- #tconstruct:modifiable/book_armor/tinkers_gadgetry
+
 #forge:ingots/obsidian
 - forbidden_arcanus:obsidian_ingot
 
@@ -8005,6 +8282,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_calcite_brick_wall
 - create:layered_calcite
 - create:calcite_pillar
+- minecraft:calcite
 
 #forge:ores_in_ground/stone
 - minecraft:coal_ore
@@ -8267,6 +8545,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:soul_soil
 - #chipped:soul_sand
 - tconstruct:soul_glass
+- tconstruct:seared_soul_glass
+- tconstruct:scorched_soul_glass
 
 #supplementaries:shulker_blacklist
 - #forge:shulker_boxes?
@@ -8425,6 +8705,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:tall_manyideas_iron_space_door
 - dramaticdoors:tall_manyideas_iron_stone_brick_door
 
+#farmersdelight:serving_containers
+- minecraft:bowl
+- minecraft:glass_bottle
+- minecraft:bucket
+
 #quark:azalea_logs
 - quark:azalea_log
 - quark:stripped_azalea_log
@@ -8434,6 +8719,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:glass_panes/cyan
 - minecraft:cyan_stained_glass_pane
 - tconstruct:cyan_clear_stained_glass_pane
+
+#copycats:copycat_stairs
+- create_connected:copycat_stairs
+
+#forge:ores/onyx
+- epicsamurai:onyx_ore
+- epicsamurai:deepslate_onyx_ore
 
 #tconstruct:modifiable/two_handed
 
@@ -8525,11 +8817,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:glass/colorless
 - minecraft:glass
-- tconstruct:clear_glass
 - create:tiled_glass
 - create:framed_glass
 - create:horizontal_framed_glass
 - create:vertical_framed_glass
+- tconstruct:clear_glass
 - #forge:glass/dark_runic
 - #forge:glass/runic
 
@@ -8663,64 +8955,64 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - supplementaries:sign_post_birch?
 - supplementaries:sign_post_crimson?
 - supplementaries:sign_post_warped?
-- supplementaries:byg/sign_post_green_enchanted
-- supplementaries:biomesoplenty/sign_post_mahogany
-- supplementaries:tconstruct/sign_post_skyroot
-- supplementaries:quark/sign_post_blossom
-- supplementaries:sign_post_warped
-- supplementaries:byg/sign_post_ether
-- supplementaries:byg/sign_post_ebony
-- supplementaries:tconstruct/sign_post_greenheart
-- supplementaries:byg/sign_post_skyris
-- supplementaries:sign_post_oak
 - supplementaries:biomesoplenty/sign_post_cherry
-- supplementaries:byg/sign_post_redwood
-- supplementaries:sign_post_jungle
-- supplementaries:byg/sign_post_cika
-- supplementaries:biomesoplenty/sign_post_palm
-- supplementaries:biomesoplenty/sign_post_hellbark
+- supplementaries:byg/sign_post_imparius
+- supplementaries:byg/sign_post_cypress
+- supplementaries:byg/sign_post_pine
 - supplementaries:byg/sign_post_willow
-- supplementaries:byg/sign_post_mangrove
-- supplementaries:biomesoplenty/sign_post_umbran
-- supplementaries:byg/sign_post_palm
-- supplementaries:biomesoplenty/sign_post_magic
-- supplementaries:sign_post_acacia
-- supplementaries:sign_post_dark_oak
-- supplementaries:byg/sign_post_jacaranda
-- supplementaries:tconstruct/sign_post_bloodshroom
-- supplementaries:sign_post_crimson
-- supplementaries:byg/sign_post_cherry
-- supplementaries:sign_post_spruce
+- supplementaries:sign_post_jungle
+- supplementaries:sign_post_warped
+- supplementaries:biomesoplenty/sign_post_dead
 - supplementaries:byg/sign_post_nightshade
-- supplementaries:biomesoplenty/sign_post_jacaranda
-- supplementaries:forbidden_arcanus/sign_post_fungyss
-- supplementaries:byg/sign_post_blue_enchanted
-- supplementaries:architects_palette/sign_post_twisted
-- supplementaries:byg/sign_post_rainbow_eucalyptus
-- supplementaries:byg/sign_post_holly
+- supplementaries:biomesoplenty/sign_post_willow
+- supplementaries:byg/sign_post_maple
 - supplementaries:forbidden_arcanus/sign_post_mysterywood
-- supplementaries:byg/sign_post_bulbis
-- supplementaries:biomesoplenty/sign_post_redwood
+- supplementaries:byg/sign_post_cika
+- supplementaries:forbidden_arcanus/sign_post_cherrywood
+- supplementaries:biomesoplenty/sign_post_magic
+- supplementaries:biomesoplenty/sign_post_hellbark
+- supplementaries:byg/sign_post_lament
+- supplementaries:byg/sign_post_fir
+- supplementaries:byg/sign_post_mangrove
+- supplementaries:forbidden_arcanus/sign_post_edelwood
+- supplementaries:sign_post_dark_oak
+- supplementaries:tconstruct/sign_post_bloodshroom
+- supplementaries:byg/sign_post_mahogany
+- supplementaries:byg/sign_post_jacaranda
+- supplementaries:sign_post_spruce
+- supplementaries:tconstruct/sign_post_greenheart
+- supplementaries:sign_post_birch
+- supplementaries:byg/sign_post_rainbow_eucalyptus
+- supplementaries:byg/sign_post_palm
+- supplementaries:byg/sign_post_ebony
+- supplementaries:biomesoplenty/sign_post_jacaranda
+- supplementaries:byg/sign_post_sythian
+- supplementaries:byg/sign_post_baobab
+- supplementaries:forbidden_arcanus/sign_post_fungyss
+- supplementaries:architects_palette/sign_post_twisted
+- supplementaries:biomesoplenty/sign_post_umbran
+- supplementaries:byg/sign_post_cherry
+- supplementaries:sign_post_acacia
+- supplementaries:sign_post_oak
+- supplementaries:biomesoplenty/sign_post_mahogany
+- supplementaries:byg/sign_post_redwood
 - supplementaries:byg/sign_post_witch_hazel
 - supplementaries:integrateddynamics/sign_post_menril
-- supplementaries:byg/sign_post_aspen
-- supplementaries:forbidden_arcanus/sign_post_cherrywood
-- supplementaries:byg/sign_post_mahogany
-- supplementaries:byg/sign_post_maple
-- supplementaries:forbidden_arcanus/sign_post_edelwood
-- supplementaries:byg/sign_post_lament
-- supplementaries:byg/sign_post_sythian
-- supplementaries:biomesoplenty/sign_post_willow
-- supplementaries:byg/sign_post_zelkova
-- supplementaries:byg/sign_post_fir
-- supplementaries:byg/sign_post_pine
-- supplementaries:byg/sign_post_baobab
-- supplementaries:quark/sign_post_azalea
-- supplementaries:byg/sign_post_cypress
+- supplementaries:tconstruct/sign_post_skyroot
+- supplementaries:quark/sign_post_blossom
 - supplementaries:biomesoplenty/sign_post_fir
-- supplementaries:biomesoplenty/sign_post_dead
-- supplementaries:sign_post_birch
-- supplementaries:byg/sign_post_imparius
+- supplementaries:biomesoplenty/sign_post_redwood
+- supplementaries:byg/sign_post_green_enchanted
+- supplementaries:byg/sign_post_aspen
+- supplementaries:byg/sign_post_ether
+- supplementaries:biomesoplenty/sign_post_palm
+- supplementaries:sign_post_crimson
+- supplementaries:quark/sign_post_azalea
+- supplementaries:byg/sign_post_zelkova
+- supplementaries:byg/sign_post_skyris
+- supplementaries:byg/sign_post_bulbis
+- supplementaries:byg/sign_post_blue_enchanted
+- supplementaries:byg/sign_post_holly
 
 #c:saplings
 - byg:aspen_sapling
@@ -8891,9 +9183,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:deepslate_lapis_ore
 
 #forge:ingots/steel
-- davebuildingmod:steel_ingot
+- epicsamurai:steel_ingot
 - thermal:steel_ingot
 - alloyed:steel_ingot
+- davebuildingmod:steel_ingot
 
 #chipped:gray_carpet
 - minecraft:gray_carpet
@@ -9067,6 +9360,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:tall_menril_door
 
 #forge:ingots/netherite
+- minecraft:netherite_ingot
 - minecraft:netherite_ingot
 
 #dustrial_decor:cardboard_blocks
@@ -9279,6 +9573,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:wire_cast
 
 #forge:chestplates
+- byg:ametrine_chestplate
 - minecraft:leather_chestplate
 - minecraft:chainmail_chestplate
 - minecraft:iron_chestplate
@@ -9286,7 +9581,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:diamond_chestplate
 - minecraft:netherite_chestplate
 - minecraft:elytra
-- byg:ametrine_chestplate
+
+#forge:armors/boots
+- minecraft:leather_boots
+- minecraft:chainmail_boots
+- minecraft:iron_boots
+- minecraft:golden_boots
+- minecraft:diamond_boots
+- minecraft:netherite_boots
+- epicsamurai:red_samurai_boots
+- epicsamurai:blue_samurai_boots
+- epicsamurai:gray_samurai_boots
+- epicsamurai:green_samurai_boots
+- epicsamurai:white_samurai_boots
+- create:copper_diving_boots
+- create:netherite_diving_boots
 
 #forge:cooked_fishes
 - #forge:cooked_fishes/cod
@@ -9546,6 +9855,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 - tconstruct:travelers_boots
 - tconstruct:travelers_leggings
 - tconstruct:travelers_chestplate
@@ -9634,13 +9944,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:birch_leaves
 - minecraft:azalea_leaves
 - minecraft:flowering_azalea_leaves
-- architects_palette:twisted_leaves
-- #chipped:acacia_leaves
-- #chipped:birch_leaves
-- #chipped:jungle_leaves
-- #chipped:oak_leaves
-- #chipped:spruce_leaves
-- #chipped:dark_oak_leaves
 - biomesoplenty:origin_leaves
 - biomesoplenty:flowering_oak_leaves
 - biomesoplenty:rainbow_birch_leaves
@@ -9659,15 +9962,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_leaves
 - biomesoplenty:umbran_leaves
 - biomesoplenty:hellbark_leaves
-- #tconstruct:slimy_leaves
 - integrateddynamics:menril_leaves
-- quark:blue_blossom_leaves
-- quark:lavender_blossom_leaves
-- quark:orange_blossom_leaves
-- quark:pink_blossom_leaves
-- quark:yellow_blossom_leaves
-- quark:red_blossom_leaves
-- ars_elemental:yellow_archwood_leaves
 - byg:baobab_leaves
 - byg:blooming_witch_hazel_leaves
 - byg:blue_enchanted_leaves
@@ -9724,6 +10019,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:flowering_nightshade_leaves
 - byg:flowering_jacaranda_leaves
 - byg:flowering_indigo_jacaranda_leaves
+- architects_palette:twisted_leaves
+- #chipped:acacia_leaves
+- #chipped:birch_leaves
+- #chipped:jungle_leaves
+- #chipped:oak_leaves
+- #chipped:spruce_leaves
+- #chipped:dark_oak_leaves
+- #tconstruct:slimy_leaves
+- quark:blue_blossom_leaves
+- quark:lavender_blossom_leaves
+- quark:orange_blossom_leaves
+- quark:pink_blossom_leaves
+- quark:yellow_blossom_leaves
+- quark:red_blossom_leaves
+- ars_elemental:yellow_archwood_leaves
 - forbidden_arcanus:cherrywood_leaves
 - forbidden_arcanus:mysterywood_leaves
 - forbidden_arcanus:nuggety_mysterywood_leaves
@@ -9747,6 +10057,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #tconstruct:modifiable/ranged
 - #tconstruct:modifiable/ranged/bows
+- #tconstruct:modifiable/staffs
 
 #forge:concrete_powder
 - minecraft:white_concrete_powder
@@ -9779,6 +10090,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:spruce_trapdoor_9
 - chipped:spruce_trapdoor_10
 - chipped:spruce_trapdoor_11
+
+#forge:ores/amethyst
+- minecraft:amethyst_shard
 
 #byg:mangrove_logs
 - byg:mangrove_log
@@ -9897,6 +10211,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #bookshelf:compasses
 - #forge:compasses
 
+#railways:internal/ingots/iron_ingots
+- #c:iron_ingots?
+- #forge:ingots/iron?
+
 #dramaticdoors:categories/tall_twilightforest_doors
 - dramaticdoors:tall_canopy_door
 - dramaticdoors:tall_darkwood_door
@@ -9996,6 +10314,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:light_gray_terracotta_64
 - chipped:light_gray_terracotta_65
 - chipped:light_gray_terracotta_66
+
+#forge:rope
+- quark:rope?
+- supplementaries:rope?
+- farmersdelight:rope?
 
 #forge:coins/rose_gold
 - thermal:rose_gold_coin
@@ -10157,12 +10480,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:cornflower
 - minecraft:lily_of_the_valley
 - minecraft:wither_rose
-- farmersdelight:wild_carrots
-- farmersdelight:wild_potatoes
-- farmersdelight:wild_beetroots
-- farmersdelight:wild_cabbages
-- farmersdelight:wild_tomatoes
-- farmersdelight:wild_onions
 - biomesoplenty:rose
 - biomesoplenty:violet
 - biomesoplenty:lavender
@@ -10233,6 +10550,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:tall_allium
 - byg:tall_pink_allium
 - byg:thereal_bellflower
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
 - forbidden_arcanus:yellow_orchid
 
 #thermal:machines
@@ -10303,6 +10626,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:light_blue_stained_glass_9
 - chipped:light_blue_stained_glass_10
 
+#davebuildingmod:dyeable_steel_tank_tag
+- davebuildingmod:blue_steel_tank
+- davebuildingmod:lime_steel_tank
+- davebuildingmod:steel_tank
+- davebuildingmod:gray_steel_tank
+- davebuildingmod:brown_steel_tank
+- davebuildingmod:green_steel_tank
+- davebuildingmod:white_steel_tank
+- davebuildingmod:red_steel_tank
+- davebuildingmod:pink_steel_tank
+- davebuildingmod:light_blue_steel_tank
+- davebuildingmod:magenta_steel_tank
+- davebuildingmod:black_steel_tank
+- davebuildingmod:cyan_steel_tank
+- davebuildingmod:purple_steel_tank
+- davebuildingmod:yellow_steel_tank
+- davebuildingmod:orange_steel_tank
+- davebuildingmod:light_gray_steel_tank
+
 #chipped:orange_concrete
 - minecraft:orange_concrete
 - chipped:orange_concrete_1
@@ -10348,6 +10690,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:ingots/electrum
 - thermal:electrum_ingot
+- createaddition:electrum_ingot
 
 #dramaticdoors:categories/short_hexcasting_doors
 - dramaticdoors:short_edified_door?
@@ -10359,12 +10702,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 - tconstruct:plate_boots
 - tconstruct:plate_leggings
 - tconstruct:plate_chestplate
 - tconstruct:plate_helmet
 - tconstruct:travelers_shield
 - tconstruct:plate_shield
+
+#copycats:copycat_beam
+- create_connected:copycat_beam
 
 #tconstruct:slimy_saplings
 - tconstruct:earth_slime_sapling
@@ -10439,6 +10786,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_crimsite_brick_wall
 - create:layered_crimsite
 - create:crimsite_pillar
+- create:crimsite
 
 #chipped:brown_stained_glass
 - minecraft:brown_stained_glass
@@ -10510,7 +10858,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:dusts/glowstone
 - #forge:dusts/prismarine
 - #forge:dusts/redstone
-- supplementaries:ash
 - #forge:dusts/copper
 - #forge:dusts/gold
 - #forge:dusts/iron
@@ -10538,6 +10885,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:dusts/sapphire
 - #forge:dusts/rose_gold
 - #forge:dusts/steel
+- supplementaries:ash
 - ae2:certus_quartz_dust
 - ae2:ender_dust
 - ae2:fluix_dust
@@ -10622,6 +10970,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_asurine_brick_wall
 - create:layered_asurine
 - create:asurine_pillar
+- create:asurine
 
 #tconstruct:casts/multi_use/plate
 - tconstruct:plate_cast
@@ -10845,6 +11194,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:warped_roots_9
 
 #forge:nuggets/steel
+- epicsamurai:steel_nugget
 - thermal:steel_nugget
 - alloyed:steel_nugget
 
@@ -10876,12 +11226,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:dyes?
 
 #farmersdelight:tools/knives
+- alloyed:steel_knife
 - farmersdelight:flint_knife
 - farmersdelight:iron_knife
 - farmersdelight:diamond_knife
 - farmersdelight:golden_knife
 - farmersdelight:netherite_knife
-- alloyed:steel_knife
 
 #ae2:covered_cable
 - ae2:white_covered_cable
@@ -10914,15 +11264,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_planks
 - minecraft:crimson_planks
 - minecraft:warped_planks
-- architects_palette:twisted_planks
-- #chipped:oak_planks
-- #chipped:birch_planks
-- #chipped:spruce_planks
-- #chipped:jungle_planks
-- #chipped:acacia_planks
-- #chipped:dark_oak_planks
-- #chipped:warped_planks
-- #chipped:crimson_planks
 - biomesoplenty:fir_planks
 - biomesoplenty:redwood_planks
 - biomesoplenty:cherry_planks
@@ -10934,11 +11275,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_planks
 - biomesoplenty:umbran_planks
 - biomesoplenty:hellbark_planks
-- ars_nouveau:archwood_planks
-- #tconstruct:slimy_planks
 - integrateddynamics:menril_planks
-- quark:azalea_planks
-- quark:blossom_planks
 - byg:aspen_planks
 - byg:baobab_planks
 - byg:blue_enchanted_planks
@@ -10968,6 +11305,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_planks
 - byg:nightshade_planks
 - byg:imparius_planks
+- architects_palette:twisted_planks
+- #chipped:oak_planks
+- #chipped:birch_planks
+- #chipped:spruce_planks
+- #chipped:jungle_planks
+- #chipped:acacia_planks
+- #chipped:dark_oak_planks
+- #chipped:warped_planks
+- #chipped:crimson_planks
+- ars_nouveau:archwood_planks
+- #tconstruct:slimy_planks
+- quark:azalea_planks
+- quark:blossom_planks
 - forbidden_arcanus:fungyss_planks
 - forbidden_arcanus:cherrywood_planks
 - forbidden_arcanus:carved_cherrywood_planks
@@ -11614,11 +11964,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #tconstruct:scorched_blocks
 - #tconstruct:scorched_tanks
 - tconstruct:foundry_controller
+- tconstruct:scorched_ladder
 - tconstruct:scorched_drain
 - tconstruct:scorched_chute
 - tconstruct:scorched_duct
 - tconstruct:scorched_glass
-- tconstruct:scorched_ladder
+- tconstruct:scorched_soul_glass
+- tconstruct:scorched_tinted_glass
 
 #forge:ores/ametrine
 - byg:ametrine_ore
@@ -11767,7 +12119,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:dark_oak_leaf_pile
 - immersive_weathering:azalea_leaf_pile
 - immersive_weathering:flowering_azalea_leaf_pile
-- immersive_weathering:architects_palette/twisted_leaf_pile
 - immersive_weathering:biomesoplenty/fir_leaf_pile
 - immersive_weathering:biomesoplenty/redwood_leaf_pile
 - immersive_weathering:biomesoplenty/mahogany_leaf_pile
@@ -11803,6 +12154,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:byg/lament_leaf_pile
 - immersive_weathering:byg/nightshade_leaf_pile
 - immersive_weathering:byg/ether_leaf_pile
+- immersive_weathering:architects_palette/twisted_leaf_pile
 - immersive_weathering:forbidden_arcanus/cherrywood_leaf_pile
 - immersive_weathering:forbidden_arcanus/mysterywood_leaf_pile
 - immersive_weathering:biomesoplenty/origin_leaf_pile
@@ -11813,20 +12165,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:biomesoplenty/maple_leaf_pile
 - immersive_weathering:biomesoplenty/white_cherry_leaf_pile
 - immersive_weathering:biomesoplenty/pink_cherry_leaf_pile
-- immersive_weathering:ars_nouveau/blue_archwood_leaf_pile
-- immersive_weathering:ars_nouveau/red_archwood_leaf_pile
-- immersive_weathering:ars_nouveau/green_archwood_leaf_pile
-- immersive_weathering:ars_nouveau/purple_archwood_leaf_pile
-- immersive_weathering:tconstruct/earth_slime_leaf_pile
-- immersive_weathering:tconstruct/sky_slime_leaf_pile
-- immersive_weathering:tconstruct/ender_slime_leaf_pile
-- immersive_weathering:quark/blue_blossom_leaf_pile
-- immersive_weathering:quark/lavender_blossom_leaf_pile
-- immersive_weathering:quark/orange_blossom_leaf_pile
-- immersive_weathering:quark/pink_blossom_leaf_pile
-- immersive_weathering:quark/yellow_blossom_leaf_pile
-- immersive_weathering:quark/red_blossom_leaf_pile
-- immersive_weathering:ars_elemental/yellow_archwood_leaf_pile
 - immersive_weathering:byg/araucaria_leaf_pile
 - immersive_weathering:byg/blooming_witch_hazel_leaf_pile
 - immersive_weathering:byg/blue_spruce_leaf_pile
@@ -11860,6 +12198,20 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:byg/withering_oak_leaf_pile
 - immersive_weathering:byg/flowering_nightshade_leaf_pile
 - immersive_weathering:byg/firecracker_leaf_pile
+- immersive_weathering:ars_nouveau/blue_archwood_leaf_pile
+- immersive_weathering:ars_nouveau/red_archwood_leaf_pile
+- immersive_weathering:ars_nouveau/green_archwood_leaf_pile
+- immersive_weathering:ars_nouveau/purple_archwood_leaf_pile
+- immersive_weathering:tconstruct/earth_slime_leaf_pile
+- immersive_weathering:tconstruct/sky_slime_leaf_pile
+- immersive_weathering:tconstruct/ender_slime_leaf_pile
+- immersive_weathering:quark/blue_blossom_leaf_pile
+- immersive_weathering:quark/lavender_blossom_leaf_pile
+- immersive_weathering:quark/orange_blossom_leaf_pile
+- immersive_weathering:quark/pink_blossom_leaf_pile
+- immersive_weathering:quark/yellow_blossom_leaf_pile
+- immersive_weathering:quark/red_blossom_leaf_pile
+- immersive_weathering:ars_elemental/yellow_archwood_leaf_pile
 - immersive_weathering:forbidden_arcanus/nuggety_mysterywood_leaf_pile
 
 #ae2:pattern_provider
@@ -12009,6 +12361,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:raw_iron_block_59
 - chipped:raw_iron_block_60
 - chipped:raw_iron_block_61
+
+#curios:gem
 
 #dramaticdoors:categories/tall_snowyspirit_doors
 - dramaticdoors:tall_gingerbread_door
@@ -12195,7 +12549,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:yellow_stained_glass_pane_9
 - chipped:yellow_stained_glass_pane_10
 
+#tconstruct:modifiable/broad
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:excavator
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:cleaver
+- tconstruct:longbow
+
 #forge:ingots/silver
+- epicsamurai:silver_ingot
 - thermal:silver_ingot
 
 #forge:glass_panes/light_gray
@@ -12210,6 +12574,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:stripped_maple_log
 - byg:maple_wood
 - byg:stripped_maple_wood
+
+#davebuildingmod:dyeable_steel_pilot_tag
+- davebuildingmod:light_blue_steel_pilot
+- davebuildingmod:black_steel_pilot
+- davebuildingmod:light_gray_steel_pilot
+- davebuildingmod:brown_steel_pilot
+- davebuildingmod:magenta_steel_pilot
+- davebuildingmod:red_steel_pilot
+- davebuildingmod:steel_pilot
+- davebuildingmod:cyan_steel_pilot
+- davebuildingmod:orange_steel_pilot
+- davebuildingmod:pink_steel_pilot
+- davebuildingmod:blue_steel_pilot
+- davebuildingmod:purple_steel_pilot
+- davebuildingmod:yellow_steel_pilot
+- davebuildingmod:green_steel_pilot
+- davebuildingmod:white_steel_pilot
+- davebuildingmod:lime_steel_pilot
+- davebuildingmod:gray_steel_pilot
 
 #chipped:jack_o_lantern
 - minecraft:jack_o_lantern
@@ -12421,11 +12804,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:raw_copper_block_61
 
 #forge:fence_gates
-- ars_nouveau:archwood_fence_gate
 - #forge:fence_gates/wooden
-- quark:azalea_fence_gate
-- quark:blossom_fence_gate
-- quark:nether_brick_fence_gate
 - byg:aspen_fence_gate
 - byg:baobab_fence_gate
 - byg:blue_enchanted_fence_gate
@@ -12455,6 +12834,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_fence_gate
 - byg:nightshade_fence_gate
 - byg:imparius_fence_gate
+- ars_nouveau:archwood_fence_gate
+- quark:azalea_fence_gate
+- quark:blossom_fence_gate
+- quark:nether_brick_fence_gate
 
 #curios:an_focus
 - ars_nouveau:summon_focus
@@ -12470,6 +12853,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - ars_elemental:lesser_water_focus
 
 #forge:ingots
+- #forge:ingots/brick
+- #forge:ingots/copper
+- #forge:ingots/gold
+- #forge:ingots/iron
+- #forge:ingots/netherite
+- #forge:ingots/nether_brick
+- #forge:ingots/silver
+- #forge:ingots/steel
 - #forge:ingots/compressed_iron
 - #forge:ingots/brick
 - #forge:ingots/copper
@@ -12490,6 +12881,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:ingots/invar
 - #forge:ingots/rose_gold
 - #forge:ingots/steel
+- #create:create_ingots
 - tconstruct:seared_brick
 - tconstruct:scorched_brick
 - #forge:ingots/netherite_scrap
@@ -12503,9 +12895,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:ingots/hepatizon
 - #forge:ingots/soulsteel
 - #forge:ingots/knightslime
-- #create:create_ingots
 - #forge:ingots/arcane_gold
 - #forge:ingots/obsidian
+- createaddition:electrum_ingot
 
 #waystones:return_scrolls
 - waystones:return_scroll
@@ -12552,6 +12944,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 
 #byg:willow_logs
 - byg:willow_log
@@ -12578,82 +12971,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:ingots/nether_brick
 - minecraft:nether_brick
-
-#extendedgears:cogwheel
-- extendedgears:dark_oak_cogwheel
-- extendedgears:oak_cogwheel
-- extendedgears:birch_cogwheel
-- extendedgears:jungle_cogwheel
-- extendedgears:acacia_cogwheel
-- extendedgears:warped_cogwheel
-- extendedgears:crimson_cogwheel
-- extendedgears:large_dark_oak_cogwheel
-- extendedgears:large_oak_cogwheel
-- extendedgears:large_birch_cogwheel
-- extendedgears:large_jungle_cogwheel
-- extendedgears:large_acacia_cogwheel
-- extendedgears:large_warped_cogwheel
-- extendedgears:large_crimson_cogwheel
-- extendedgears:shaftless_dark_oak_cogwheel
-- extendedgears:shaftless_oak_cogwheel
-- extendedgears:shaftless_birch_cogwheel
-- extendedgears:shaftless_jungle_cogwheel
-- extendedgears:shaftless_acacia_cogwheel
-- extendedgears:shaftless_warped_cogwheel
-- extendedgears:shaftless_crimson_cogwheel
-- extendedgears:large_shaftless_dark_oak_cogwheel
-- extendedgears:large_shaftless_oak_cogwheel
-- extendedgears:large_shaftless_birch_cogwheel
-- extendedgears:large_shaftless_jungle_cogwheel
-- extendedgears:large_shaftless_acacia_cogwheel
-- extendedgears:large_shaftless_warped_cogwheel
-- extendedgears:large_shaftless_crimson_cogwheel
-- extendedgears:half_shaft_dark_oak_cogwheel
-- extendedgears:half_shaft_oak_cogwheel
-- extendedgears:half_shaft_birch_cogwheel
-- extendedgears:half_shaft_jungle_cogwheel
-- extendedgears:half_shaft_acacia_cogwheel
-- extendedgears:half_shaft_warped_cogwheel
-- extendedgears:half_shaft_crimson_cogwheel
-- extendedgears:large_half_shaft_dark_oak_cogwheel
-- extendedgears:large_half_shaft_oak_cogwheel
-- extendedgears:large_half_shaft_birch_cogwheel
-- extendedgears:large_half_shaft_jungle_cogwheel
-- extendedgears:large_half_shaft_acacia_cogwheel
-- extendedgears:large_half_shaft_warped_cogwheel
-- extendedgears:large_half_shaft_crimson_cogwheel
-- extendedgears:iron_cogwheel
-- extendedgears:steel_cogwheel
-- extendedgears:copper_cogwheel
-- extendedgears:large_iron_cogwheel
-- extendedgears:large_steel_cogwheel
-- extendedgears:large_copper_cogwheel
-- extendedgears:shaftless_iron_cogwheel
-- extendedgears:shaftless_steel_cogwheel
-- extendedgears:shaftless_copper_cogwheel
-- extendedgears:large_shaftless_iron_cogwheel
-- extendedgears:large_shaftless_steel_cogwheel
-- extendedgears:large_shaftless_copper_cogwheel
-- extendedgears:half_shaft_iron_cogwheel
-- extendedgears:half_shaft_steel_cogwheel
-- extendedgears:half_shaft_copper_cogwheel
-- extendedgears:large_half_shaft_iron_cogwheel
-- extendedgears:large_half_shaft_steel_cogwheel
-- extendedgears:large_half_shaft_copper_cogwheel
-- extendedgears:half_shaft_spruce_cogwheel
-- extendedgears:large_half_shaft_spruce_cogwheel
-- extendedgears:shaftless_spruce_cogwheel
-- extendedgears:large_shaftless_spruce_cogwheel
-- create:cogwheel?
+- minecraft:nether_brick
 
 #forge:pickaxes
+- byg:pendorite_pickaxe
 - minecraft:wooden_pickaxe
 - minecraft:stone_pickaxe
 - minecraft:iron_pickaxe
 - minecraft:golden_pickaxe
 - minecraft:diamond_pickaxe
 - minecraft:netherite_pickaxe
-- byg:pendorite_pickaxe
 
 #pneumaticcraft:chests
 - pneumaticcraft:smart_chest
@@ -12806,6 +13133,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_granite_brick_wall
 - create:layered_granite
 - create:granite_pillar
+- minecraft:granite
 
 #forge:pasta/raw_pasta
 - farmersdelight:raw_pasta
@@ -12960,10 +13288,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:lime_wool_19
 - chipped:lime_wool_20
 
+#forge:armors
+- #forge:armors/helmets
+- #forge:armors/chestplates
+- #forge:armors/leggings
+- #forge:armors/boots
+
 #forge:ingots/enderium
 - thermal:enderium_ingot
 
 #forge:gems/diamond
+- minecraft:diamond
 - minecraft:diamond
 
 #minecraft:walls
@@ -12998,6 +13333,46 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - infernalexp:soul_slate_brick_wall
 - infernalexp:soul_stone_wall
 - infernalexp:soul_stone_brick_wall
+- biomesoplenty:black_sandstone_wall
+- biomesoplenty:orange_sandstone_wall
+- biomesoplenty:white_sandstone_wall
+- biomesoplenty:mud_brick_wall
+- framedblocks:framed_wall
+- #pneumaticcraft:walls
+- alloyed:steel_bars
+- byg:dacite_cobblestone_wall
+- byg:dacite_wall
+- byg:dacite_tile_wall
+- byg:dacite_brick_wall
+- byg:mossy_stone_wall
+- byg:rocky_stone_wall
+- byg:scoria_stone_wall
+- byg:scoria_cobblestone_wall
+- byg:scoria_stonebrick_wall
+- byg:soapstone_wall
+- byg:polished_soapstone_wall
+- byg:soapstone_brick_wall
+- byg:soapstone_tile_wall
+- byg:red_rock_wall
+- byg:red_rock_brick_wall
+- byg:mossy_red_rock_brick_wall
+- byg:cracked_red_rock_brick_wall
+- byg:chiseled_red_rock_brick_wall
+- byg:ether_stone_wall
+- byg:purpur_stone_wall
+- byg:cryptic_stone_wall
+- byg:chiseled_therium_wall
+- byg:shiny_chiseled_therium_wall
+- byg:cobbled_ether_stone_wall
+- byg:carved_ether_stone_wall
+- byg:travertine_wall
+- byg:polished_travertine_wall
+- byg:chiseled_travertine_wall
+- byg:chiseled_fungal_imparius_wall
+- byg:windswept_sandstone_wall
+- byg:cut_windswept_sandstone_wall
+- byg:chiseled_windswept_sandstone_wall
+- byg:smooth_windswept_sandstone_wall
 - architects_palette:plating_wall
 - architects_palette:myonite_wall
 - architects_palette:myonite_brick_wall
@@ -13049,17 +13424,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - architects_palette:oracle_tile_wall
 - architects_palette:cerebral_wall
 - architects_palette:cerebral_tile_wall
-- biomesoplenty:black_sandstone_wall
-- biomesoplenty:orange_sandstone_wall
-- biomesoplenty:white_sandstone_wall
-- biomesoplenty:mud_brick_wall
-- framedblocks:framed_wall
-- #pneumaticcraft:walls
-- supplementaries:blackstone_tile_wall
-- supplementaries:ash_bricks_wall
-- supplementaries:lapis_bricks_wall
-- supplementaries:stone_tile_wall
-- alloyed:steel_bars
 - create:cut_granite_wall
 - create:polished_cut_granite_wall
 - create:cut_granite_brick_wall
@@ -13116,6 +13480,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:polished_cut_veridium_wall
 - create:cut_veridium_brick_wall
 - create:small_veridium_brick_wall
+- supplementaries:blackstone_tile_wall
+- supplementaries:ash_bricks_wall
+- supplementaries:lapis_bricks_wall
+- supplementaries:stone_tile_wall
 - quark:andesite_bricks_wall
 - quark:blackstone_bricks_wall
 - quark:blue_nether_bricks_wall
@@ -13145,39 +13513,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - quark:soul_sandstone_wall
 - quark:tuff_bricks_wall
 - quark:tuff_wall
-- byg:dacite_cobblestone_wall
-- byg:dacite_wall
-- byg:dacite_tile_wall
-- byg:dacite_brick_wall
-- byg:mossy_stone_wall
-- byg:rocky_stone_wall
-- byg:scoria_stone_wall
-- byg:scoria_cobblestone_wall
-- byg:scoria_stonebrick_wall
-- byg:soapstone_wall
-- byg:polished_soapstone_wall
-- byg:soapstone_brick_wall
-- byg:soapstone_tile_wall
-- byg:red_rock_wall
-- byg:red_rock_brick_wall
-- byg:mossy_red_rock_brick_wall
-- byg:cracked_red_rock_brick_wall
-- byg:chiseled_red_rock_brick_wall
-- byg:ether_stone_wall
-- byg:purpur_stone_wall
-- byg:cryptic_stone_wall
-- byg:chiseled_therium_wall
-- byg:shiny_chiseled_therium_wall
-- byg:cobbled_ether_stone_wall
-- byg:carved_ether_stone_wall
-- byg:travertine_wall
-- byg:polished_travertine_wall
-- byg:chiseled_travertine_wall
-- byg:chiseled_fungal_imparius_wall
-- byg:windswept_sandstone_wall
-- byg:cut_windswept_sandstone_wall
-- byg:chiseled_windswept_sandstone_wall
-- byg:smooth_windswept_sandstone_wall
 - forbidden_arcanus:darkstone_wall
 - forbidden_arcanus:polished_darkstone_wall
 - forbidden_arcanus:polished_darkstone_brick_wall
@@ -13239,7 +13574,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:tall_walnut_azalea_door
 
 #forge:gems
-- ars_nouveau:source_gem
+- #forge:gems/amethyst
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- #forge:gems/ruby
+- #forge:gems/jade
+- #forge:gems/onyx
+- #forge:gems/aquamarine
 - #forge:gems/amethyst
 - #forge:gems/diamond
 - #forge:gems/emerald
@@ -13252,10 +13596,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:gems/sulfur
 - #forge:gems/ruby
 - #forge:gems/sapphire
+- byg:ametrine_gems
+- ars_nouveau:source_gem
 - ae2:certus_quartz_crystal
 - ae2:charged_certus_quartz_crystal
 - ae2:fluix_crystal
-- byg:ametrine_gems
 - #forge:gems/arcane_crystal
 
 #dramaticdoors:categories/short_goodending_doors
@@ -13265,7 +13610,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #minecraft:sand
 - minecraft:sand
 - minecraft:red_sand
-- #chipped:sand
 - biomesoplenty:black_sand
 - biomesoplenty:orange_sand
 - biomesoplenty:white_sand
@@ -13278,6 +13622,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:end_sand
 - byg:windswept_sand
 - byg:cracked_red_sand
+- #chipped:sand
 
 #forge:ingots/bronze
 - thermal:bronze_ingot
@@ -13305,6 +13650,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_scorchia_brick_wall
 - create:layered_scorchia
 - create:scorchia_pillar
+- create:scorchia
 
 #minecraft:wooden_trapdoors
 - minecraft:acacia_trapdoor
@@ -13315,7 +13661,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:spruce_trapdoor
 - minecraft:crimson_trapdoor
 - minecraft:warped_trapdoor
-- architects_palette:twisted_trapdoor
 - biomesoplenty:fir_trapdoor
 - biomesoplenty:redwood_trapdoor
 - biomesoplenty:cherry_trapdoor
@@ -13327,12 +13672,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_trapdoor
 - biomesoplenty:umbran_trapdoor
 - biomesoplenty:hellbark_trapdoor
-- ars_nouveau:archwood_trapdoor
-- tconstruct:greenheart_trapdoor
-- tconstruct:skyroot_trapdoor
-- tconstruct:bloodshroom_trapdoor
-- quark:azalea_trapdoor
-- quark:blossom_trapdoor
 - byg:aspen_trapdoor
 - byg:baobab_trapdoor
 - byg:blue_enchanted_trapdoor
@@ -13362,6 +13701,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_trapdoor
 - byg:nightshade_trapdoor
 - byg:imparius_trapdoor
+- architects_palette:twisted_trapdoor
+- ars_nouveau:archwood_trapdoor
+- tconstruct:greenheart_trapdoor
+- tconstruct:skyroot_trapdoor
+- tconstruct:bloodshroom_trapdoor
+- quark:azalea_trapdoor
+- quark:blossom_trapdoor
 - forbidden_arcanus:fungyss_trapdoor
 - forbidden_arcanus:cherrywood_trapdoor
 - forbidden_arcanus:mysterywood_trapdoor
@@ -13397,48 +13743,33 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - decorative_blocks:chandelier
 - decorative_blocks:soul_chandelier
 
-#extendedgears:small_cogwheel
-- extendedgears:dark_oak_cogwheel
-- extendedgears:oak_cogwheel
-- extendedgears:birch_cogwheel
-- extendedgears:jungle_cogwheel
-- extendedgears:acacia_cogwheel
-- extendedgears:warped_cogwheel
-- extendedgears:crimson_cogwheel
-- extendedgears:shaftless_dark_oak_cogwheel
-- extendedgears:shaftless_oak_cogwheel
-- extendedgears:shaftless_birch_cogwheel
-- extendedgears:shaftless_jungle_cogwheel
-- extendedgears:shaftless_acacia_cogwheel
-- extendedgears:shaftless_warped_cogwheel
-- extendedgears:shaftless_crimson_cogwheel
-- extendedgears:half_shaft_dark_oak_cogwheel
-- extendedgears:half_shaft_oak_cogwheel
-- extendedgears:half_shaft_birch_cogwheel
-- extendedgears:half_shaft_jungle_cogwheel
-- extendedgears:half_shaft_acacia_cogwheel
-- extendedgears:half_shaft_warped_cogwheel
-- extendedgears:half_shaft_crimson_cogwheel
-- extendedgears:iron_cogwheel
-- extendedgears:steel_cogwheel
-- extendedgears:copper_cogwheel
-- extendedgears:shaftless_iron_cogwheel
-- extendedgears:shaftless_steel_cogwheel
-- extendedgears:shaftless_copper_cogwheel
-- extendedgears:half_shaft_iron_cogwheel
-- extendedgears:half_shaft_steel_cogwheel
-- extendedgears:half_shaft_copper_cogwheel
-- extendedgears:half_shaft_spruce_cogwheel
-- extendedgears:shaftless_spruce_cogwheel
-- create:cogwheel?
-
 #forge:wires
 - createaddition:copper_wire
 - createaddition:iron_wire
 - createaddition:gold_wire
+- createaddition:electrum_wire
 
 #forge:ingots/brass
 - create:brass_ingot
+
+#davebuildingmod:dyeable_steel_trapdoor_tag
+- davebuildingmod:magenta_steel_trapdoor
+- davebuildingmod:white_steel_trapdoor
+- davebuildingmod:brown_steel_trapdoor
+- davebuildingmod:pink_steel_trapdoor
+- davebuildingmod:lime_steel_trapdoor
+- davebuildingmod:light_blue_steel_trapdoor
+- davebuildingmod:purple_steel_trapdoor
+- davebuildingmod:cyan_steel_trapdoor
+- davebuildingmod:gray_steel_trapdoor
+- davebuildingmod:steel_trapdoor
+- davebuildingmod:light_gray_steel_trapdoor
+- davebuildingmod:black_steel_trapdoor
+- davebuildingmod:green_steel_trapdoor
+- davebuildingmod:yellow_steel_trapdoor
+- davebuildingmod:red_steel_trapdoor
+- davebuildingmod:orange_steel_trapdoor
+- davebuildingmod:blue_steel_trapdoor
 
 #forge:coins/electrum
 - thermal:electrum_coin
@@ -13514,7 +13845,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_door
 - minecraft:crimson_door
 - minecraft:warped_door
-- architects_palette:twisted_door
 - biomesoplenty:fir_door
 - biomesoplenty:redwood_door
 - biomesoplenty:cherry_door
@@ -13526,13 +13856,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_door
 - biomesoplenty:umbran_door
 - biomesoplenty:hellbark_door
-- ars_nouveau:archwood_door
-- tconstruct:greenheart_door
-- tconstruct:skyroot_door
-- tconstruct:bloodshroom_door
 - integrateddynamics:menril_door
-- quark:azalea_door
-- quark:blossom_door
 - byg:aspen_door
 - byg:baobab_door
 - byg:blue_enchanted_door
@@ -13562,6 +13886,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_door
 - byg:nightshade_door
 - byg:imparius_door
+- architects_palette:twisted_door
+- ars_nouveau:archwood_door
+- tconstruct:greenheart_door
+- tconstruct:skyroot_door
+- tconstruct:bloodshroom_door
+- quark:azalea_door
+- quark:blossom_door
 - forbidden_arcanus:fungyss_door
 - forbidden_arcanus:cherrywood_door
 - forbidden_arcanus:mysterywood_door
@@ -13577,6 +13908,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #tconstruct:modifiable/interactable/left
 - #tconstruct:modifiable/interactable/right
 - #tconstruct:modifiable/interactable/armor
+
+#create_sa:fillable
+- create_sa:brass_jetpack_chestplate
+- create_sa:portable_drill
+- create_sa:brass_exoskeleton_chestplate
+- create_sa:copper_exoskeleton_chestplate
+- create_sa:copper_jetpack_chestplate
+- create_sa:block_picker
 
 #forge:ingots/constantan
 - thermal:constantan_ingot
@@ -13600,17 +13939,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:cobblestone
 - minecraft:blackstone
 - minecraft:cobbled_deepslate
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
 - minecraft:cobblestone
 - minecraft:blackstone
 - minecraft:cobbled_deepslate
 - minecraft:granite
 - minecraft:andesite
 - minecraft:diorite
-- byg:red_rock
-- byg:dacite_cobblestone
-- byg:scoria_cobblestone
-- byg:soapstone
-- byg:cobbled_ether_stone
 
 #forge:dyes/cyan
 - minecraft:cyan_dye
@@ -13863,6 +14202,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:gems/prismarine
 - minecraft:prismarine_crystals
+- minecraft:prismarine_crystals
 
 #dramaticdoors:categories/tall_supplementaries_doors
 - dramaticdoors:tall_gold_door
@@ -13910,6 +14250,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:ores/gold
 - #minecraft:gold_ores
 - #minecraft:gold_ores
+- #minecraft:gold_ores
 
 #lootr:chests
 - lootr:lootr_chest
@@ -13919,12 +14260,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:raw_materials/copper
 - #forge:raw_materials/gold
 - #forge:raw_materials/iron
+- #forge:raw_materials/silver
+- #forge:raw_materials/copper
+- #forge:raw_materials/gold
+- #forge:raw_materials/iron
 - #forge:raw_materials/lead
 - #forge:raw_materials/nickel
 - #forge:raw_materials/silver
 - #forge:raw_materials/tin
-- #forge:raw_materials/cobalt
 - create:raw_zinc
+- #forge:raw_materials/cobalt
 
 #chipped:deepslate
 - minecraft:deepslate
@@ -14013,6 +14358,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_scoria_brick_wall
 - create:layered_scoria
 - create:scoria_pillar
+- create:scoria
 
 #dramaticdoors:categories/tall_wildbackport_doors
 - dramaticdoors:tall_mangrove_door
@@ -14327,6 +14673,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:gems/emerald
 - minecraft:emerald
+- minecraft:emerald
+
+#forge:armors/chestplates
+- minecraft:leather_chestplate
+- minecraft:chainmail_chestplate
+- minecraft:iron_chestplate
+- minecraft:golden_chestplate
+- minecraft:diamond_chestplate
+- minecraft:netherite_chestplate
+- epicsamurai:red_samurai_chestplate
+- epicsamurai:blue_samurai_chestplate
+- epicsamurai:gray_samurai_chestplate
+- epicsamurai:green_samurai_chestplate
+- epicsamurai:white_samurai_chestplate
+- create:copper_backtank
+- create:netherite_backtank
 
 #balm:brown_dyes
 - #forge:dyes/brown?
@@ -14346,25 +14708,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:chiseled_therium
 - byg:shiny_chiseled_therium
 
+#forge:rods/electrum
+- createaddition:electrum_rod
+
 #forge:nuggets/nickel
 - thermal:nickel_nugget
-
-#forge:flywheels/steel_painted_flywheels
-- extendedflywheels:black_steel_flywheel
-- extendedflywheels:gray_steel_flywheel
-- extendedflywheels:light_gray_steel_flywheel
-- extendedflywheels:white_steel_flywheel
-- extendedflywheels:red_steel_flywheel
-- extendedflywheels:orange_steel_flywheel
-- extendedflywheels:yellow_steel_flywheel
-- extendedflywheels:lime_steel_flywheel
-- extendedflywheels:green_steel_flywheel
-- extendedflywheels:cyan_steel_flywheel
-- extendedflywheels:light_blue_steel_flywheel
-- extendedflywheels:blue_steel_flywheel
-- extendedflywheels:magenta_steel_flywheel
-- extendedflywheels:purple_steel_flywheel
-- extendedflywheels:pink_steel_flywheel
 
 #forge:coins/nickel
 - thermal:nickel_coin
@@ -14507,11 +14855,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - infernalexp:smooth_dullstone_button
 - infernalexp:basalt_button
 - infernalexp:soul_slate_button
-- ars_nouveau:archwood_button
-- quark:azalea_button
-- quark:blossom_button
-- quark:gold_button
-- quark:iron_button
 - byg:aspen_button
 - byg:baobab_button
 - byg:blue_enchanted_button
@@ -14541,6 +14884,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_button
 - byg:nightshade_button
 - byg:imparius_button
+- ars_nouveau:archwood_button
+- quark:azalea_button
+- quark:blossom_button
+- quark:gold_button
+- quark:iron_button
 - forbidden_arcanus:polished_darkstone_button
 
 #parry:excluded_shields
@@ -14582,6 +14930,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_tuff_brick_wall
 - create:layered_tuff
 - create:tuff_pillar
+- minecraft:tuff
 
 #dramaticdoors:categories/tall_silentgear_doors
 - dramaticdoors:tall_netherwood_door
@@ -14653,8 +15002,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:tall_rusty_iron_door
 - dramaticdoors:tall_rusty_sheet_metal_door
 - dramaticdoors:tall_sheet_metal_door
-
-#travelersbackpack:blacklisted_items
 
 #dramaticdoors:categories/tall_forbiddenarcanus_doors
 - dramaticdoors:tall_arcane_gold_door
@@ -14819,8 +15166,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:nuggets/copper
 - thermal:copper_nugget
-- tconstruct:copper_nugget
 - create:copper_nugget
+- tconstruct:copper_nugget
 
 #dramaticdoors:categories/short_vanilla_doors
 - dramaticdoors:short_iron_door
@@ -14855,13 +15202,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - malum:unholy_syrup?
 
 #forge:leggings
+- byg:ametrine_leggings
 - minecraft:leather_leggings
 - minecraft:chainmail_leggings
 - minecraft:iron_leggings
 - minecraft:golden_leggings
 - minecraft:diamond_leggings
 - minecraft:netherite_leggings
-- byg:ametrine_leggings
 
 #forge:tools/netherite
 - minecraft:netherite_axe
@@ -15081,9 +15428,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:tall_smogstem_door
 - dramaticdoors:tall_wigglewood_door
 
-#travelersbackpack:acceptable_tools
-- minecraft:diamond_pickaxe
-
 #dramaticdoors:categories/tall_hexcasting_doors
 - dramaticdoors:tall_akashic_door
 
@@ -15131,6 +15475,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - createaddition:copper_rod
 - createaddition:gold_rod
 - createaddition:brass_rod
+- createaddition:electrum_rod
 
 #chipped:pointed_dripstone
 - minecraft:pointed_dripstone
@@ -15151,8 +15496,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #minecraft:fences
 - #minecraft:wooden_fences
 - minecraft:nether_brick_fence
-- architects_palette:ancient_plating_fence
 - framedblocks:framed_fence
+- architects_palette:ancient_plating_fence
 - ars_nouveau:archwood_fence
 - quark:azalea_fence
 - quark:blossom_fence
@@ -15239,6 +15584,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:buckets/honey
 - create:honey_bucket
 
+#copycats:copycat_slab
+- create_connected:copycat_slab
+
 #tconstruct:casts/single_use/tool_handle
 - tconstruct:tool_handle_sand_cast
 - tconstruct:tool_handle_red_sand_cast
@@ -15262,6 +15610,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:torch_9
 
 #forge:ores/coal
+- #minecraft:coal_ores
 - #minecraft:coal_ores
 
 #byg:light_gray_dye
@@ -15315,26 +15664,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #minecraft:trapdoors
 - #minecraft:wooden_trapdoors
 - minecraft:iron_trapdoor
-- #chipped:acacia_trapdoor
-- #chipped:birch_trapdoor
-- #chipped:dark_oak_trapdoor
-- #chipped:jungle_trapdoor
-- #chipped:oak_trapdoor
-- #chipped:spruce_trapdoor
-- #chipped:crimson_trapdoor
-- #chipped:warped_trapdoor
 - framedblocks:framed_trapdoor
 - framedblocks:framed_iron_trapdoor
-- ars_nouveau:archwood_trapdoor
-- supplementaries:gold_trapdoor
-- supplementaries:netherite_trapdoor
-- supplementaries:silver_trapdoor
-- supplementaries:lead_trapdoor
 - alloyed:steel_trapdoor
-- create:train_trapdoor
-- create:framed_glass_trapdoor
-- quark:azalea_trapdoor
-- quark:blossom_trapdoor
 - byg:aspen_trapdoor
 - byg:baobab_trapdoor
 - byg:blue_enchanted_trapdoor
@@ -15364,9 +15696,27 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_trapdoor
 - byg:nightshade_trapdoor
 - byg:imparius_trapdoor
+- #chipped:acacia_trapdoor
+- #chipped:birch_trapdoor
+- #chipped:dark_oak_trapdoor
+- #chipped:jungle_trapdoor
+- #chipped:oak_trapdoor
+- #chipped:spruce_trapdoor
+- #chipped:crimson_trapdoor
+- #chipped:warped_trapdoor
+- ars_nouveau:archwood_trapdoor
+- create:train_trapdoor
+- create:framed_glass_trapdoor
+- supplementaries:gold_trapdoor
+- supplementaries:netherite_trapdoor
+- supplementaries:silver_trapdoor
+- supplementaries:lead_trapdoor
+- quark:azalea_trapdoor
+- quark:blossom_trapdoor
 - forbidden_arcanus:arcane_gold_trapdoor
 
 #forge:ingots/gold
+- minecraft:gold_ingot
 - minecraft:gold_ingot
 
 #forge:glass/cyan
@@ -15395,6 +15745,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:gems/ametrine
 - byg:ametrine_gems
 
+#copycats:copycat_fence
+- create_connected:copycat_fence
+
 #dramaticdoors:categories/short_aurora_doors
 - dramaticdoors:short_jacaranda_door?
 - dramaticdoors:short_redbud_door?
@@ -15406,6 +15759,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:iron_nugget
 
 #createaddition:plant_foods
+- farmersdelight:pumpkin_slice
+- farmersdelight:rotten_tomato
+- farmersdelight:rice_panicle
 - minecraft:apple
 - minecraft:melon_slice
 - minecraft:potato
@@ -15441,54 +15797,24 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #tconstruct:modifiable/armor/worn
 - #tconstruct:modifiable/armor/held
 
-#extendedgears:wooden_cogwheel
-- extendedgears:dark_oak_cogwheel
-- extendedgears:oak_cogwheel
-- extendedgears:birch_cogwheel
-- extendedgears:jungle_cogwheel
-- extendedgears:acacia_cogwheel
-- extendedgears:warped_cogwheel
-- extendedgears:crimson_cogwheel
-- extendedgears:large_dark_oak_cogwheel
-- extendedgears:large_oak_cogwheel
-- extendedgears:large_birch_cogwheel
-- extendedgears:large_jungle_cogwheel
-- extendedgears:large_acacia_cogwheel
-- extendedgears:large_warped_cogwheel
-- extendedgears:large_crimson_cogwheel
-- extendedgears:shaftless_dark_oak_cogwheel
-- extendedgears:shaftless_oak_cogwheel
-- extendedgears:shaftless_birch_cogwheel
-- extendedgears:shaftless_jungle_cogwheel
-- extendedgears:shaftless_acacia_cogwheel
-- extendedgears:shaftless_warped_cogwheel
-- extendedgears:shaftless_crimson_cogwheel
-- extendedgears:large_shaftless_dark_oak_cogwheel
-- extendedgears:large_shaftless_oak_cogwheel
-- extendedgears:large_shaftless_birch_cogwheel
-- extendedgears:large_shaftless_jungle_cogwheel
-- extendedgears:large_shaftless_acacia_cogwheel
-- extendedgears:large_shaftless_warped_cogwheel
-- extendedgears:large_shaftless_crimson_cogwheel
-- extendedgears:half_shaft_dark_oak_cogwheel
-- extendedgears:half_shaft_oak_cogwheel
-- extendedgears:half_shaft_birch_cogwheel
-- extendedgears:half_shaft_jungle_cogwheel
-- extendedgears:half_shaft_acacia_cogwheel
-- extendedgears:half_shaft_warped_cogwheel
-- extendedgears:half_shaft_crimson_cogwheel
-- extendedgears:large_half_shaft_dark_oak_cogwheel
-- extendedgears:large_half_shaft_oak_cogwheel
-- extendedgears:large_half_shaft_birch_cogwheel
-- extendedgears:large_half_shaft_jungle_cogwheel
-- extendedgears:large_half_shaft_acacia_cogwheel
-- extendedgears:large_half_shaft_warped_cogwheel
-- extendedgears:large_half_shaft_crimson_cogwheel
-- extendedgears:half_shaft_spruce_cogwheel
-- extendedgears:large_half_shaft_spruce_cogwheel
-- extendedgears:shaftless_spruce_cogwheel
-- extendedgears:large_shaftless_spruce_cogwheel
-- create:cogwheel?
+#davebuildingmod:dyeable_steel_plating_tag
+- davebuildingmod:pink_steel_plating
+- davebuildingmod:light_blue_steel_plating
+- davebuildingmod:orange_steel_plating
+- davebuildingmod:yellow_steel_plating
+- davebuildingmod:lime_steel_plating
+- davebuildingmod:purple_steel_plating
+- davebuildingmod:light_gray_steel_plating
+- davebuildingmod:cyan_steel_plating
+- davebuildingmod:green_steel_plating
+- davebuildingmod:black_steel_plating
+- davebuildingmod:red_steel_plating
+- davebuildingmod:blue_steel_plating
+- davebuildingmod:gray_steel_plating
+- davebuildingmod:brown_steel_plating
+- davebuildingmod:white_steel_plating
+- davebuildingmod:steel_plating
+- davebuildingmod:magenta_steel_plating
 
 #forge:storage_blocks/rose_gold
 - thermal:rose_gold_block
@@ -15526,6 +15852,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:gears/netherite
 - thermal:netherite_gear
+
+#forge:storage_blocks/andesite_alloy
+- create:andesite_alloy_block
 
 #forge:dusts/apatite
 - thermal:apatite_dust
@@ -15572,13 +15901,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #curios:head
 - immersive_weathering:flower_crown
+- create:goggles
 - artifacts:night_vision_goggles
 - artifacts:novelty_drinking_hat
 - artifacts:plastic_drinking_hat
 - artifacts:snorkel
 - artifacts:superstitious_hat
 - artifacts:villager_hat
-- create:goggles
 
 #forge:storage_blocks/zinc
 - create:zinc_block
@@ -15619,6 +15948,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:sea_lantern_14
 - chipped:sea_lantern_15
 - chipped:sea_lantern_16
+
+#davebuildingmod:dyeable_steel_slab_tag
+- davebuildingmod:magenta_steel_slab
+- davebuildingmod:black_steel_slab
+- davebuildingmod:purple_steel_slab
+- davebuildingmod:cyan_steel_slab
+- davebuildingmod:yellow_steel_slab
+- davebuildingmod:orange_steel_slab
+- davebuildingmod:light_gray_steel_slab
+- davebuildingmod:blue_steel_slab
+- davebuildingmod:gray_steel_slab
+- davebuildingmod:steel_slab
+- davebuildingmod:lime_steel_slab
+- davebuildingmod:brown_steel_slab
+- davebuildingmod:green_steel_slab
+- davebuildingmod:white_steel_slab
+- davebuildingmod:red_steel_slab
+- davebuildingmod:pink_steel_slab
+- davebuildingmod:light_blue_steel_slab
 
 #byg:blue_dye
 - byg:blue_sage
@@ -15710,6 +16058,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:black_glazed_terracotta_10
 - chipped:black_glazed_terracotta_11
 
+#createaddition:spools
+- createaddition:iron_spool
+- createaddition:copper_spool
+- createaddition:gold_spool
+- createaddition:electrum_spool
+
 #tconstruct:bloodshroom_logs
 - tconstruct:bloodshroom_log
 - tconstruct:stripped_bloodshroom_log
@@ -15764,6 +16118,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:rainbow_eucalyptus_wood
 - byg:stripped_rainbow_eucalyptus_wood
 
+#railways:internal/plates/brass_plates
+- #c:plates/brass?
+- #forge:plates/brass?
+
 #farmersdelight:cabinets/wooden
 - farmersdelight:acacia_cabinet
 - farmersdelight:birch_cabinet
@@ -15785,21 +16143,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:ingots/nickel
 - thermal:nickel_ingot
-
-#create:crushed_ores
-- create:crushed_iron_ore
-- create:crushed_gold_ore
-- create:crushed_copper_ore
-- create:crushed_zinc_ore
-- create:crushed_osmium_ore
-- create:crushed_platinum_ore
-- create:crushed_silver_ore
-- create:crushed_tin_ore
-- create:crushed_lead_ore
-- create:crushed_quicksilver_ore
-- create:crushed_aluminum_ore
-- create:crushed_uranium_ore
-- create:crushed_nickel_ore
 
 #forge:slimeball/sky
 - tconstruct:sky_slime_ball
@@ -15873,6 +16216,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:redstone_torch_4
 - chipped:redstone_torch_5
 
+#forge:wires/all_metal
+- createaddition:copper_wire
+- createaddition:gold_wire
+- createaddition:iron_wire
+- createaddition:electrum_wire
+
 #chipped:oak_door
 - minecraft:oak_door
 - chipped:oak_door_1
@@ -15897,14 +16246,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:oak_door_20
 
 #forge:seeds
-- #forge:seeds/cabbage
-- #forge:seeds/rice
-- #forge:seeds/tomato
-- ars_nouveau:magebloom_crop
 - #forge:seeds/beetroot
 - #forge:seeds/melon
 - #forge:seeds/pumpkin
 - #forge:seeds/wheat
+- #forge:seeds/cabbage
+- #forge:seeds/rice
+- #forge:seeds/tomato
+- ars_nouveau:magebloom_crop
 - supplementaries:flax_seeds
 - forbidden_arcanus:golden_orchid_seeds
 
@@ -15913,9 +16262,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:oak_wood
 - minecraft:stripped_oak_log
 - minecraft:stripped_oak_wood
-- decorative_blocks:oak_beam
 - byg:withering_oak_log
 - byg:withering_oak_wood
+- decorative_blocks:oak_beam
 
 #forge:gems/source
 - ars_nouveau:source_gem
@@ -15924,6 +16273,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:tall_twisted_door
 
 #forge:ores/lapis
+- #minecraft:lapis_ores
 - #minecraft:lapis_ores
 - #minecraft:lapis_ores
 
@@ -15958,6 +16308,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #minecraft:pressure_plates
 - quark:azalea_pressure_plate
 - quark:blossom_pressure_plate
+
+#forge:gems/aquamarine
+- epicsamurai:aquamarine
 
 #forge:tools/gold
 - minecraft:golden_axe
@@ -16068,6 +16421,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:lime_clear_stained_glass_pane
 
 #forge:gems/ruby
+- epicsamurai:ruby
 - thermal:ruby
 
 #dramaticdoors:categories/tall_goodending_doors
@@ -16248,7 +16602,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:flower_crown
 - immersive_weathering:flowering_azalea_leaf_pile
 - immersive_weathering:azalea_flower_pile
-- supplementaries:wild_flax
 - byg:hydrangea_hedge
 - byg:flowering_indigo_jacaranda_bush
 - byg:flowering_jacaranda_bush
@@ -16257,6 +16610,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:flowering_orchard_leaves
 - byg:flowering_palo_verde_leaves
 - byg:flowering_nightshade_leaves
+- supplementaries:wild_flax
 
 #forge:vegetables/potato
 - minecraft:potato
@@ -16282,6 +16636,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:deepslate_diamond_ore
 
 #forge:gems/amethyst
+- minecraft:amethyst_shard
 - minecraft:amethyst_shard
 
 #forge:nuggets/rose_gold
@@ -16419,6 +16774,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:ores/redstone
 - #forge:ores/quartz
 - #forge:ores/netherite_scrap
+- #forge:ores/ruby
+- #forge:ores/jade
+- #forge:ores/onyx
+- #forge:ores/aquamarine
+- #forge:ores/silver
+- #forge:ores/coal
+- #forge:ores/copper
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
 - #forge:ores/apatite
 - #forge:ores/cinnabar
 - #forge:ores/niter
@@ -16429,10 +16799,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:ores/tin
 - #forge:ores/ruby
 - #forge:ores/sapphire
-- #forge:ores/cobalt
-- #forge:ores/certus_quartz
-- create:zinc_ore
-- create:deepslate_zinc_ore
 - byg:ametrine_ore
 - byg:anthracite_ore
 - byg:budding_ametrine_ore
@@ -16444,6 +16810,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:brimstone_nether_gold_ore
 - byg:brimstone_nether_quartz_ore
 - byg:emeraldite_ore
+- create:zinc_ore
+- create:deepslate_zinc_ore
+- #forge:ores/cobalt
+- #forge:ores/certus_quartz
 - #forge:ores/arcane_crystal
 - #forge:ores/stella_arcanum
 - #forge:ores/xpetrified_ore
@@ -16550,6 +16920,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_dripstone_brick_wall
 - create:layered_dripstone
 - create:dripstone_pillar
+- minecraft:dripstone_block
 
 #ae2:all_certus_quartz
 - #forge:gems/certus_quartz
@@ -16631,27 +17002,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #integrateddynamics:parts
 - integratedterminals:part_terminal_storage
 - integratedterminals:part_terminal_crafting_job
-- integratedtunnels:part_interface_energy
-- integratedtunnels:part_interface_filter_energy
-- integratedtunnels:part_importer_energy
-- integratedtunnels:part_exporter_energy
-- integratedtunnels:part_importer_world_energy
-- integratedtunnels:part_exporter_world_energy
-- integratedtunnels:part_interface_item
-- integratedtunnels:part_interface_filter_item
-- integratedtunnels:part_importer_item
-- integratedtunnels:part_exporter_item
-- integratedtunnels:part_importer_world_item
-- integratedtunnels:part_exporter_world_item
-- integratedtunnels:part_interface_fluid
-- integratedtunnels:part_interface_filter_fluid
-- integratedtunnels:part_importer_fluid
-- integratedtunnels:part_exporter_fluid
-- integratedtunnels:part_importer_world_fluid
-- integratedtunnels:part_exporter_world_fluid
-- integratedtunnels:part_importer_world_block
-- integratedtunnels:part_exporter_world_block
-- integratedtunnels:part_player_simulator
 - integratedcrafting:part_interface_crafting
 - integratedcrafting:part_crafting_writer
 - integrateddynamics:part_audio_reader
@@ -16675,6 +17025,27 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - integrateddynamics:part_redstone_writer
 - integrateddynamics:part_static_light_panel
 - integrateddynamics:part_world_reader
+- integratedtunnels:part_interface_energy
+- integratedtunnels:part_interface_filter_energy
+- integratedtunnels:part_importer_energy
+- integratedtunnels:part_exporter_energy
+- integratedtunnels:part_importer_world_energy
+- integratedtunnels:part_exporter_world_energy
+- integratedtunnels:part_interface_item
+- integratedtunnels:part_interface_filter_item
+- integratedtunnels:part_importer_item
+- integratedtunnels:part_exporter_item
+- integratedtunnels:part_importer_world_item
+- integratedtunnels:part_exporter_world_item
+- integratedtunnels:part_interface_fluid
+- integratedtunnels:part_interface_filter_fluid
+- integratedtunnels:part_importer_fluid
+- integratedtunnels:part_exporter_fluid
+- integratedtunnels:part_importer_world_fluid
+- integratedtunnels:part_exporter_world_fluid
+- integratedtunnels:part_importer_world_block
+- integratedtunnels:part_exporter_world_block
+- integratedtunnels:part_player_simulator
 
 #immersive_weathering:bark
 - immersive_weathering:oak_bark
@@ -16683,7 +17054,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:jungle_bark
 - immersive_weathering:acacia_bark
 - immersive_weathering:dark_oak_bark
-- immersive_weathering:architects_palette/twisted_bark
 - immersive_weathering:biomesoplenty/fir_bark
 - immersive_weathering:biomesoplenty/redwood_bark
 - immersive_weathering:biomesoplenty/cherry_bark
@@ -16695,12 +17065,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:biomesoplenty/magic_bark
 - immersive_weathering:biomesoplenty/umbran_bark
 - immersive_weathering:biomesoplenty/hellbark_bark
-- immersive_weathering:tconstruct/greenheart_bark
-- immersive_weathering:tconstruct/skyroot_bark
-- immersive_weathering:tconstruct/bloodshroom_bark
 - immersive_weathering:integrateddynamics/menril_bark
-- immersive_weathering:quark/azalea_bark
-- immersive_weathering:quark/blossom_bark
 - immersive_weathering:byg/aspen_bark
 - immersive_weathering:byg/baobab_bark
 - immersive_weathering:byg/blue_enchanted_bark
@@ -16729,6 +17094,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - immersive_weathering:byg/nightshade_bark
 - immersive_weathering:byg/ether_bark
 - immersive_weathering:byg/imparius_bark
+- immersive_weathering:architects_palette/twisted_bark
+- immersive_weathering:tconstruct/greenheart_bark
+- immersive_weathering:tconstruct/skyroot_bark
+- immersive_weathering:tconstruct/bloodshroom_bark
+- immersive_weathering:quark/blossom_bark
+- immersive_weathering:quark/azalea_bark
 - immersive_weathering:forbidden_arcanus/fungyss_bark
 - immersive_weathering:forbidden_arcanus/cherrywood_bark
 - immersive_weathering:forbidden_arcanus/mysterywood_bark
@@ -16766,14 +17137,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - createaddition:gold_rod
 
 #forge:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
 - minecraft:wooden_axe
 - minecraft:stone_axe
 - minecraft:iron_axe
 - minecraft:golden_axe
 - minecraft:diamond_axe
 - minecraft:netherite_axe
-- byg:pendorite_axe
-- byg:pendorite_battleaxe
 
 #chipped:light_gray_stained_glass_pane
 - minecraft:light_gray_stained_glass_pane
@@ -16920,6 +17291,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:golden_leggings
 - minecraft:golden_boots
 
+#forge:plates/all_metal
+- createaddition:zinc_sheet
+- createaddition:electrum_sheet
+
 #c:storage_blocks
 - byg:ametrine_block
 - byg:pendorite_block
@@ -16939,42 +17314,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #tconstruct:casts/single_use/pick_head
 - tconstruct:pick_head_sand_cast
 - tconstruct:pick_head_red_sand_cast
-
-#extendedgears:large_cogwheel
-- extendedgears:large_dark_oak_cogwheel
-- extendedgears:large_oak_cogwheel
-- extendedgears:large_birch_cogwheel
-- extendedgears:large_jungle_cogwheel
-- extendedgears:large_acacia_cogwheel
-- extendedgears:large_warped_cogwheel
-- extendedgears:large_crimson_cogwheel
-- extendedgears:large_shaftless_dark_oak_cogwheel
-- extendedgears:large_shaftless_oak_cogwheel
-- extendedgears:large_shaftless_birch_cogwheel
-- extendedgears:large_shaftless_jungle_cogwheel
-- extendedgears:large_shaftless_acacia_cogwheel
-- extendedgears:large_shaftless_warped_cogwheel
-- extendedgears:large_shaftless_crimson_cogwheel
-- extendedgears:large_half_shaft_dark_oak_cogwheel
-- extendedgears:large_half_shaft_oak_cogwheel
-- extendedgears:large_half_shaft_birch_cogwheel
-- extendedgears:large_half_shaft_jungle_cogwheel
-- extendedgears:large_half_shaft_acacia_cogwheel
-- extendedgears:large_half_shaft_warped_cogwheel
-- extendedgears:large_half_shaft_crimson_cogwheel
-- extendedgears:large_iron_cogwheel
-- extendedgears:large_steel_cogwheel
-- extendedgears:large_copper_cogwheel
-- extendedgears:large_shaftless_iron_cogwheel
-- extendedgears:large_shaftless_steel_cogwheel
-- extendedgears:large_shaftless_copper_cogwheel
-- extendedgears:large_half_shaft_iron_cogwheel
-- extendedgears:large_half_shaft_steel_cogwheel
-- extendedgears:large_half_shaft_copper_cogwheel
-- extendedgears:large_half_shaft_spruce_cogwheel
-- extendedgears:large_shaftless_spruce_cogwheel
-- create:large_cogwheel?
-- create:large_cogwheel?
 
 #forge:nuggets/bronze
 - thermal:bronze_nugget
@@ -17126,6 +17465,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:fiber
 - supplementaries:flax
 
+#copycats:copycat_vertical_step
+- create_connected:copycat_vertical_step
+
 #forge:gears/rose_gold
 - thermal:rose_gold_gear
 
@@ -17135,11 +17477,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:scorched_bricks
 - tconstruct:scorched_road
 - tconstruct:chiseled_scorched_bricks
-
-#ftbchunks:right_click_whitelist
-- minecraft:shield
-- minecraft:firework_rocket
-- minecraft:map
 
 #forge:sandstone
 - biomesoplenty:black_sandstone
@@ -17393,6 +17730,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - forbidden_arcanus:mysterywood_sign
 - forbidden_arcanus:edelwood_sign
 
+#davebuildingmod:dyeable_steel_funnel
+- davebuildingmod:yellow_steel_funnel
+- davebuildingmod:white_steel_funnel
+- davebuildingmod:pink_steel_funnel
+- davebuildingmod:red_steel_funnel
+- davebuildingmod:lime_steel_funnel
+- davebuildingmod:black_steel_funnel
+- davebuildingmod:steel_funnel
+- davebuildingmod:brown_steel_funnel
+- davebuildingmod:orange_steel_funnel
+- davebuildingmod:magenta_steel_funnel
+- davebuildingmod:green_steel_funnel
+- davebuildingmod:light_blue_steel_funnel
+- davebuildingmod:blue_steel_funnel
+- davebuildingmod:purple_steel_funnel
+- davebuildingmod:gray_steel_funnel
+- davebuildingmod:light_gray_steel_funnel
+- davebuildingmod:cyan_steel_funnel
+
 #supplementaries:chalk
 - minecraft:quartz?
 - chalk:white_chalk?
@@ -17495,6 +17851,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:fir_wood
 - byg:stripped_fir_wood
 
+#davebuildingmod:dyeable_steel_button_tag
+- davebuildingmod:green_steel_button
+- davebuildingmod:blue_steel_button
+- davebuildingmod:lime_steel_button
+- davebuildingmod:purple_steel_button
+- davebuildingmod:gray_steel_button
+- davebuildingmod:pink_steel_button
+- davebuildingmod:cyan_steel_button
+- davebuildingmod:light_blue_steel_button
+- davebuildingmod:white_steel_button
+- davebuildingmod:steel_button
+- davebuildingmod:orange_steel_button
+- davebuildingmod:black_steel_button
+- davebuildingmod:yellow_steel_button
+- davebuildingmod:light_gray_steel_button
+- davebuildingmod:brown_steel_button
+- davebuildingmod:red_steel_button
+- davebuildingmod:magenta_steel_button
+
 #ars_nouveau:golem/shard
 - minecraft:amethyst_shard
 
@@ -17510,6 +17885,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:end_sand
 - byg:windswept_sand
 - byg:cracked_red_sand
+
+#create_sa:fuelable
+- create_sa:andesite_exoskeleton_chestplate
+- create_sa:brass_jetpack_chestplate
+- create_sa:portable_drill
+- create_sa:brass_exoskeleton_chestplate
+- create_sa:flamethrower
+- create_sa:grapplin_whisk
+- create_sa:andesite_jetpack_chestplate
 
 #forge:cobblestone/normal
 - minecraft:cobblestone
@@ -17536,13 +17920,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - decorative_blocks:crimson_support
 
 #forge:boots
+- byg:ametrine_boots
 - minecraft:leather_boots
 - minecraft:chainmail_boots
 - minecraft:iron_boots
 - minecraft:golden_boots
 - minecraft:diamond_boots
 - minecraft:netherite_boots
-- byg:ametrine_boots
 
 #bookshelf:pickaxes
 - #forge:pickaxes
@@ -17677,23 +18061,26 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:blue_terracotta_65
 - chipped:blue_terracotta_66
 
-#travelersbackpack:sleeping_bags
-- travelersbackpack:white_sleeping_bag
-- travelersbackpack:orange_sleeping_bag
-- travelersbackpack:magenta_sleeping_bag
-- travelersbackpack:light_blue_sleeping_bag
-- travelersbackpack:yellow_sleeping_bag
-- travelersbackpack:lime_sleeping_bag
-- travelersbackpack:pink_sleeping_bag
-- travelersbackpack:gray_sleeping_bag
-- travelersbackpack:light_gray_sleeping_bag
-- travelersbackpack:cyan_sleeping_bag
-- travelersbackpack:purple_sleeping_bag
-- travelersbackpack:blue_sleeping_bag
-- travelersbackpack:brown_sleeping_bag
-- travelersbackpack:green_sleeping_bag
-- travelersbackpack:red_sleeping_bag
-- travelersbackpack:black_sleeping_bag
+#davebuildingmod:dyeable_gilded_steel_tank_tag
+- davebuildingmod:purple_gilded_steel_tank
+- davebuildingmod:red_guilded_steel_tank
+- davebuildingmod:gray_gilded_steel_tank
+- davebuildingmod:magenta_gilded_steel_tank
+- davebuildingmod:green_gilded_steel_tank
+- davebuildingmod:gilded_steel_tank
+- davebuildingmod:pink_gilded_steel_tank
+- davebuildingmod:lime_gilded_steel_tank
+- davebuildingmod:red_gilded_steel_tank
+- davebuildingmod:blue_gilded_steel_tank
+- davebuildingmod:white_gilded_steel_tank
+- davebuildingmod:black_gilded_steel_tank
+- davebuildingmod:yellow_gilded_steel_tank
+- davebuildingmod:light_blue_gilded_steel_tank
+- davebuildingmod:brown_gilded_steel_tank
+- davebuildingmod:cyan_gilded_steel_tank
+- davebuildingmod:black_guilder_steel_tank
+- davebuildingmod:orange_gilded_steel_tank
+- davebuildingmod:light_gray_gilded_steel_tank
 
 #byg:orange_dye
 - byg:orange_amaranth
@@ -17811,8 +18198,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_fence
 - biomesoplenty:umbran_fence
 - biomesoplenty:hellbark_fence
-- ars_nouveau:archwood_fence
 - #minecraft:wooden_fences
+- ars_nouveau:archwood_fence
 - tconstruct:greenheart_fence
 - tconstruct:skyroot_fence
 - tconstruct:bloodshroom_fence
@@ -17828,7 +18215,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:storage_blocks
 - #forge:storage_blocks/compressed_iron
-- ars_nouveau:source_gem_block
 - #forge:storage_blocks/amethyst
 - #forge:storage_blocks/coal
 - #forge:storage_blocks/copper
@@ -17874,6 +18260,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:storage_blocks/sapphire
 - #forge:storage_blocks/rose_gold
 - #forge:storage_blocks/steel
+- integrateddynamics:crystalized_chorus_block
+- integrateddynamics:crystalized_menril_block
+- byg:ametrine_block
+- byg:pendorite_block
+- byg:anthracite_block
+- byg:lignite_block
+- ars_nouveau:source_gem_block
+- create:raw_zinc_block
+- create:zinc_block
+- create:andesite_alloy_block
+- create:brass_block
+- create:experience_block
+- createdeco:cast_iron_block
 - #forge:storage_blocks/cobalt
 - #forge:storage_blocks/slimesteel
 - #forge:storage_blocks/amethyst_bronze
@@ -17886,17 +18285,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:storage_blocks/knightslime
 - #forge:storage_blocks/raw_cobalt
 - #forge:storage_blocks/certus_quartz
-- create:raw_zinc_block
-- create:zinc_block
-- create:brass_block
-- createdeco:cast_iron_block
-- integrateddynamics:crystalized_chorus_block
-- integrateddynamics:crystalized_menril_block
 - #forge:storage_blocks/charcoal
-- byg:ametrine_block
-- byg:pendorite_block
-- byg:anthracite_block
-- byg:lignite_block
 - #forge:storage_blocks/arcane_crystal
 - #forge:storage_blocks/arcane_gold
 - #forge:storage_blocks/dark_nether_star
@@ -17995,18 +18384,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:red_sandstone_69
 
 #forge:ingots/brick
+- minecraft:brick
 - immersive_weathering:deepslate_brick
 - immersive_weathering:stone_brick
 - immersive_weathering:end_stone_brick
 - immersive_weathering:blackstone_brick
 - minecraft:brick
-- supplementaries:ash_brick
 - createdeco:worn_brick
-- createdeco:dusk_brick
-- createdeco:pearl_brick
 - createdeco:scarlet_brick
+- createdeco:pearl_brick
 - createdeco:dean_brick
+- createdeco:dusk_brick
 - createdeco:blue_brick
+- supplementaries:ash_brick
 
 #chipped:glowstone
 - minecraft:glowstone
@@ -18030,6 +18420,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:glowstone_18
 - chipped:glowstone_19
 - chipped:glowstone_20
+
+#sophisticatedstorage:base_tier_wooden_storage
+- sophisticatedstorage:barrel
+- sophisticatedstorage:chest
 
 #forge:raw_beef
 - minecraft:beef
@@ -18085,51 +18479,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:plates/electrum
 - thermal:electrum_plate
-
-#travelersbackpack:custom_travelers_backpack
-- travelersbackpack:standard
-- travelersbackpack:netherite
-- travelersbackpack:diamond
-- travelersbackpack:gold
-- travelersbackpack:emerald
-- travelersbackpack:iron
-- travelersbackpack:lapis
-- travelersbackpack:redstone
-- travelersbackpack:coal
-- travelersbackpack:quartz
-- travelersbackpack:bookshelf
-- travelersbackpack:nether
-- travelersbackpack:end
-- travelersbackpack:sandstone
-- travelersbackpack:snow
-- travelersbackpack:sponge
-- travelersbackpack:cake
-- travelersbackpack:cactus
-- travelersbackpack:hay
-- travelersbackpack:melon
-- travelersbackpack:pumpkin
-- travelersbackpack:creeper
-- travelersbackpack:dragon
-- travelersbackpack:enderman
-- travelersbackpack:blaze
-- travelersbackpack:ghast
-- travelersbackpack:magma_cube
-- travelersbackpack:skeleton
-- travelersbackpack:spider
-- travelersbackpack:wither
-- travelersbackpack:bat
-- travelersbackpack:bee
-- travelersbackpack:wolf
-- travelersbackpack:fox
-- travelersbackpack:ocelot
-- travelersbackpack:horse
-- travelersbackpack:cow
-- travelersbackpack:pig
-- travelersbackpack:sheep
-- travelersbackpack:chicken
-- travelersbackpack:squid
-- travelersbackpack:villager
-- travelersbackpack:iron_golem
+- createaddition:electrum_sheet
 
 #forge:dragon_scales
 - forbidden_arcanus:dragon_scale
@@ -18147,6 +18497,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:iron_door
 - minecraft:iron_trapdoor
 - minecraft:iron_bars
+
+#davebuildingmod:dyeable_steel_dark_buffer
+- davebuildingmod:pink_steel_dark_buffer
+- davebuildingmod:yellow_steel_dark_buffer
+- davebuildingmod:cyan_steel_dark_buffer
+- davebuildingmod:white_steel_dark_buffer
+- davebuildingmod:lime_steel_dark_buffer
+- davebuildingmod:orange_steel_dark_buffer
+- davebuildingmod:magenta_steel_dark_buffer
+- davebuildingmod:steel_dark_buffer
+- davebuildingmod:red_steel_dark_buffer
+- davebuildingmod:green_steel_dark_buffer
+- davebuildingmod:light_gray_steel_dark_buffer
+- davebuildingmod:gray_steel_dark_buffer
+- davebuildingmod:black_steel_dark_buffer
+- davebuildingmod:purple_steel_dark_buffer
+- davebuildingmod:brown_steel_dark_buffer
+- davebuildingmod:light_blue_steel_dark_buffer
+- davebuildingmod:blue_steel_dark_buffer
 
 #forge:glass_panes/runic
 - forbidden_arcanus:runic_glass_pane
@@ -18245,6 +18614,85 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - infernalexp:soul_slate_stairs
 - infernalexp:soul_stone_brick_stairs
 - infernalexp:soul_slate_brick_stairs
+- biomesoplenty:black_sandstone_stairs
+- biomesoplenty:smooth_black_sandstone_stairs
+- biomesoplenty:orange_sandstone_stairs
+- biomesoplenty:smooth_orange_sandstone_stairs
+- biomesoplenty:white_sandstone_stairs
+- biomesoplenty:smooth_white_sandstone_stairs
+- biomesoplenty:mud_brick_stairs
+- biomesoplenty:fir_stairs
+- biomesoplenty:redwood_stairs
+- biomesoplenty:cherry_stairs
+- biomesoplenty:mahogany_stairs
+- biomesoplenty:jacaranda_stairs
+- biomesoplenty:palm_stairs
+- biomesoplenty:willow_stairs
+- biomesoplenty:dead_stairs
+- biomesoplenty:magic_stairs
+- biomesoplenty:umbran_stairs
+- biomesoplenty:hellbark_stairs
+- framedblocks:framed_stairs
+- #pneumaticcraft:stairs
+- alloyed:steel_sheet_stairs
+- integrateddynamics:crystalized_chorus_block_stairs
+- integrateddynamics:crystalized_chorus_brick_stairs
+- integrateddynamics:crystalized_menril_block_stairs
+- integrateddynamics:crystalized_menril_brick_stairs
+- integrateddynamics:menril_planks_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:dacite_cobblestone_stairs
+- byg:mossy_stone_stairs
+- byg:rocky_stone_stairs
+- byg:scoria_stone_stairs
+- byg:scoria_cobblestone_stairs
+- byg:scoria_stonebrick_stairs
+- byg:soapstone_stairs
+- byg:polished_soapstone_stairs
+- byg:soapstone_brick_stairs
+- byg:soapstone_tile_stairs
+- byg:red_rock_stairs
+- byg:red_rock_brick_stairs
+- byg:mossy_red_rock_brick_stairs
+- byg:cracked_red_rock_brick_stairs
+- byg:chiseled_red_rock_brick_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:ether_stone_stairs
+- byg:carved_ether_stone_stairs
+- byg:cobbled_ether_stone_stairs
+- byg:purpur_stone_stairs
+- byg:imparius_stairs
+- byg:chiseled_fungal_imparius_stairs
+- byg:windswept_sandstone_stairs
+- byg:cut_windswept_sandstone_stairs
+- byg:chiseled_windswept_sandstone_stairs
+- byg:smooth_windswept_sandstone_stairs
 - architects_palette:entrails_stairs
 - architects_palette:plating_stairs
 - architects_palette:myonite_stairs
@@ -18300,32 +18748,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - architects_palette:oracle_tile_stairs
 - architects_palette:cerebral_stairs
 - architects_palette:cerebral_tile_stairs
-- biomesoplenty:black_sandstone_stairs
-- biomesoplenty:smooth_black_sandstone_stairs
-- biomesoplenty:orange_sandstone_stairs
-- biomesoplenty:smooth_orange_sandstone_stairs
-- biomesoplenty:white_sandstone_stairs
-- biomesoplenty:smooth_white_sandstone_stairs
-- biomesoplenty:mud_brick_stairs
-- biomesoplenty:fir_stairs
-- biomesoplenty:redwood_stairs
-- biomesoplenty:cherry_stairs
-- biomesoplenty:mahogany_stairs
-- biomesoplenty:jacaranda_stairs
-- biomesoplenty:palm_stairs
-- biomesoplenty:willow_stairs
-- biomesoplenty:dead_stairs
-- biomesoplenty:magic_stairs
-- biomesoplenty:umbran_stairs
-- biomesoplenty:hellbark_stairs
-- framedblocks:framed_stairs
-- #pneumaticcraft:stairs
 - ars_nouveau:archwood_stairs
-- supplementaries:blackstone_tile_stairs
-- supplementaries:ash_bricks_stairs
-- supplementaries:lapis_bricks_stairs
-- supplementaries:stone_tile_stairs
-- alloyed:steel_sheet_stairs
 - create:cut_granite_stairs
 - create:polished_cut_granite_stairs
 - create:cut_granite_brick_stairs
@@ -18382,11 +18805,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:polished_cut_veridium_stairs
 - create:cut_veridium_brick_stairs
 - create:small_veridium_brick_stairs
-- integrateddynamics:crystalized_chorus_block_stairs
-- integrateddynamics:crystalized_chorus_brick_stairs
-- integrateddynamics:crystalized_menril_block_stairs
-- integrateddynamics:crystalized_menril_brick_stairs
-- integrateddynamics:menril_planks_stairs
+- supplementaries:blackstone_tile_stairs
+- supplementaries:ash_bricks_stairs
+- supplementaries:lapis_bricks_stairs
+- supplementaries:stone_tile_stairs
 - quark:andesite_bricks_stairs
 - quark:azalea_planks_stairs
 - quark:blackstone_bricks_stairs
@@ -18448,59 +18870,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - quark:tuff_stairs
 - quark:white_shingles_stairs
 - quark:yellow_shingles_stairs
-- byg:aspen_stairs
-- byg:baobab_stairs
-- byg:blue_enchanted_stairs
-- byg:cherry_stairs
-- byg:cika_stairs
-- byg:cypress_stairs
-- byg:ebony_stairs
-- byg:fir_stairs
-- byg:green_enchanted_stairs
-- byg:holly_stairs
-- byg:jacaranda_stairs
-- byg:mahogany_stairs
-- byg:mangrove_stairs
-- byg:maple_stairs
-- byg:pine_stairs
-- byg:rainbow_eucalyptus_stairs
-- byg:redwood_stairs
-- byg:skyris_stairs
-- byg:willow_stairs
-- byg:witch_hazel_stairs
-- byg:zelkova_stairs
-- byg:dacite_cobblestone_stairs
-- byg:mossy_stone_stairs
-- byg:rocky_stone_stairs
-- byg:scoria_stone_stairs
-- byg:scoria_cobblestone_stairs
-- byg:scoria_stonebrick_stairs
-- byg:soapstone_stairs
-- byg:polished_soapstone_stairs
-- byg:soapstone_brick_stairs
-- byg:soapstone_tile_stairs
-- byg:red_rock_stairs
-- byg:red_rock_brick_stairs
-- byg:mossy_red_rock_brick_stairs
-- byg:cracked_red_rock_brick_stairs
-- byg:chiseled_red_rock_brick_stairs
-- byg:sythian_stairs
-- byg:embur_stairs
-- byg:palm_stairs
-- byg:lament_stairs
-- byg:ether_stairs
-- byg:bulbis_stairs
-- byg:nightshade_stairs
-- byg:ether_stone_stairs
-- byg:carved_ether_stone_stairs
-- byg:cobbled_ether_stone_stairs
-- byg:purpur_stone_stairs
-- byg:imparius_stairs
-- byg:chiseled_fungal_imparius_stairs
-- byg:windswept_sandstone_stairs
-- byg:cut_windswept_sandstone_stairs
-- byg:chiseled_windswept_sandstone_stairs
-- byg:smooth_windswept_sandstone_stairs
 - forbidden_arcanus:darkstone_stairs
 - forbidden_arcanus:polished_darkstone_stairs
 - forbidden_arcanus:polished_darkstone_brick_stairs
@@ -18545,6 +18914,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dramaticdoors:short_towerwood_door?
 
 #forge:raw_materials/gold
+- minecraft:raw_gold
 - minecraft:raw_gold
 - minecraft:raw_gold
 
@@ -18599,9 +18969,29 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_andesite_brick_wall
 - create:layered_andesite
 - create:andesite_pillar
+- minecraft:andesite
 
 #forge:slag
 - thermal:slag
+
+#davebuildingmod:dyeable_steel_pressureplate_tag
+- davebuildingmod:light_gray_steel_plate
+- davebuildingmod:cyan_steel_plate
+- davebuildingmod:green_steel_plate
+- davebuildingmod:light_blue_steel_plate
+- davebuildingmod:black_steel_plate
+- davebuildingmod:orange_steel_plate
+- davebuildingmod:steel_plate
+- davebuildingmod:blue_steel_plate
+- davebuildingmod:brown_steel_plate
+- davebuildingmod:magenta_steel_plate
+- davebuildingmod:lime_steel_plate
+- davebuildingmod:red_steel_plate
+- davebuildingmod:white_steel_plate
+- davebuildingmod:yellow_steel_plate
+- davebuildingmod:pink_steel_plate
+- davebuildingmod:purple_steel_plate
+- davebuildingmod:gray_steel_plate
 
 #tconstruct:casts/multi_use/ingot
 - tconstruct:ingot_cast
@@ -18626,6 +19016,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:dusts/sapphire
 - thermal:sapphire_dust
 
+#origins:meat
+- farmersdelight:fried_egg
+- farmersdelight:cod_slice
+- farmersdelight:cooked_cod_slice
+- farmersdelight:salmon_slice
+- farmersdelight:cooked_salmon_slice
+- farmersdelight:bacon_and_eggs
+
 #minecraft:emerald_ores
 - minecraft:emerald_ore
 - minecraft:deepslate_emerald_ore
@@ -18645,6 +19043,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_deepslate_brick_wall
 - create:layered_deepslate
 - create:deepslate_pillar
+- minecraft:deepslate
 
 #chipped:tuff
 - minecraft:tuff
@@ -18752,6 +19151,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:sky_staff
 - tconstruct:earth_staff
 - tconstruct:ichor_staff
+- tconstruct:ender_staff
 - #tconstruct:modifiable/shields
 
 #thermal:dynamos
@@ -18861,15 +19261,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:white_concrete_19
 - chipped:white_concrete_20
 - chipped:white_concrete_21
-
-#ftbchunks:right_click_blacklist
-- minecraft:bucket
-- minecraft:water_bucket
-- minecraft:lava_bucket
-- minecraft:lead
-- minecraft:name_tag
-- minecraft:splash_potion
-- minecraft:lingering_potion
 
 #forge:dyes/yellow
 - minecraft:yellow_dye
@@ -19068,6 +19459,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:cobblestone
 - minecraft:blackstone
 - minecraft:cobbled_deepslate
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
 - #chipped:cobblestone
 - #chipped:blackstone
 - minecraft:cobblestone
@@ -19076,14 +19472,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:granite
 - minecraft:andesite
 - minecraft:diorite
-- byg:red_rock
-- byg:dacite_cobblestone
-- byg:scoria_cobblestone
-- byg:soapstone
-- byg:cobbled_ether_stone
 
 #forge:ingots/zinc
 - create:zinc_ingot
+
+#forge:ores/aquamarine
+- epicsamurai:aquamarine_ore
+- epicsamurai:deepslate_aquamarine_ore
 
 #farmersdelight:canvas_signs
 - farmersdelight:canvas_sign
@@ -19105,7 +19500,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - farmersdelight:black_canvas_sign
 
 #forge:raw_materials/silver
+- epicsamurai:raw_silver
 - thermal:raw_silver
+
+#tconstruct:modifiable/special
+- tconstruct:sky_staff
+- tconstruct:earth_staff
+- tconstruct:ichor_staff
+- tconstruct:ender_staff
 
 #forge:glass/black
 - minecraft:black_stained_glass
@@ -19239,7 +19641,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_stairs
 - minecraft:crimson_stairs
 - minecraft:warped_stairs
-- architects_palette:twisted_stairs
 - biomesoplenty:fir_stairs
 - biomesoplenty:redwood_stairs
 - biomesoplenty:cherry_stairs
@@ -19251,13 +19652,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_stairs
 - biomesoplenty:umbran_stairs
 - biomesoplenty:hellbark_stairs
-- ars_nouveau:archwood_stairs
-- tconstruct:greenheart_planks_stairs
-- tconstruct:skyroot_planks_stairs
-- tconstruct:bloodshroom_planks_stairs
 - integrateddynamics:menril_planks_stairs
-- quark:azalea_planks_stairs
-- quark:blossom_planks_stairs
 - byg:aspen_stairs
 - byg:baobab_stairs
 - byg:blue_enchanted_stairs
@@ -19287,6 +19682,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_stairs
 - byg:nightshade_stairs
 - byg:imparius_stairs
+- architects_palette:twisted_stairs
+- ars_nouveau:archwood_stairs
+- tconstruct:greenheart_planks_stairs
+- tconstruct:skyroot_planks_stairs
+- tconstruct:bloodshroom_planks_stairs
+- quark:azalea_planks_stairs
+- quark:blossom_planks_stairs
 - forbidden_arcanus:fungyss_stairs
 - forbidden_arcanus:cherrywood_stairs
 - forbidden_arcanus:mysterywood_stairs
@@ -19404,6 +19806,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:pink_concrete_21
 
 #forge:ores/emerald
+- #minecraft:emerald_ores
 - #minecraft:emerald_ores
 - #minecraft:emerald_ores
 
@@ -19526,7 +19929,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:lilac
 - minecraft:peony
 - minecraft:rose_bush
-- farmersdelight:wild_rice
 - biomesoplenty:blue_hydrangea
 - biomesoplenty:goldenrod
 - byg:foxglove
@@ -19534,6 +19936,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:japanese_orchid
 - byg:tall_allium
 - byg:tall_pink_allium
+- farmersdelight:wild_rice
 
 #c:pink_sand
 - byg:pink_sand
@@ -19543,15 +19946,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:bookshelves
 - minecraft:bookshelf
-- quark:acacia_bookshelf
-- quark:birch_bookshelf
-- quark:dark_oak_bookshelf
-- quark:jungle_bookshelf
-- quark:spruce_bookshelf
-- quark:warped_bookshelf
-- quark:crimson_bookshelf
-- quark:azalea_bookshelf
-- quark:blossom_bookshelf
 - byg:aspen_bookshelf
 - byg:baobab_bookshelf
 - byg:blue_enchanted_bookshelf
@@ -19581,6 +19975,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:ether_bookshelf
 - byg:nightshade_bookshelf
 - byg:imparius_bookshelf
+- quark:acacia_bookshelf
+- quark:birch_bookshelf
+- quark:dark_oak_bookshelf
+- quark:jungle_bookshelf
+- quark:spruce_bookshelf
+- quark:warped_bookshelf
+- quark:crimson_bookshelf
+- quark:azalea_bookshelf
+- quark:blossom_bookshelf
 
 #dramaticdoors:categories/short_architectspalette_doors
 - dramaticdoors:short_twisted_door?
@@ -19633,6 +20036,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:moss_block
 - #chipped:dirt
 
+#tconstruct:modifiable/book_armor/tinkers_gadgetry
+- tconstruct:slime_helmet
+- tconstruct:slime_chestplate
+- tconstruct:slime_leggings
+- tconstruct:slime_boots
+
 #forge:gears/constantan
 - thermal:constantan_gear
 
@@ -19661,6 +20070,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - dustrial_decor:large_gold_chain?
 - dustrial_decor:large_chain?
 - forbidden_arcanus:arcane_golden_chain?
+
+#create_sa:jetpack
+- create_sa:brass_jetpack_chestplate
+- create_sa:copper_jetpack_chestplate
+- create_sa:andesite_jetpack_chestplate
 
 #railways:internal/dyes/light_blue_dyes
 - #c:light_blue_dyes?
@@ -19721,6 +20135,36 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #dramaticdoors:categories/short_newworld_doors
 - dramaticdoors:short_fir_door?
+
+#forge:gems/onyx
+- epicsamurai:onyx
+
+#create:contraption_controlled
+- minecraft:jukebox
+- minecraft:note_block
+- create:portable_fluid_interface
+- create:mechanical_drill
+- create:mechanical_saw
+- create:deployer
+- create:portable_storage_interface
+- create:redstone_contact
+- create:mechanical_harvester
+- create:mechanical_plough
+- create:mechanical_roller
+- create:andesite_funnel
+- create:brass_funnel
+- create:peculiar_bell
+- create:haunted_bell
+- create:andesite_door
+- create:brass_door
+- create:copper_door
+- create:train_door
+- create:framed_glass_door
+- minecraft:bell
+- minecraft:campfire
+- minecraft:soul_campfire
+- minecraft:dispenser
+- minecraft:dropper
 
 #chipped:stone
 - minecraft:stone
@@ -19914,10 +20358,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:warped_door
 - minecraft:crimson_sign
 - minecraft:warped_sign
-- decorative_compat:hellbark_beam
-- decorative_compat:hellbark_palisade
-- decorative_compat:hellbark_seat
-- decorative_compat:hellbark_support
 - biomesoplenty:hellbark_log
 - biomesoplenty:hellbark_wood
 - biomesoplenty:stripped_hellbark_log
@@ -19933,6 +20373,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:hellbark_door
 - biomesoplenty:hellbark_sign
 - biomesoplenty:hellbark_boat
+- decorative_compat:hellbark_beam
+- decorative_compat:hellbark_palisade
+- decorative_compat:hellbark_seat
+- decorative_compat:hellbark_support
 - decorative_blocks:warped_beam
 - decorative_blocks:warped_palisade
 - decorative_blocks:warped_seat
@@ -20089,32 +20533,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:dusts/iron
 - thermal:iron_dust
 
+#forge:wires/electrum
+- createaddition:electrum_wire
+
 #curios:bangle
 - ars_elemental:air_bangle
 - ars_elemental:fire_bangle
 - ars_elemental:earth_bangle
 - ars_elemental:water_bangle
 - ars_elemental:base_bangle
-
-#extendedgears:metal_cogwheel
-- extendedgears:iron_cogwheel
-- extendedgears:steel_cogwheel
-- extendedgears:copper_cogwheel
-- extendedgears:large_iron_cogwheel
-- extendedgears:large_steel_cogwheel
-- extendedgears:large_copper_cogwheel
-- extendedgears:shaftless_iron_cogwheel
-- extendedgears:shaftless_steel_cogwheel
-- extendedgears:shaftless_copper_cogwheel
-- extendedgears:large_shaftless_iron_cogwheel
-- extendedgears:large_shaftless_steel_cogwheel
-- extendedgears:large_shaftless_copper_cogwheel
-- extendedgears:half_shaft_iron_cogwheel
-- extendedgears:half_shaft_steel_cogwheel
-- extendedgears:half_shaft_copper_cogwheel
-- extendedgears:large_half_shaft_iron_cogwheel
-- extendedgears:large_half_shaft_steel_cogwheel
-- extendedgears:large_half_shaft_copper_cogwheel
 
 #forge:storage_blocks/soulsteel
 - tconstruct:soulsteel_block
@@ -20133,6 +20560,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - pneumaticcraft:compressed_iron_gear
 
 #createaddition:plants
+- farmersdelight:sandy_shrub
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
 - minecraft:cactus
 - minecraft:bamboo
 - minecraft:kelp
@@ -20283,6 +20713,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:purple_carpet_20
 
 #curios:necklace
+- ars_nouveau:amulet_of_mana_boost
+- ars_nouveau:amulet_of_mana_regen
 - artifacts:cross_necklace
 - artifacts:flame_pendant
 - artifacts:lucky_scarf
@@ -20291,8 +20723,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - artifacts:shock_pendant
 - artifacts:thorn_pendant
 - artifacts:charm_of_sinking
-- ars_nouveau:amulet_of_mana_boost
-- ars_nouveau:amulet_of_mana_regen
 - reliquary:fortune_coin
 
 #chipped:dried_kelp_block
@@ -20516,6 +20946,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:infested_deepslate
 - minecraft:tuff
 
+#copycats:copycat_block
+- create_connected:copycat_block
+
 #bookshelf:fishing_rods
 - #forge:fishing_rods
 
@@ -20560,6 +20993,25 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 #forge:storage_blocks/arcane_gold
 - forbidden_arcanus:arcane_gold_block
 
+#davebuildingmod:dyeable_gilded_steel_boiler_tag
+- davebuildingmod:lime_gilded_steel_boiler
+- davebuildingmod:magenta_gilded_steel_boiler
+- davebuildingmod:purple_gilded_steel_boiler
+- davebuildingmod:white_gilded_steel_boiler
+- davebuildingmod:yellow_gilded_steel_boiler
+- davebuildingmod:light_blue_gilded_steel_boiler
+- davebuildingmod:gray_gilded_steel_boiler
+- davebuildingmod:gilded_steel_boiler
+- davebuildingmod:cyan_gilded_steel_boiler
+- davebuildingmod:orange_gilded_steel_boiler
+- davebuildingmod:green_gilded_steel_boiler
+- davebuildingmod:brown_gilded_steel_boiler
+- davebuildingmod:red_gilded_steel_boiler
+- davebuildingmod:pink_gilded_steel_boiler
+- davebuildingmod:black_gilded_steel_boiler
+- davebuildingmod:blue_gilded_steel_boiler
+- davebuildingmod:light_gray_gilded_steel_boiler
+
 #minecraft:piglin_loved
 - #minecraft:gold_ores
 - minecraft:gold_block
@@ -20584,9 +21036,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:golden_hoe
 - minecraft:raw_gold
 - minecraft:raw_gold_block
-- farmersdelight:golden_knife
 - immersive_weathering:golden_moss_clump
 - immersive_weathering:enchanted_golden_moss_clump
+- byg:sythian_stalk_block
+- farmersdelight:golden_knife
+- create:golden_sheet
+- create:crushed_raw_gold
 - artifacts:golden_hook
 - supplementaries:hourglass
 - supplementaries:gold_door
@@ -20602,13 +21057,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - tconstruct:gold_bars
 - tconstruct:gold_platform
 - #tconstruct:casts/gold
-- create:golden_sheet
-- create:crushed_gold_ore
 - quark:gold_button
 - quark:gold_bars
 - quark:golden_frog_leg
 - quark:golden_apple_crate
-- byg:sythian_stalk_block
+- create_sa:brass_axe
+- create_sa:brass_boots
+- create_sa:brass_leggings
+- create_sa:brass_pickaxe
+- create_sa:steam_engine
+- create_sa:brass_hoe
+- create_sa:incomplete_steam_engine
+- create_sa:brass_jetpack_chestplate
+- create_sa:brass_exoskeleton_chestplate
+- create_sa:brass_helmet
+- create_sa:brass_sword
+- create_sa:brass_chestplate
+- create_sa:brass_shovel
 
 #forge:sand/red
 - minecraft:red_sand
@@ -20703,7 +21168,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #minecraft:birch_logs
 - #minecraft:jungle_logs
 - #minecraft:spruce_logs
-- #architects_palette:twisted_logs
 - #biomesoplenty:fir_logs
 - #biomesoplenty:redwood_logs
 - #biomesoplenty:cherry_logs
@@ -20714,36 +21178,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #biomesoplenty:dead_logs
 - #biomesoplenty:magic_logs
 - #biomesoplenty:umbran_logs
-- ars_nouveau:red_archwood_log
-- ars_nouveau:blue_archwood_log
-- ars_nouveau:purple_archwood_log
-- ars_nouveau:green_archwood_log
-- ars_nouveau:red_archwood_wood
-- ars_nouveau:blue_archwood_wood
-- ars_nouveau:green_archwood_wood
-- ars_nouveau:purple_archwood_wood
-- ars_nouveau:stripped_blue_archwood_log
-- ars_nouveau:stripped_blue_archwood_wood
-- ars_nouveau:stripped_green_archwood_log
-- ars_nouveau:stripped_green_archwood_wood
-- ars_nouveau:stripped_red_archwood_log
-- ars_nouveau:stripped_red_archwood_wood
-- ars_nouveau:stripped_purple_archwood_log
-- ars_nouveau:stripped_purple_archwood_wood
 - integrateddynamics:menril_log
 - integrateddynamics:menril_log_filled
-- quark:azalea_log
-- quark:stripped_azalea_log
-- quark:azalea_wood
-- quark:stripped_azalea_wood
-- quark:blossom_log
-- quark:stripped_blossom_log
-- quark:blossom_wood
-- quark:stripped_blossom_wood
-- ars_elemental:yellow_archwood_log
-- ars_elemental:yellow_archwood
-- ars_elemental:stripped_yellow_archwood
-- ars_elemental:stripped_yellow_archwood_log
 - #byg:aspen_logs
 - #byg:baobab_logs
 - #byg:blue_enchanted_logs
@@ -20771,6 +21207,35 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #byg:ether_logs
 - #byg:nightshade_logs
 - #byg:imparius_stems
+- #architects_palette:twisted_logs
+- ars_nouveau:red_archwood_log
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_purple_archwood_wood
+- quark:azalea_log
+- quark:stripped_azalea_log
+- quark:azalea_wood
+- quark:stripped_azalea_wood
+- quark:blossom_log
+- quark:stripped_blossom_log
+- quark:blossom_wood
+- quark:stripped_blossom_wood
+- ars_elemental:yellow_archwood_log
+- ars_elemental:yellow_archwood
+- ars_elemental:stripped_yellow_archwood
+- ars_elemental:stripped_yellow_archwood_log
 
 #supplementaries:blackboard_black
 - minecraft:charcoal?
@@ -20811,7 +21276,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:dark_oak_slab
 - minecraft:crimson_slab
 - minecraft:warped_slab
-- architects_palette:twisted_slab
 - biomesoplenty:fir_slab
 - biomesoplenty:redwood_slab
 - biomesoplenty:cherry_slab
@@ -20823,13 +21287,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:magic_slab
 - biomesoplenty:umbran_slab
 - biomesoplenty:hellbark_slab
-- ars_nouveau:archwood_slab
-- tconstruct:greenheart_planks_slab
-- tconstruct:skyroot_planks_slab
-- tconstruct:bloodshroom_planks_slab
 - integrateddynamics:menril_slab
-- quark:azalea_planks_slab
-- quark:blossom_planks_slab
 - byg:aspen_slab
 - byg:baobab_slab
 - byg:blue_enchanted_slab
@@ -20859,6 +21317,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - byg:bulbis_slab
 - byg:nightshade_slab
 - byg:imparius_slab
+- architects_palette:twisted_slab
+- ars_nouveau:archwood_slab
+- tconstruct:greenheart_planks_slab
+- tconstruct:skyroot_planks_slab
+- tconstruct:bloodshroom_planks_slab
+- quark:azalea_planks_slab
+- quark:blossom_planks_slab
 - forbidden_arcanus:fungyss_slab
 - forbidden_arcanus:cherrywood_slab
 - forbidden_arcanus:mysterywood_slab
@@ -21002,11 +21467,30 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:diorite_68
 - chipped:diorite_69
 
+#davebuildingmod:dyeable_steel_boiler_tag
+- davebuildingmod:light_blue_steel_boiler
+- davebuildingmod:gray_steel_boiler
+- davebuildingmod:green_steel_boiler
+- davebuildingmod:lime_steel_boiler
+- davebuildingmod:black_steel_boiler
+- davebuildingmod:orange_steel_boiler
+- davebuildingmod:magenta_steel_boiler
+- davebuildingmod:white_steel_boiler
+- davebuildingmod:pink_steel_boiler
+- davebuildingmod:red_steel_boiler
+- davebuildingmod:brown_steel_boiler
+- davebuildingmod:steel_boiler
+- davebuildingmod:purple_steel_boiler
+- davebuildingmod:yellow_steel_boiler
+- davebuildingmod:blue_steel_boiler
+- davebuildingmod:light_gray_steel_boiler
+- davebuildingmod:cyan_steel_boiler
+
 #forge:gems/quartz
+- minecraft:quartz
 - minecraft:quartz
 
 #sereneseasons:winter_crops
-- farmersdelight:cabbage_seeds
 - biomesoplenty:origin_sapling
 - biomesoplenty:flowering_oak_sapling
 - biomesoplenty:rainbow_birch_sapling
@@ -21027,12 +21511,32 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - biomesoplenty:hellbark_sapling
 - biomesoplenty:toadstool
 - biomesoplenty:glowshroom
+- farmersdelight:cabbage_seeds
 
 #forge:crops/beetroot
 - minecraft:beetroot
 
 #forge:coins/bronze
 - thermal:bronze_coin
+
+#davebuildingmod:dyeable_steel_seamless
+- davebuildingmod:black_steel_seamless
+- davebuildingmod:light_blue_steel_seamless
+- davebuildingmod:pink_steel_seamless
+- davebuildingmod:cyan_steel_seamless
+- davebuildingmod:steel_seamless
+- davebuildingmod:purple_steel_seamless
+- davebuildingmod:magenta_steel_seamless
+- davebuildingmod:white_steel_seamless
+- davebuildingmod:lime_steel_seamless
+- davebuildingmod:green_steel_seamless
+- davebuildingmod:brown_steel_seamless
+- davebuildingmod:red_steel_seamless
+- davebuildingmod:orange_steel_seamless
+- davebuildingmod:gray_steel_seamless
+- davebuildingmod:light_gray_steel_seamless
+- davebuildingmod:blue_steel_seamless
+- davebuildingmod:yellow_steel_seamless
 
 #dramaticdoors:short_doors
 - #dramaticdoors:short_wooden_doors
@@ -21121,6 +21625,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:music_disc_ward
 - minecraft:music_disc_11
 - minecraft:music_disc_wait
+- create_connected:music_disc_elevator
+- create_connected:music_disc_interlude
 
 #chipped:sandstone
 - minecraft:sandstone
@@ -21196,6 +21702,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #byg:brown_dye
 - byg:mud_ball
+
+#tconstruct:modifiable/book_armor/materials_and_you
 
 #fabric:helmets
 - byg:ametrine_helmet
@@ -21312,6 +21820,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - #forge:string
 
 #forge:ores/silver
+- epicsamurai:silver_ore
+- epicsamurai:deepslate_silver_ore
 - thermal:silver_ore
 - thermal:deepslate_silver_ore
 
@@ -21426,6 +21936,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - chipped:mushroom_stem_7
 
 #forge:helmets
+- byg:ametrine_helmet
 - minecraft:leather_helmet
 - minecraft:chainmail_helmet
 - minecraft:iron_helmet
@@ -21433,7 +21944,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:diamond_helmet
 - minecraft:netherite_helmet
 - minecraft:turtle_helmet
-- byg:ametrine_helmet
 
 #forge:coins
 - #forge:coins/copper
@@ -21528,23 +22038,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #forge:raw_materials/zinc
 - create:raw_zinc
-
-#forge:flywheels/brass_painted_flywheels
-- extendedflywheels:black_brass_flywheel
-- extendedflywheels:gray_brass_flywheel
-- extendedflywheels:light_gray_brass_flywheel
-- extendedflywheels:white_brass_flywheel
-- extendedflywheels:red_brass_flywheel
-- extendedflywheels:orange_brass_flywheel
-- extendedflywheels:yellow_brass_flywheel
-- extendedflywheels:lime_brass_flywheel
-- extendedflywheels:green_brass_flywheel
-- extendedflywheels:cyan_brass_flywheel
-- extendedflywheels:light_blue_brass_flywheel
-- extendedflywheels:blue_brass_flywheel
-- extendedflywheels:magenta_brass_flywheel
-- extendedflywheels:purple_brass_flywheel
-- extendedflywheels:pink_brass_flywheel
 
 #chipped:white_stained_glass_pane
 - minecraft:white_stained_glass_pane
@@ -21699,13 +22192,24 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - minecraft:iron_helmet
 - minecraft:iron_leggings
 
+#tconstruct:modifiable/small
+- tconstruct:pickaxe
+- tconstruct:mattock
+- tconstruct:pickadze
+- tconstruct:hand_axe
+- tconstruct:kama
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:crossbow
+- tconstruct:flint_and_brick
+
 #forge:storage_blocks/raw_copper
 - minecraft:raw_copper_block
 
 #forge:shears
 - minecraft:shears
-- tconstruct:kama
 - alloyed:steel_shears
+- tconstruct:kama
 
 #chipped:magenta_stained_glass
 - minecraft:magenta_stained_glass
@@ -21926,6 +22430,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - create:small_ochrum_brick_wall
 - create:layered_ochrum
 - create:ochrum_pillar
+- create:ochrum
 
 #ae2:quartz_pickaxe
 - ae2:certus_quartz_pickaxe
@@ -22129,9 +22634,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 - decorative_blocks:crimson_beam
 
 #forge:fences
-- ars_nouveau:archwood_fence
 - #forge:fences/nether_brick
 - #forge:fences/wooden
+- ars_nouveau:archwood_fence
 - quark:azalea_fence
 - quark:blossom_fence
 

@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jun 4, 2023, 12:10:44 PM
+To refresh this file, delete it and run /reload command again! Last updated: Mar 7, 2024, 8:23:14 PM
 
 #terralith:zpointer/terralith_fractured_savanna
 - terralith:zpointer/terralith_fractured_savanna
@@ -476,6 +476,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jun
 
 #minecraft:on_woodland_explorer_maps
 - minecraft:mansion
+
+#cae:arcane_temple
+- cae:arcane_temple
 
 #terralith:zpointer/terralith_rocky_jungle
 - terralith:zpointer/terralith_rocky_jungle
