@@ -1,14 +1,14 @@
 # Common settings that generally should always be used with your language specific settings
 
-# preserve line endings for all files, prevent pointless whitespace changes when updating from upstream
-* -text
+# Auto detect text files and perform LF normalization
+*          text=auto
 
 #
 # The above will handle all files NOT found below
 #
 
 # Documents
-*.bibtex   diff=bibtex
+*.bibtex   text diff=bibtex
 *.doc      diff=astextplain
 *.DOC      diff=astextplain
 *.docx     diff=astextplain
@@ -19,17 +19,17 @@
 *.PDF      diff=astextplain
 *.rtf      diff=astextplain
 *.RTF      diff=astextplain
-*.md       diff=markdown
-*.mdx      diff=markdown
-*.tex      diff=tex
-# *.adoc
-# *.textile
-# *.mustache
-*.csv      eol=crlf
-# *.tab
-# *.tsv
-# *.txt
-# *.sql
+*.md       text diff=markdown
+*.mdx      text diff=markdown
+*.tex      text diff=tex
+*.adoc     text
+*.textile  text
+*.mustache text
+*.csv      text eol=crlf
+*.tab      text
+*.tsv      text
+*.txt      text
+*.sql      text
 *.epub     diff=astextplain
 
 # Graphics
@@ -40,7 +40,11 @@
 *.tif      binary
 *.tiff     binary
 *.ico      binary
-# *.svg
+# SVG treated as text by default.
+*.svg      text
+# If you want to treat it as binary,
+# use the following line instead.
+# *.svg    binary
 *.eps      binary
 
 # Scripts
@@ -55,11 +59,11 @@
 *.ps1      text eol=crlf
 
 # Serialisation
-# *.json
-# *.toml
-# *.xml
-# *.yaml
-# *.yml
+*.json     text
+*.toml     text
+*.xml      text
+*.yaml     text
+*.yml      text
 
 # Archives
 *.7z       binary
@@ -75,6 +79,6 @@
 # Exclude files from exporting
 #
 
-.gitattributes export-ignore text
-.gitignore     export-ignore text
+.gitattributes export-ignore
+.gitignore     export-ignore
 .gitkeep       export-ignore
