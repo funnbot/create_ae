@@ -313,10 +313,6 @@ file = "config/ambientsounds-client.json"
 hash = "ea4f304c4a98cb51f92af609aae3df427ce384ea445853f212446540e3f19b00"
 
 [[files]]
-file = "config/antiqueatlas.json5"
-hash = "2d7a4b633ba98e67ba290cca1005e00ef4eab2ada94301a1c95d448dbc92b87c"
-
-[[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
@@ -1141,14 +1137,6 @@ file = "config/explorerscompass-common.toml"
 hash = "fdf434be5f97bdd5b58080e9ad31944e79431843e071fc497cb295616232c4e8"
 
 [[files]]
-file = "config/extendedgears-client.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
-file = "config/extendedgears-common.toml"
-hash = "118ea169417c825b804888cf222d408dc083852c89182ec6aea72833850c6cf6"
-
-[[files]]
 file = "config/extremesoundmuffler-client.toml"
 hash = "e12631c29c98c753534009109d2ea77f638debaf087f10110204e5a75a4170f7"
 
@@ -1327,14 +1315,6 @@ hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 [[files]]
 file = "config/ftbbackups2.json"
 hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
-
-[[files]]
-file = "config/ftbchunks/client-config.snbt"
-hash = "b170593af4096fcf59a09cfc547045351d3aa65d307983eae0a593a57987c277"
-
-[[files]]
-file = "config/ftbchunks/ftbchunks-world.snbt"
-hash = "72fd4b499c8587ae61cc4b6125fef92513264dff3b4ff6d0ecfcdc976dbefaea"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -1870,7 +1850,7 @@ hash = "23dd52d54ce595ec797f7c622226b02f15b614cc8e9f72f38d03d45f0567c436"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "c08a0b6c31c13c3b586a9d4d46e23f13a1fc03ef509db802f8ce27e95a33a1a1"
+hash = "bee1ab5937b83f831dea05a8575064e9afe3e76ee4331e92e9a532350cc3dcf8"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -4785,10 +4765,6 @@ file = "kubejs/structurefilesset/warped_cottage.json"
 hash = "e4eb3db418c5efa4174dfcc4e0568119a7d9618d89f7a774d4bb08ff4f781970"
 
 [[files]]
-file = "modlist.html"
-hash = "72f08ffe5d7d1bff5fdf5f1ab2f6c2be63e091c9d4cd2fef09378732ffc446a9"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "eb1bbcf9879515a8b5ea40a99866b25c85c02b79f95fdff69ef824f688b9684c"
 metafile = true
@@ -5266,11 +5242,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "1290be453c042f2024561be7a2e23d2e1fd412df0b80d31aa22e4769e8df984c"
-metafile = true
-
-[[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "29b2ade4ba6df522f465f19876a1a16fea668970160a02c66b6a6a272ac9519f"
 metafile = true
 
 [[files]]
