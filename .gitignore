@@ -1,0 +1,5 @@
+/kubejs/probe/
+/config/spark/tmp
+/config/spark/activity.json
+/config/byg/backups/
+/kubejs/exported/
