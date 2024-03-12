@@ -3,3 +3,5 @@
 /config/spark/activity.json
 /config/byg/backups/
 /kubejs/exported/
+
+*.toml.bak
