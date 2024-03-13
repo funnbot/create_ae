@@ -1046,7 +1046,7 @@ hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "0b91a677786273d8b83a05b26bb8cac0d6a5735244f24b1abe455694ca9a1f92"
+hash = "4362caf733dcf98b5cc858326313351e08ac6e08fef019d19d1a4e8369f5fea7"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -1054,7 +1054,7 @@ hash = "4aa49dcb31d634fd69b83ea7f9bda622269018f475d67f02891eb00ccc23d25d"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "c04e7240254b95a053ee846c7e199af0126ff81166385470d8d8b3f2c992d222"
+hash = "5a4086f019bf14d6f84c2ced92b9c44a6e8429a0125d5da0a14ed9c507f94440"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.toml"
