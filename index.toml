@@ -329,10 +329,6 @@ file = "config/architects_palette-common.toml"
 hash = "7aa83bc76d0ca4acc2bb3733aba472a56a48d38338baa56af352f1b2f7469759"
 
 [[files]]
-file = "config/ars_creo-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ars_creo-common.toml"
 hash = "7ea66d27e5c55dd87bdcb5c76bf2d2b55720cbd22bd24fdbe66b62204bd2586f"
 
@@ -561,10 +557,6 @@ file = "config/ars_nouveau/name.toml"
 hash = "598693e340d38bf8c9877b39cc11226ccf53a026123acd5411864f0f4d461e1f"
 
 [[files]]
-file = "config/ars_nouveau/orbit-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ars_nouveau/orbit.toml"
 hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
 
@@ -637,10 +629,6 @@ file = "config/ars_nouveau/snare.toml"
 hash = "5c9dad19c9bee35ba65fd05d8d78ea20455363b0ac8ba6550773ac80fb1c83bd"
 
 [[files]]
-file = "config/ars_nouveau/split-1.toml.bak"
-hash = "78a5cef219e7cfca16dd676b52b28b88b0e678baa8d2ca4389a660f2b6692d05"
-
-[[files]]
 file = "config/ars_nouveau/split.toml"
 hash = "78a5cef219e7cfca16dd676b52b28b88b0e678baa8d2ca4389a660f2b6692d05"
 
@@ -659,10 +647,6 @@ hash = "f94d7b97fb84907b24f207f2a11e27bf60fea8c6275c6e7f216408315220710e"
 [[files]]
 file = "config/ars_nouveau/summon_vex.toml"
 hash = "f94d7b97fb84907b24f207f2a11e27bf60fea8c6275c6e7f216408315220710e"
-
-[[files]]
-file = "config/ars_nouveau/summon_wolves-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ars_nouveau/summon_wolves.toml"
@@ -731,10 +715,6 @@ hash = "b758120a06d5baa142e34cca95de36088b47ac0663e2543dc9023789b59e418e"
 [[files]]
 file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
-
-[[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "855cd7aeacde8ed2a1c735df73af1d20685c5dd9ce1b67ec3e7058294bfb8283"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
@@ -1075,10 +1055,6 @@ hash = "4aa49dcb31d634fd69b83ea7f9bda622269018f475d67f02891eb00ccc23d25d"
 [[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "c04e7240254b95a053ee846c7e199af0126ff81166385470d8d8b3f2c992d222"
-
-[[files]]
-file = "config/do_a_barrel_roll-client-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.toml"
@@ -1482,7 +1458,7 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
-hash = "355549642ae3b89ee285bd89d2b14c3c2d23f244e9a3ec123666e86786613782"
+hash = "5611d30629a32ecba00e988c8fc6f7b53179d9ccc540014a15f0b5805a12701b"
 
 [[files]]
 file = "config/integrateddynamicscompat-common.toml"
@@ -1605,10 +1581,6 @@ file = "config/jmi-client.toml"
 hash = "d778cf0e416f0ab6b209275de5d7e154f9e6e0963641387ae9c186f6e8e5175c"
 
 [[files]]
-file = "config/kiwi-client-2.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/kiwi-client.toml"
 hash = "029b0037c2e420965db77fbe7fda1064aa291c39dcbd87ce81548bfd90535a6a"
 
@@ -1647,10 +1619,6 @@ hash = "a8f75d38b9740c4e14e6d69dcee62d06f1641c76433f59f519c4c5e0d2ff7c36"
 [[files]]
 file = "config/lootintegrations-common.toml"
 hash = "e696d26273f3f4050f2e9fcef9b3a72cef6b92038e45d40c8ecd371fb58c9711"
-
-[[files]]
-file = "config/lootr-client-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -1701,10 +1669,6 @@ file = "config/multiblocked-common.toml"
 hash = "2393e384e73ec62252b3f1c31c87af677adcd9bbd2a12a2863276b54f488d30f"
 
 [[files]]
-file = "config/naturescompass-client-1.toml.bak"
-hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
-
-[[files]]
 file = "config/naturescompass-client.toml"
 hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
 
@@ -1751,10 +1715,6 @@ hash = "37f6a9b53c5ed0114c8539256f0222be96abff36a8f4b162d259073f4bc1879d"
 [[files]]
 file = "config/pneumaticcraft-client.toml"
 hash = "b6142cb5dc64d339c8398c6c3619dfdb5a26b72149b621755e2504117cc424ff"
-
-[[files]]
-file = "config/pneumaticcraft-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
@@ -4149,302 +4109,6 @@ file = "kubejs/data/randomium/tags/items/blacklist.json"
 hash = "5f75e46d09d4af8aeed3b1fe00739a02a5459e6b265a3e65f2a96e5c5411529a"
 
 [[files]]
-file = "kubejs/exported/tags/activity.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/attribute.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/block_entity_type.txt"
-hash = "9caf24f28a5d9e6e4f6cf038006d33ba3efe52d2c43875de762fb1a031ea65be"
-
-[[files]]
-file = "kubejs/exported/tags/block_predicate_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/blocks.txt"
-hash = "fc358a028472bb70b5ac92e3c1a9608fe30f4d38ca99ef0f498149849cd55101"
-
-[[files]]
-file = "kubejs/exported/tags/byg/blending_function.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/byg/villager_trades_item_listing.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/chunk_status.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/custom_stat.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/data_serializers.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/dimension_type.txt"
-hash = "b1f5e3bcd10ee2900cfe0bb6ffd1f6aefe6a134139ddc9f1ec68609f9cebba19"
-
-[[files]]
-file = "kubejs/exported/tags/enchantment.txt"
-hash = "ab9b8d59972c41649f6c47db10ce733db9a3ba03c0deecfe7b5a3bb1f4c6c8ac"
-
-[[files]]
-file = "kubejs/exported/tags/entity_types.txt"
-hash = "6368723a55f9d37aa7ce7124c6cc380381125892c4b93a25512f263dc1b4ecf7"
-
-[[files]]
-file = "kubejs/exported/tags/float_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/fluids.txt"
-hash = "c58a1b9b4d23859e70a7c885f602dfc2f0e2091df32ec938da2bcab4085b3d64"
-
-[[files]]
-file = "kubejs/exported/tags/forge/loot_modifier_serializers.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/forge/world_types.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/game_events.txt"
-hash = "7f7c34e3146f99bb8815853445f0dc439dc54e3eb5638f5947247cd9ee7bf662"
-
-[[files]]
-file = "kubejs/exported/tags/height_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/int_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/items.txt"
-hash = "aeaf56491866df3aa5ac650264a4bbe86b55923cb891d7d175965346edf53d13"
-
-[[files]]
-file = "kubejs/exported/tags/loot_condition_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/loot_function_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/loot_nbt_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/loot_number_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/loot_pool_entry_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/loot_score_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/memory_module_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/menu.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/mob_effect.txt"
-hash = "f4769a3e3ab9cec6d2f480bbb60b89a07834662e6f414f6a2e08d7d9c92f786b"
-
-[[files]]
-file = "kubejs/exported/tags/motive.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/particle_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/point_of_interest_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/pos_rule_test.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/position_source_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/potion.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/recipe_serializer.txt"
-hash = "af6a42855976ee390b792cc92a488677f15b7b2351e62f4e008576d7bf0f5fbe"
-
-[[files]]
-file = "kubejs/exported/tags/recipe_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/rule_test.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/schedule.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/sensor_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/sound_event.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/stat_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/villager_profession.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/villager_type.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/biome.txt"
-hash = "af67e90731d3152ea0c75e3d0266ac5214634d35cca7bc2ade418d8e72eaaac7"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/biome_source.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/block_state_provider_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/carver.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/chunk_generator.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/configured_carver.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/configured_feature.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/configured_structure_feature.txt"
-hash = "27088fd05ee8a3d3fce169f12294ef36a47151a32013fbcc970bab98e2da72f4"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/density_function.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/density_function_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/feature.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/feature_size_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/foliage_placer_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/material_condition.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/material_rule.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/noise.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/noise_settings.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/placed_feature.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/placement_modifier_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/processor_list.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/structure_feature.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/structure_piece.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/structure_placement.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/structure_pool_element.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/structure_processor.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/structure_set.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/template_pool.txt"
-hash = "e835d1e7ed1325e3f67ded440771a462e1799269e080d5a9839b673936299212"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/tree_decorator_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
-file = "kubejs/exported/tags/worldgen/trunk_placer_type.txt"
-hash = "17ac24db73d5d3b66b46ba7f85088abb767388893e72e9d343cc9d58efe1222b"
-
-[[files]]
 file = "kubejs/jsconfig.json"
 hash = "058c91a44f9f4c079069775e15aea88454aee80420815cf5af51dedf01187d24"
 
@@ -4630,7 +4294,7 @@ hash = "66052a818cee4f95067a39a075c7f615849248cc122b4579a1c48bd88a80cd08"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "43c86aadda07d15eb3a508ab7d398a72aeb4520f61a0da50f02a02fe756c05f2"
+hash = "c130768eaef4bb857759ac7da9188266d615437f8718948ba42743f96130be53"
 
 [[files]]
 file = "kubejs/server_scripts/tasks.js"
@@ -8081,10 +7745,1269 @@ file = "server_scripts/user_jvm_args.txt"
 hash = "0502e4524e8b265f66eb50c4b84ef847d77a522a0fe3f7a2c457d4516c3cffaf"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.1.1.txt"
 hash = "9fce28236bb545ae184d72e78e5444c36b2713796e4d73fecb11e22d857ce2e5"
 
 [[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "60304e745f83ba72944cf802091216e1ab117c29ea68ff7a84b272d2ad6640eb"
-metafile = true
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/HOW TO INSTALL.txt"
+hash = "9b4563a220d3dbd2fbd2bc9f305372ef977dcace776a8bbae7c6e67e4130bc5f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/License.txt"
+hash = "1e1f730abd9c25ad4d0ba301453d37547d17102a3cfc628de794d5b08e278a20"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_1/shaderFile_L.placebo"
+hash = "74ea2fcb43a7f194e136cf0915b9ce5c8fc55f42f745a30e1fbaccf0f77020f6"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_2/shaderFile_R.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_A.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_B.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_C.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_D.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaderFile_Versions.txt"
+hash = "471d4cdf5f3eb4b276bec2d5943c1494b6c50fcae07157e5b85f11208ccb1e84"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/block.properties"
+hash = "6086e1700122fbaaf7252363e50adcd4282c2d33f1f571d3ae20b7fa53c7d243"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/dimension.properties"
+hash = "e8c0da0432267a38e200e16202eac51717da06c2ff0662e1360c4e55bfa4447f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/entity.properties"
+hash = "76af5d4cdf24fde5b59f27a36302664bbd7435c7c9ca74efe61bafa73d5a646d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/item.properties"
+hash = "107a2c9cafa7b31ab2534399aa66446eb0a25b865c7ff5a3ebb29b9022b55cf5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lang/en_US.lang"
+hash = "c52c8ac978a61ce4ee8f75fe7ff299d051618badee7a1d96f62156766b06a5f3"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/antialiasing/fxaa.glsl"
+hash = "3434484f7383225b5a458072474c34b30d5165f085198031fd48a988d5a30f90"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/antialiasing/jitter.glsl"
+hash = "93ceecde9ca3b234456546f5b64802f69cd370911066a7ba1276a14cd8bd53ef"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/antialiasing/taa.glsl"
+hash = "bd2ce4dc74de63bae17bf93ecf520b942eba60aff201636d2b051e83ca9887c3"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/auroraBorealis.glsl"
+hash = "fb95bf3569fa1fe4f83e1f58008f7f8cf27d20ff84c37855b5a020f991909836"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/clouds/cloudCoord.glsl"
+hash = "bf3f6c7072d2d794637a55073a0bc89bb7510cf62e11bce08387d25a66d8eaca"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/clouds/mainClouds.glsl"
+hash = "9480e1f6118699b6c7b347f161d960a4a1b12de3765c68f7789d11eb7c513ad8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl"
+hash = "674c5ddc897018513a0dcae7295eafb72603e0cedc4cf919fe73bf888dbd69f1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/clouds/unboundClouds.glsl"
+hash = "95aa24f34de5f39ca80c72fde798b5dc4d17abed4ec06bfaa10a44f82249d118"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/enderBeams.glsl"
+hash = "336cafb19866ae8a0f5fba903fd58700985c18e9c7ab54003130473e51bbccc5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/enderStars.glsl"
+hash = "b7180cd72e183a2d0a59a45bff511176a8b0a932c233c57f23bededfae62abf0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/fog/bloomFog.glsl"
+hash = "1101d153aae76a2c2faf5f017b8f4535c396f32fc7dfab8b2075d3077ac0c220"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/fog/caveFactor.glsl"
+hash = "73bac39b8890097938582effa041f295a0518c91ecedab39cf7fae8c737b6c7c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/fog/mainFog.glsl"
+hash = "65ac533af3bd37609e9da603c7a3a6cd4ed994c4fa7741b66318193905fef49b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/fog/waterFog.glsl"
+hash = "7969be76ae8952dfd9eb76227f703db4435d3153a281dc668fdc8e1914d339bc"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/netherStorm.glsl"
+hash = "a718d7d550f87f51da5ae2ef3cef62413256148ae89d461f0aa03ad4f180f9d8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/nightNebula.glsl"
+hash = "38d3f6b769fb4cc553f22b1353c760c6b27f958450f4ea5c2cb43f54ec96a40f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/rainbow.glsl"
+hash = "d9dcf16a0d78e44fb0743d4bf1f6194f7f8c8403541077f1d3c5d30fe83b9b69"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/sky.glsl"
+hash = "5a12a7a570778bcd8096fa8b4e770ce2c04de8cc7c96d4907ad341c6bea7ae38"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/stars.glsl"
+hash = "b469d04200b13af74c8fb9bce7ca9850b9904b62a64693e79e943d16de863cfb"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/atmospherics/volumetricLight.glsl"
+hash = "93bc6f36dc40ca50646edff69b86bfb441148de8c85380b47c182c1948672639"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/colors/cloudColors.glsl"
+hash = "eda03f26d8d428c9934e6c6688ae9ad33492bb0b29c0bfed6c62c22d5afc1864"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/colors/colorMultipliers.glsl"
+hash = "bcec418220647c8be87759c443f2442f25f96e688fff44a2bc991f539df22a00"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/colors/lightAndAmbientColors.glsl"
+hash = "8547be423b9c9b2b0eefc5abb4026385de64fc9ca89375e37379061789ca22c0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/colors/moonPhaseInfluence.glsl"
+hash = "50d2e0067619727f530051f7865fd2da4ca013d07217e6d9cfea385e7dbb65f4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/colors/skyColors.glsl"
+hash = "5bceff7800e9ca4e7173afba90c2f746a418ed3d09b406662ac4f4892f49ba8b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/common.glsl"
+hash = "a2e8025d0b7079ea966c37cd1efa06fa2ce44e3ddc8415208ea5c3f08b899ca9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/lighting/ggx.glsl"
+hash = "b5ffae08f0239626165b87caec820cd2ba245f17c3898ca9ddba32b36e16c930"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/lighting/mainLighting.glsl"
+hash = "5b84ca62f6e3d50a62046a8e866c4af034968b152a95e5f442b4b9bb8c2b9563"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/lighting/shadowSampling.glsl"
+hash = "2357f8c7344364188c67e21d925afb1fa9fb3feb8bc44e29f908e8bf8778a6c1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl"
+hash = "f047b07939c07727de2f7fa72f04d77add7fead5bb4bb3fed79d240f84019414"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/customMaterials.glsl"
+hash = "1c28d40b19dd281b7d03216af82f71569c3cb36a8a4104ae73f431b11bcbebfd"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/deferredMaterials.glsl"
+hash = "1cc282e4a461405a1cc7318aa0249a75a467e3830834b2859e588eae55264c5b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/entityMaterials.glsl"
+hash = "055141d8a7f2f69e04cdc43201a7827216b63c20b60b53ebd2a394e172693954"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/irisMaterials.glsl"
+hash = "0fcd37c1f016733e4ff0845a59389aa566463abdd7e25235fcf22b5d6e6d5215"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/terrainMaterials.glsl"
+hash = "792575d2fb4fe2cb3e59dcf2d0b3870c82b784105075ffe5efcc6fb872e30f37"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
+hash = "94353709e06d28493b9a55a763b6013df3e862ba14fdb128240dead40fca3ac9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
+hash = "8b5683a12b45be06daac0a13dc935cd55ccf196cc17d86f6083b06f2871d399e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/coatedTextures.glsl"
+hash = "fea2aa80d5193bbe0481dc3dedf0cea780cd5fdf3f815242ed70063ee85590e1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/generatedNormals.glsl"
+hash = "15ce21f9c89e7e230d407a795c7067f8eaa2fd50d15abf4555b71df0b18fef29"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/pomEffects.glsl"
+hash = "a888a19bc49e68262d6a0c77129dfdbfa25d54988f088080c78ee213d4e3db46"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/reflections.glsl"
+hash = "c0bfa27e65108ab94ac5af4b170ee09344797e8f514e38689e745fe1a9e85eae"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/refraction.glsl"
+hash = "60500ebe444353ed0a79ddb9c34a1332342af18f292c9393e5eaf0ca6397820b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/materialMethods/wavingBlocks.glsl"
+hash = "5da50d13b3be473990981b6f8567882f7585b94a7fc5bb11e26f66264d201628"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl"
+hash = "31c0446852f3a9eb74b83801fc726ff7242cf72a6c96722ecb34d6ac3891d16d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl"
+hash = "8fb9152f6b6618d3786a397c82a75800e742e4afb2545aab0be2ec6f8aa2ab02"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
+hash = "4c1534c3eebfecd43c3cfb5fb1e4df6afe43ddba1c78b26ca2f549363a08cdd1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl"
+hash = "4ac6be41e29b3641e97ef19445a7292cce89f077fc7cce4b8b6e557e5d3653ba"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/others/signText.glsl"
+hash = "a85982c3fa3d1ad1b8e9051f137e6446e8041b5ef1d82fbcbd4cb737e0373415"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/others/trident.glsl"
+hash = "ab91396ad6b85eb0cf5db28edfb80f1fe185c3ed6661d531d143d38a33aff546"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl"
+hash = "b3f524933a1264a0f55f34cc801c15b7b466bf22de5028d35c40f7ebfbc0af54"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl"
+hash = "46af11b179d87315166fea6d5bd9969a368c0c4814cee5890a080f32e84e24a7"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl"
+hash = "20272f35522fa1bc217570eb26de3b5657192aa81f36dda1853adcd09881603f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl"
+hash = "5f678b6b26b1e4b7bb3a16eca5fa7843e7a34907b91b61025a956db5a0f168a5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl"
+hash = "7076a532bc30d7408d7f26f54df07de895aca29c74fb69c77d9d98d0c6e3c0e1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl"
+hash = "73a8aa1786562f0e974e46d7e48d4e7306a9fda3076f5ad6a4a91af909f7b880"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl"
+hash = "d9555c123e8504657d8de0e92c4e523170369f1e3c01cd41568df9a5a022a865"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl"
+hash = "792aa80f50c7429e792e91cc9a26e5871f9ede1214149b0e5a1a98f10e068f4d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl"
+hash = "c620dc938ba7f65ca5a180fd9c89f7a240ed22f0f8211aebdca03a466d473a48"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl"
+hash = "63d332c351bc7f18454b6794dd9d6b52ac35c745da9e19c362d138d375f29f98"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
+hash = "e00a16f8f594173e6c486e72233e8be876b3c00f847abe063e1d26d1186f89ba"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/anvil.glsl"
+hash = "715c753f609598aa1efc72cea864015196069968c7d315d171408cb067d56a2a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl"
+hash = "92461341389a0f220322dc6a7e5f2986b41779da657401c77b3f747723d36eeb"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl"
+hash = "af0af39009e690f4e10fe082389bc2162b1794a0948e87605ffc75d3c36a55b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl"
+hash = "3ae97b1590ea5ea1b42a3dc62be5d32ad5c8cc0c9c5cdc0c1c2d0770594729ae"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/coral.glsl"
+hash = "ae8588a2e66af9e8860e08aa14b5c291325df316c9a14a38f24146f51e1d9160"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
+hash = "e5ec7fd7ddc019e0ab5b4dd33de1a26bf8a1e7e13200c60fd6198a98ef5499d4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl"
+hash = "f179fa5ee57494a8f12ad56272ee3385cfecc74646935a7da3ecd658d5af966a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl"
+hash = "f37a391aa3c16a65ddb2778255ea9485fd2c983d51e58779b1308bbd92658513"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/dirt.glsl"
+hash = "de0587910bdb8ae23a1fc4f6062f2f34b2979b2aa1e231ad3cebb0f6ba336019"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
+hash = "158de9083831076122d9cbbb934246b96a19b024ed3c8beefa6988d134452365"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl"
+hash = "006d18f24597fc1cb5a992356a33f71897f6fcdafc38d984cc0b0a8999940640"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/endStone.glsl"
+hash = "b96d56d12e2dadce0357dce57aa96e9b5f9b63888061024438c663aa60bb38b5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/froglights.glsl"
+hash = "023c6045d186901432f89d754aba1864592e01087e588599ab3b0fe33182d5ea"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl"
+hash = "1b616be0964d29b0781453521d36180d00dfe00d94ad37ab476aa1b0762e9688"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl"
+hash = "2b925fbe76d43fe19eb90b976d389e3b21ac12096138da7b01e899040aaa36e4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl"
+hash = "8a5f3f2dbd8df0473c5b25471d4afc5ab0db41a14187930633d310920b019a14"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl"
+hash = "74d09ee51e55e97080f0a5cc519e291585cad854507036f75c7798823eda8a61"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/lava.glsl"
+hash = "77c07ca580342c726798c8c551b7d58aa9f496e5a57a3dd06c2198083fd64636"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
+hash = "a064e2764ac39e179f7fffaa73e5b0b21d83542b515ac69ded3de4ff9169ac61"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl"
+hash = "3b9a37d45eaa261c88939adffde740e3f37dfd4fdc48620c98f91e21bd4f7e86"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl"
+hash = "c213631a1a86ac9df3a5d8b954ca1ba44f67c0e747fde713a58da520812dc2d7"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl"
+hash = "72fa6cd78362611f54d03f553c362bf91cdb2b4ea3add5c8cb7d2e0eb8a6815d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl"
+hash = "8d42d271585685e537b5cc1a8d1b8de922153e2ae62927797c89767ac7fca359"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl"
+hash = "54c9bfc7c861b9406b3ab1f3f85ee237559143dadf922d28e6ac01796638eba5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl"
+hash = "dd6a14c31787c541af567bdc0a8975f03800f080787d4d3f4bb0a146ab92a653"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl"
+hash = "f351bc48d91107a9191407cbe49064b8aed5db3b467ced17a2fd80adf9b26df5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl"
+hash = "4359c522eabc8efea59945b0d4c52d9a1734c30abb4b73ac1621325b8d464c53"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl"
+hash = "a88220ba1b2c11beb0acde26108a360d3f812488fd20be1c86bedb40f7d2205d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl"
+hash = "7adea9512bb21d31a6c1eb3a0875b65cc05122a382867b0df71a4091882d02f7"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl"
+hash = "8ff0aeaa67ba97c60408941da3e19d3de12042f25aa6081e41c75e090f3cee9a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/snow.glsl"
+hash = "443f6c3776659d73c1ff7eaf00daf4f7204f92ce273abcdbc37d909efdd4e24e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/terrain/stone.glsl"
+hash = "28529a13fe927b0c816ccb443ae6fb3a3e7f52f0d1414c35b6d4ac2afa03626f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/translucents/glass.glsl"
+hash = "590cbfe50d8844b07c3582ce3658303dad0cf65af384025eb73be38ba113e980"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
+hash = "538b0bad61b5232ae8e0e2c9498268b6dc3585be98df2ea66c93c56dd5d96c14"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl"
+hash = "0600105e9b70389782783965dcbdb8307920a83005b3f7f2134a98b6d6d44011"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/materials/specificMaterials/translucents/water.glsl"
+hash = "161448fa5a56764414dbd48acdf6fcfbdf85e7ec507b65541b8b939ac36855cb"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/misc/colorCodedPrograms.glsl"
+hash = "79109bf4ac8830b2b825998c23a79285a5467a674cf7142b21874cc4a66315c3"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/misc/darkOutline.glsl"
+hash = "8a2fd0b55bb2c9b2e737deaafc67f87ab9fbd7a4b469bf1cd5247b903e67a0ed"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/misc/handSway.glsl"
+hash = "f01f277b6afb87f92b1b24e56b163fe153b87f7566deeef213a90632d3d4be8a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/misc/lensFlare.glsl"
+hash = "2e0bd2010f1246ce16e5f24a37222cb5f6ade66d7b73cd8c22d01e2e67a05372"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/misc/showLightLevels.glsl"
+hash = "9c6aa6fbf660e4c9926e74b81cb4c286f7a5aa40ebabe56c9b36e9ae63b64923"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/misc/worldOutline.glsl"
+hash = "8f04d80364d47f6ac700eb1e35fb6c22f452c8c2d7da5af986a6ecce160fd013"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/pipelineSettings.glsl"
+hash = "5dcaa769d6f56c17225c0ac6f90a2720bc214d22febfb001283bfcc433ac5096"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/textures/cloud-water.png"
+hash = "e03a26c2a265e0d39b8bed90124cf5dcaa788f8a2f3a1191a485460d7f05ffca"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/textures/cloud-water.png.mcmeta"
+hash = "e9c800d49d941e58d1c9f114b4564886b0c984369fab42515935497948ea8440"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/textures/cucumber.png"
+hash = "93ee6240e35a9749ea939788618b4028610a8b06c4d42d54e36dbf6468979a80"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/textures/cucumber.png.mcmeta"
+hash = "aeea32df4d4dbb092db11225a82859556b704141abc5a09774a34c69132adbc9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/textures/noise.png"
+hash = "c810be7b1154640ec514f34f61cece2882514e6f5887101f20a1c57386cc15a1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/textures/noise.png.mcmeta"
+hash = "e9c800d49d941e58d1c9f114b4564886b0c984369fab42515935497948ea8440"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/util/commonFunctions.glsl"
+hash = "9e4e8b0dae74e21f1366a76f007df40b940ab1b951db0964b0284a78b30a448b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/util/dFdxdFdy.glsl"
+hash = "bcb94d8b7364ae4f1b9fb0e8db4e6705333f98a639dfa34f4547078bf7e27c8c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/util/dither.glsl"
+hash = "287f96095473d2936f8ec88be7cfa2d01d91abf1c3c9f72fae8fdd631dc58150"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/util/miplevel.glsl"
+hash = "14ae8e22a8a2e1b9a1bdeb659316f9466da458b59ca9d159baca58fb3fd1dae0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/util/spaceConversion.glsl"
+hash = "bc841355740989cab2c63b7edd3ce2d7a526b84b15de03f0165ec96fd63a88e2"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/lib/util/textRendering.glsl"
+hash = "2172da180089f2dfb6900d1aa70fdef8f1f8756d16760b5042fb2725a297ca25"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite.glsl"
+hash = "d7627eb74d36105873f0722a07572b0239851bda547e6d18d0f3cf6cf4eeb9e2"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite2.glsl"
+hash = "5c57e6df73d3f6d268ed91fd948420506bbfcde67d5ae91f2e10bcbab285dffd"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite3.glsl"
+hash = "32ce4d400155e1fe360e482c2c2968d7f3aa21be270dcebfb8f423cedf6d0ee5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite4.glsl"
+hash = "422b7707fa02338145c3458cf690e9531793b47028cbd1bdce6e8a2da9d970d1"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite5.glsl"
+hash = "a95fb989aef825f65cdf43ff56747d87a137c59843772c5f211e04da4336268a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite6.glsl"
+hash = "4b571d8c087c7a98d972470e833ff07bdb2a0bfd7aee34e63da00ef59b8f066e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/composite7.glsl"
+hash = "1f04217e96cee92603e5f55c5cb6fc58343e4e6327320728041b5b2ce7e6cb89"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/deferred1.glsl"
+hash = "358626ac7290ffe1f078191e797d3b213f72c4d2d102af169ffb3f84519d9a26"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/final.glsl"
+hash = "58e08d597fedb9c440c86c1808c439467d579ac83c8138d7f9a1fb21657b5729"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_armor_glint.glsl"
+hash = "25e84f493554f666223d9e3b56cb78ea7c4565c6cbf910c8280853dfd64833f8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_basic.glsl"
+hash = "e37b65d62da0d10bb18def852923c8393fa85d23464627c56c1aa9b412339e6d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_beaconbeam.glsl"
+hash = "679bcbbd5352782abff45e3e4d23ae584fbeab70c58994b78d607f76aabac697"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_block.glsl"
+hash = "4949f976fc3ae26cff36c2e147f721c7aee5c30a4d177702f8b6c64ed032190b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_clouds.glsl"
+hash = "7f1ce33c9f01960362cc0d872f592fe3a0d372aee85a2b016b32c9a96c4b95ce"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_damagedblock.glsl"
+hash = "2b36ff0d930f92f9bf499f9249fcb48ed06276d45327eb018f0937cec9d6e2c0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_entities.glsl"
+hash = "60882b67c5e63fef60dc198648e392abfcaae4a20178ec6a742aa39e6b58ee37"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_hand.glsl"
+hash = "ca39eaed2c81973c54cc5ab830fce1b87dba32d33db741384a041d66d2aa2e67"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_skybasic.glsl"
+hash = "1ebf062bf35b92e74f00defc26a38c188327f7ec56c2be72c591e119820399ce"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_skytextured.glsl"
+hash = "7c8522525cc697704750b35f0172d492dc483171d80804eb0fc393c2ec39e43a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_spidereyes.glsl"
+hash = "89742290910462d8214f0d23cc58a5dd987941f0150237ff1272179e4417b9e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_terrain.glsl"
+hash = "9430b9c86b77c9cf7979c7823694c875a8b22d2ee6256e0cf11346382d5dbbc8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_textured.glsl"
+hash = "496c988d86fd137e05636912042b3118f439302c52326f89bad514e7bf0ecf4f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_water.glsl"
+hash = "ef283cf473794c57f17b6d16d97d455cfdc9da0fbb7fe3593981dbcbe9ef39b9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/gbuffers_weather.glsl"
+hash = "9c02c404a41b62eef5dd3c5a6b95936e2c922d2fc28f7066d76280c3433a1bac"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/shadow.glsl"
+hash = "834a13789cd2af7fd8c63dc005267caedbebf945f7da9ed15bc69d6ce1359fd2"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/program/template.glsl"
+hash = "660f650132e239a028895a4b66cc09453b312f995d1194f83021a0f698ce9415"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/shaders.properties"
+hash = "c6c135b728b059b9d3ca8240b71e1e148c66b495ec4a4a54415304c76b3fbc12"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite.fsh"
+hash = "1bf8a6d6b2b3904ab853628fda489e12c338f3a053010e4fbf7cee7e2d79bf9f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite.vsh"
+hash = "a7ced6577379ddd7ae085aba78c51ee1171cc4291076a08402bdcaa5b8f6cccf"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite2.fsh"
+hash = "3986a78f3661b2103ff36f756a81e4b713b7c2385a35553adf4f579f8ef13f6d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite2.vsh"
+hash = "efd92c8fb096557c39c248eef88eb80b111569509ccdfd37abd826de2134ca64"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite3.fsh"
+hash = "484cc38bc60bb574f5db44463c3dc8f091fabcef678b592ad9fcb9f8324aa550"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite3.vsh"
+hash = "3f1ea3a6bd7f2f36cf922c72ea033f5b258549d2680cfaab3ae26129009e1966"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite4.fsh"
+hash = "5ef8ff0f6b6f8823667e8cac5da949d84fe6ef27935c16925aecefcd9f123f70"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite4.vsh"
+hash = "43cd1ecc14fbf7a065e44bae46e81643a432c5daa64af6d8ed7c85f845e97345"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite5.fsh"
+hash = "fb1b58a23d4eb2e43d7aaadb347a2225e977ab618de261d01198fcc3eb075715"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite5.vsh"
+hash = "f87d7e1480659b576bf2d114f2ce119fe7ed1c7286b34d0c23cb4513fdca9bce"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite6.fsh"
+hash = "f6cc7abff796b7ab687cab5775c3d37db57f9771cec622b06193601b8d9604b9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite6.vsh"
+hash = "075130a14f9a424baeb7d48948ddcd9dceb163f146038a775c63e544bc925798"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite7.fsh"
+hash = "bf79a85176a2fb64378f9fb3a952412e692d6f77daba88b8db58dc1ec7f5a035"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/composite7.vsh"
+hash = "5516cd4dc1c4eddb20193f0bd02e92729de37050ea1d16d0eabac0926ca30039"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/deferred1.fsh"
+hash = "ba74cea53ea240fef0858d9f898d2d3a5e18017cabff5eda4fb7e93ddd22e2db"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/deferred1.vsh"
+hash = "f3546299ae73d8f6157fc720b75fa29073ebeab589b32d94469c665b83d633d4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/final.fsh"
+hash = "392d7256274637b3faef360a120d582a14d63727d3ac9f81e60ff53f1b601bbe"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/final.vsh"
+hash = "0276ab9418d66c69c2dac4385613f94a0fba9f560477de58a6f5956194bd9b06"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_armor_glint.fsh"
+hash = "9ab1ebf4a50e43e96f5eb4257109d46f28a1be8a585e41a31740d088ae0653ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_armor_glint.vsh"
+hash = "e7bd9ce4538efb63b48d6c0f5001c0e5eaa5d8f28388c348694c912feff8f74a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_basic.fsh"
+hash = "0b826ceafd1a897b2043c5099d080ca189e7dc80f7f3e1ee7ad477519231b4bc"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_basic.vsh"
+hash = "fdc6618d6ac0056737f711aa786fc6b3be7d16a088438cc74e016cdb9f050247"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_beaconbeam.fsh"
+hash = "36bae87ed41643853f4f7bdb7ef81ec603b9b7c3cff2701fac026b07b85276ae"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_beaconbeam.vsh"
+hash = "d7145f68d0ea197caf4834fbbaff9353575db5f681765437ecc91c3f532f1436"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_block.fsh"
+hash = "2517c07ae7e24a3bec07dd2969db72ca1d6418add61fdb612fd407e12fb80da8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_block.vsh"
+hash = "fcc629bf45da4e6953a81b7dccb988b1b116e429c889d427a6b104e5dd340ad5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_clouds.fsh"
+hash = "a8b3b9df93cdb3dd1556bae1fc01a73f4f7a18749e641c296980edee586a635b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_clouds.vsh"
+hash = "5751b23505b9d39b4df528f9ff6ea6153496c4a9d76c6ea9abecdb51591cafcb"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_damagedblock.fsh"
+hash = "e0b1fc338e45deb1d24efad02ad994504d7655fd0a3ac7923915c3973849fa09"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_damagedblock.vsh"
+hash = "00c85ad0af41a94580ba38c8d49599f7263c0e08bd56b4e41e3ff07b32f6cd6f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_entities.fsh"
+hash = "e4ea21a627829c6b156b771107e8e93f067c882a3b355800c996901dbb223920"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_entities.vsh"
+hash = "e4ad41ff1475bb113dc5d0b10cc5627fbe270125174ef371974645c82f376a35"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_entities_glowing.fsh"
+hash = "5b886b66feaf381eb47753c9a1aca320a69f067b7a079c182a1e95f56a55ae8f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_entities_glowing.vsh"
+hash = "b854a4555543bd8082b71870d1c857e217395ca0276a4f2fa6cc2834d4aec3ca"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_hand.fsh"
+hash = "bfcf030d32a2802e8edf4634a16a0110b8ea9e454de52dd86dfd3876bc55441e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_hand.vsh"
+hash = "4f5828615d5c8196d0db078d4da8670d90b72b6eeb3fe4cb7f1cc3247822f655"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_line.fsh"
+hash = "3abba981e1b742cfd738d8d323a5c457bb9e811aef81ce55526fcf5772438843"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_line.vsh"
+hash = "2a366483233b9c443b7ac73a6b27e9de5208f0555e397f0843517c128d39d52f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_skybasic.fsh"
+hash = "cb90fa220003f60cbd00311e01bb793219d5053ba09759a362e57810644b635e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_skybasic.vsh"
+hash = "4ed952263901661fd490bcb2f2b83e0302e72974d5d3cae234eb0734786fc594"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_skytextured.fsh"
+hash = "4971bd26330294345caba91951b88226c0951e2c5a813fa13458fc10dd6737c2"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_skytextured.vsh"
+hash = "e780e84bf31a78f15b5b1eaf9fe35279bdc676a85d2ba72fd4bc87958b5abb41"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_spidereyes.fsh"
+hash = "2d7644f07b71ef9410cbfc57365a9e53f4284b466765e516a0515fbacd0035b9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_spidereyes.vsh"
+hash = "8fa982dc39a03f0ccad71ec645bcd357300021789eac26ec2e13a1df155cda91"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_terrain.fsh"
+hash = "23bd3561c2bfa0f5de915ba910601d68695b189c325fa0f7a0d7705d597dd3be"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_terrain.vsh"
+hash = "c904199f8cabe527602b7210c5af66ed674eb35390e1f373ef370c0ac0a8b574"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_textured.fsh"
+hash = "4834debabe6c73c3a985e9ebdde4da497b627659942624cd42b47e2f67657694"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_textured.vsh"
+hash = "6c3c3ae188a696215c89ab2c689e22944f68851f3a309ce6448c8d3b64276507"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_water.fsh"
+hash = "bd986e253b1858a0c0b8502830199c630e7098345a65153ac798e61b8660261d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_water.vsh"
+hash = "b0143d26aa421719988fd9535314d0ac4a4566f8021c263f75a36e34401086e2"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_weather.fsh"
+hash = "4e99fef7013f4a1e7371da9b21b87acf970614ef889e6b25c6f8f78cc0a880e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world-1/gbuffers_weather.vsh"
+hash = "dbb2e116e5d0d1c9972cbcdec33119b90a5c6c97aa65a2579e366791a4a6e9a4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite.fsh"
+hash = "db3c2ad93c83c87a765f22c1e442d3656729f243f0116aef94acdfd0018eb0be"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite.vsh"
+hash = "5079ae1107daaffeefa59c73ba5cf772ce0cf8d812d211e0916d3be053826e13"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite2.fsh"
+hash = "768105d371609d3624cc6db00e16b82b26b972c53201bc5bf691e691c3725916"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite2.vsh"
+hash = "2d7a610966d8ea182a1bb0d56d6f0766becb49480f65b4342bb227ea4261030b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite3.fsh"
+hash = "562bb907ba83143c2a02a095a7f24cc492a6926c5f9be7eb5ab8242588919fff"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite3.vsh"
+hash = "b858315ff718d0b22e7ea134ea4c3011c5113aac4e3158bd49bf53bcdde965e7"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite4.fsh"
+hash = "1690bbd43a9fd3200a076ee908e65d0411e463978d620efa921b3e54b2022e59"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite4.vsh"
+hash = "57d3d49580a6c7ca7352edd92bffd7e22d5b45e82e3fff50ea4c4d466e4cf855"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite5.fsh"
+hash = "8ec2d24db0523a977a00a5eff037e392ca48666a28bd9ef5ba7db5d26b5b6bf9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite5.vsh"
+hash = "f6a887b4ec5d1614971491bd510b34ce51e3f4c908c6558c610173023bd95ba0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite6.fsh"
+hash = "1a81d1b0a2bf7356f8b42eb5842e6821dc76e21266fe2ab846fa31af00b24b93"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite6.vsh"
+hash = "2a7f85fd80f43b5cd857d12bb63b5e06c2ab49403f8c4c758b4e0d7129bb5a2a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite7.fsh"
+hash = "fae1e1e49cd84e0bae0f28bb69e151186cf2f50d22aaa9c1d088384647e72583"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/composite7.vsh"
+hash = "e472077e1da91a41fd104716cc8fece93ea9315392d7c970976b9e86a0e19e21"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/deferred1.fsh"
+hash = "8bbf0642c8423772963983ceec5f8a7b337a3042411f183481529be276acbc15"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/deferred1.vsh"
+hash = "1eacc1cdef97d5c207d7bc11a4d0fb1100514f3775ed12f9f1c2e922afffa532"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/final.fsh"
+hash = "ba4d7e91cf3dd4a96b4ec95d11dcb9e7dd405d1e3dcce31fc7f1fc0af66e5d91"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/final.vsh"
+hash = "5052bc29f275631280112448c1048b049baed0cb989b951a63302ce2638e53ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_armor_glint.fsh"
+hash = "272af5abba939819cef823a680aebe1388bbe8c002d0ee284cf5979ddb8fc9fa"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_armor_glint.vsh"
+hash = "3b5d4da16427a28741c20baffecb6c704393bbe7576699c264210185c1abc626"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_basic.fsh"
+hash = "704a2ef9b2722765e52919ba5f71a3ad104dc7699c5cc3aa03a92c4be56c1fbd"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_basic.vsh"
+hash = "60645ccd76d6f314461bd56880d249f903e0e440c7fbc3da22fc3900aedcdab9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_beaconbeam.fsh"
+hash = "3002068fb867e383328979250eacf26cdd2f2884bb358ddf5f9cf6eb2b0cb86b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_beaconbeam.vsh"
+hash = "6665a728d85547234e8d27fafcd6b2d8041238e632fcf663385196a50e06dbb2"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_block.fsh"
+hash = "cabc22e3cd519fda798e62d05dc822699081c45f78e776f017f54e154aee836b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_block.vsh"
+hash = "da1400f74d509c8209a7173bdff7e952004919817a01fc8409e5e4c398548670"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_clouds.fsh"
+hash = "3a0a5cc6e9b58088696dbf713d05180225f9d795f68cd663ad6f06eee906cdc0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_clouds.vsh"
+hash = "9f52bef9794f7696d20f21d87f1966d2c0265b0d5e373b1e6a0b02876e83f016"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_damagedblock.fsh"
+hash = "b7b7ae27cdcb75a6811c84a006d9eaa375e19dcfc498ca72284065ec07abccfd"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_damagedblock.vsh"
+hash = "2b1d8cec7423879809015e8db4236eddfb54098fd20c8d355ae3cf2c635d3fd8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_entities.fsh"
+hash = "97356dd878a97c1476b8703469da5c8c495e5e782d8594286b4c5dd9a250eb4d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_entities.vsh"
+hash = "52f7fc5beeb0df33972a803024aa1290efc892754a462668095bc946401e498b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_entities_glowing.fsh"
+hash = "17be1d7aa46fb8d5a4a0e768be61e8775cad92324bee205794e9822da31824da"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_entities_glowing.vsh"
+hash = "d87054c6499cc9c8cb2e7d7140e46b2521a740063382cb1bb094e052a56088a0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_hand.fsh"
+hash = "9ae7ca25a9bb007b100a0db3ec9f7db6d54f3c11e6c27c348b0adfab566869d9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_hand.vsh"
+hash = "6a7ac23e93b588a39e6300fc8d75010314fe2b479fa1bf8badb829cbbec1c62e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_line.fsh"
+hash = "624a38a5587bd6feed5d182cce7db2afe9c827c3861b0076a738795d7e703676"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_line.vsh"
+hash = "bcd5d434671460bde6294203078d8de2f6108a8c524b68724d950e76fc5bff22"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_skybasic.fsh"
+hash = "2d63567bf1f63636dbfaba425f45920118121a80eff371b9a68466e1ad87d553"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_skybasic.vsh"
+hash = "c4b6114737138e3bb57ff8dd90a749435d191a17902c48eaefbee1b520d8d128"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_skytextured.fsh"
+hash = "0d4e66bae8de5f93015c4b73b845b719681320536fce39df0f519046d3c811b4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_skytextured.vsh"
+hash = "d8d93cf10885facec9ec650ee3fac3004f5f2d5e39202ab8fd5e4cc8aa83e865"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_spidereyes.fsh"
+hash = "7debbcdf42c30d5bd0f7fab4832e24d75b9f4cfe578f6cdc187d26aebcaa7205"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_spidereyes.vsh"
+hash = "45f45918bf77ae926397dafc422f2886676c66f1a5b72af307aad5f90297ea31"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_terrain.fsh"
+hash = "41e8f4f5b7eacb3f010780f08999c0884d030946b22243c4d79a640cc32365c8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_terrain.vsh"
+hash = "19d53fc835cd03b2dadf2c1dd47b424db0acdb30d59004997b30bd5e1d4382c4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_textured.fsh"
+hash = "639ca025197675cb750299107ebd7d9e32d740ec4a6864646f65a06a58a9faad"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_textured.vsh"
+hash = "8ee1b5e3e91b4981ff451d1bfbfdc45c781954bc056e62e7b9cafc2ed882e91c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_water.fsh"
+hash = "a308cd8f93a2b14e164fd772c76d3ec1104a2fa3c3de4e0c396cbd1e92fc295b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_water.vsh"
+hash = "e93b3cbef8afe23a5dc47ef62b523b6ea3a93c39e4a8523cb114b57982aefd43"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_weather.fsh"
+hash = "7e12dbe049a4e9c9b870253208f88eac59b87a956d577c5de24e31b852f30d54"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/gbuffers_weather.vsh"
+hash = "ec413b395b72b8f87e63844971333e8f377517123ffe7a4d9f6045a3af61bd59"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/shadow.fsh"
+hash = "fbd435bdcc71d99117043836bd77e70cfbed388ad9e0d282bf2f83e35b1fb35a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world0/shadow.vsh"
+hash = "2c8b46e9f1c384759062a7af92bd914312cc77beb7698a76bfa83278172b2174"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite.fsh"
+hash = "4913549a8f6d3de4a825715a09fd66193b1737c0318d5a62341a80a1f2d946d4"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite.vsh"
+hash = "730b590147f87d54b4e3fda060273cdc3e5f1e537e320b62f14db7d0a1cf8141"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite2.fsh"
+hash = "c7b27a724109a625503f1dd9a9fec636b26c053e5a5786fde406bea088a70339"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite2.vsh"
+hash = "4d8d7aa9f05dccc20054b948984d3425ec49dd4c1ab7cd28906e08af1a3ac3f5"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite3.fsh"
+hash = "98098ca57a7e9e7ddf427d53cf2721d71d4eda08559a8c6ef8c81b3049a9d6d6"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite3.vsh"
+hash = "ab1bde09622ed898268e05f3f271ba0e829ac5d8a6aee7cb9b4d133d51d7d270"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite4.fsh"
+hash = "21c3c8a51a75a041e3f2f3e876f64c7813d3411d863eaa7a476f2ef13e9105ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite4.vsh"
+hash = "ce54b664158073dedaefcf8bfe93eee1bea77ae3c457f230427387dbc72e600b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite5.fsh"
+hash = "c0192588bb08f6239881aa4dafc3ac68e9adb71958861076ba1b746e1825f0dc"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite5.vsh"
+hash = "6733277d54b9c982c522d232546ba1f8ef206cdaa60a012459bcf7b0e272e030"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite6.fsh"
+hash = "c4a6ad129cc129d1b060955a544494351232aca35fbfa55239e81bdb8f788a87"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite6.vsh"
+hash = "749a8db5bd3928b6670e3fceeea058495726359495504446a5177ecb1116edc3"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite7.fsh"
+hash = "f3ba0a7a1b79e3bb78ab5dae1adf4cfe0910f3dccddc029728c22f0e304ac133"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/composite7.vsh"
+hash = "b9d0aed97ef625a89019eb62ff4bb780ce6ea3a048afdc96bb1203a81b730161"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/deferred1.fsh"
+hash = "765473c0ee46489763ab7e323b4e128b383f2b645b0d02fbc08e859e612a217d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/deferred1.vsh"
+hash = "d95408080dd559e50c36724e0896f519c3ec20a667b977cc0426b3c64ca45c0e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/final.fsh"
+hash = "1a236e94db64c1f58b083e902ab8a423d9dd4ecefd94b36169b5aab59321c2be"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/final.vsh"
+hash = "01849df9a8eb20029eab9fd0f65298ab8cf4bef49605a0a6167df1d0adc5c923"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_armor_glint.fsh"
+hash = "4977c4b60184d85526a3083904d2fef79b7d8b7bd118aabc8b09655a3294fd5a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_armor_glint.vsh"
+hash = "311156f0053d4405db37d953a4b3fd89e8100de24644b713a17f6727e1598078"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_basic.fsh"
+hash = "79845432f6aa18ba526b9f2504b0e586b00cde019a2017ac9cd1dff43f72a6e7"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_basic.vsh"
+hash = "86731c9c91f84d646c219c5de7b72f54fece1aa6288b4d306fedf6d22d0bedd0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_beaconbeam.fsh"
+hash = "70ef44d224d5db16f6e5c13808bfe15f9fd66fce13b4fddbb34e98d86c406d64"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_beaconbeam.vsh"
+hash = "768be9c7a23f046579603eb2f1d8ec4379d5745b798fd6e7dd92e1b2ac10fc5b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_block.fsh"
+hash = "f28bf016f3284799bc3d810e9664885e67fa94efbc75adc8790d6160aa1c3b4c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_block.vsh"
+hash = "bd8df9bb3403eedcc88baa7c27241dff319d8e8027a8b3c593d1c6639e872f36"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_clouds.fsh"
+hash = "7f4ff63219caa509f46e70cbf826a7db6942f7ebc8582134fde5720eadeb1f9c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_clouds.vsh"
+hash = "807b889a642e626ea1e11dc4d21beb3b2be36d4fe8c871fbf86066754505c670"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_damagedblock.fsh"
+hash = "a645ddaa89aa5a3083dd6e22bc99716f4b57756b0062be92984c392e2f146f18"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_damagedblock.vsh"
+hash = "de88afe90cb26ff80f8aecc50ae10c0d5e18dc4bec39de1915a06728d8a1087b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_entities.fsh"
+hash = "667cdaa4ea324fa334ec713a04f6c3212276e8571ee1d4dd09b0aaef886f16ab"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_entities.vsh"
+hash = "5a0a5da037f00f500d24ea438822346b9c5ba9dc381190b323c90b26de275a71"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_entities_glowing.fsh"
+hash = "9ef577558410886de2ee7ae9d9585aa953c106d691e36586aaf6dc17f0d79204"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_entities_glowing.vsh"
+hash = "1698b9b31f40c1e9f0bfdd293a33c6ba3ef7c4d13cffdc4d0b8dc42a02ffcd25"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_hand.fsh"
+hash = "9e7fb8083b9599fe5497f244194fab0e55eb8a43905dbae2ecbcbc4f81e35e39"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_hand.vsh"
+hash = "e28e61209447c90e6521cdba4c3af4f467283dd7106c170678f25df7566f0a0c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_line.fsh"
+hash = "1aff8003bb3faa95a4b066d226b604e348a23d5596e3c2316506da4c50368d4a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_line.vsh"
+hash = "0e6cf3a18bccfc40ff025e0c70a0d92f1d8c3c693828bc88cf0180933701e693"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_skybasic.fsh"
+hash = "23f3472cbd8be999fff5f936e8bcef9482aaf73d12d713cc0dde50203f66cfa9"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_skybasic.vsh"
+hash = "fbc4eed34fe279c6b1905deeeb33726d4775f305f8ef9837da52a7c28c739b12"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_skytextured.fsh"
+hash = "0de25496872e328a1cfd4a216a72c8efb61eceae0ff96d995ad4228a4b1b3b49"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_skytextured.vsh"
+hash = "7532a1feeabd664294230c6a4d00e805067b8fef1ca1ef9d97631dc27574b54f"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_spidereyes.fsh"
+hash = "0265f14d49add14932ec360ad377cebad46460456926ddf45bde1ea89c84c817"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_spidereyes.vsh"
+hash = "351006474e6265445fee1bf0ce5991a3c63b3f2d8430c06268f84dbc0db2d896"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_terrain.fsh"
+hash = "5261e39bd21c121997a93b01bbafa1f36a2b1d25d9a2c888f4847ddaccf270ad"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_terrain.vsh"
+hash = "5c9c864d9172aedc30177890752e0e609d39347bc685709afbac279571309a74"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_textured.fsh"
+hash = "32679bc8e53fbae101e1600a8a8f916e31656065a8399d13370bafa000bec46d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_textured.vsh"
+hash = "dd6ab7f1da3ee81d5a4348f1d61fedddf01587e0f9f1cd300698fbe04527aa85"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_water.fsh"
+hash = "20406eddb92d8b933171c7428a0426063cc95cc2424532157899bf27c4b1ae24"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_water.vsh"
+hash = "b32566b0cee0bc6a7ade17c43d0b6f5ebf4c65d038df5a2c1bf9c3145471855e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_weather.fsh"
+hash = "71d3c28b2925f315b483a2a2af64436e91166ab776b8631a812ff5037d9e7482"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/gbuffers_weather.vsh"
+hash = "db96a6ed0e8ab3a83eae2f5ba47afbd198457c577cd56d7559ac65d4050d1961"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/shadow.fsh"
+hash = "97a42bc4a81e6f55752d5ffa5935209adbc3380ce33f974b6f1571a1dedfa4e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1/shaders/world1/shadow.vsh"
+hash = "4e6a316b12ad0c9de4d4247f5517b9245d5b08ab5786d0881ed728074ea6351b"
