@@ -1,8 +1,8 @@
 # To Play
 
-Download and install Java 21: [Download](https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi)
+Download and install Java 21: [Download](https://adoptium.net/download/)
 
-Download and install Prism Launcher: [Download](https://prismlauncher.org/)
+Download and install Prism Launcher: [Download](https://prismlauncher.org/download)
 
 Launch Prism Launcher, Select Java 21, set 8 gigs of RAM (Set max to 8192MB). 
 (*if your computer only has 8 gigs of ram then rip*)
@@ -10,7 +10,7 @@ Launch Prism Launcher, Select Java 21, set 8 gigs of RAM (Set max to 8192MB).
 Login to your microsoft account that has java edition.
 - Settings > Accounts > Add Microsoft
 
-Download the modpack from here: [Download](https://github.com/funnbot/create_ae/releases/download/v1.9.3.1/create_ae_1-9-3-1.zip)
+Download the modpack from here: [Download](https://github.com/funnbot/create_ae/releases/download)
 
 Add the pack to Prism Launcher.
 - Add Instance > Import > Browse (select downloaded zip) > Ok
