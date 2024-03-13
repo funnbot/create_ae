@@ -10,4 +10,10 @@ Launch Prism Launcher, Select Java 21, set 8 gigs of RAM (Set max to 8192MB).
 Login to your microsoft account that has java edition.
 - Settings > Accounts > Add Microsoft
 
-Download the modpack from here: 
+Download the modpack from here: [Download](https://github.com/funnbot/create_ae/releases/download/v1.9.3.1/create_ae_1-9-3-1.zip)
+
+Add the pack to Prism Launcher.
+- Add Instance > Import > Browse (select downloaded zip) > Ok
+- It will ask you to click a link and download a mod (you want green checkmarks, no red x's), then press Ok.
+
+Thats it.
