@@ -10,7 +10,7 @@ Launch Prism Launcher, Select Java 21, set 8 gigs of RAM (Set max to 8192MB).
 Login to your microsoft account that has java edition.
 - Settings > Accounts > Add Microsoft
 
-Download the modpack from here: [Download](https://github.com/funnbot/create_ae/releases/download)
+Download the modpack from here: [Download](https://github.com/funnbot/create_ae/releases/download/v1.9.3.2/arcane_engineering_v1.9.3.2.zip)
 
 Add the pack to Prism Launcher.
 - Add Instance > Import > Browse (select downloaded zip) > Ok
