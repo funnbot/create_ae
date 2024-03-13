@@ -16,4 +16,7 @@ Add the pack to Prism Launcher.
 - Add Instance > Import > Browse (select downloaded zip) > Ok
 - It will ask you to click a link and download a mod (you want green checkmarks, no red x's), then press Ok.
 
-Thats it.
+Join the server thats already in the server list.
+Give me your username so I can whitelist you.
+
+Press K ingame to enable shaders.
