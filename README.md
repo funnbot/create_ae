@@ -18,5 +18,3 @@ Add the pack to Prism Launcher.
 
 Join the server thats already in the server list.
 Give me your username so I can whitelist you.
-
-Press K ingame to enable shaders.
