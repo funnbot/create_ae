@@ -1650,7 +1650,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "4621e916aa78a20b2ada93cf086f338541952b97f921015e60bdf19e16e71cd1"
+hash = "e37a051c3323235e5feb7e95da0900d56a8db6c6ef2746d89a1ace6c0e3ca51f"
 
 [[files]]
 file = "config/moderntrainparts-client.toml"
