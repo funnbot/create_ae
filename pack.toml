@@ -1,12 +1,12 @@
 name = "Create Arcane Engineering"
 author = "FortnitePro420Xx"
-version = "0.1.9"
+version = "1.9.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fda7711dcba4785723576dbfe404a6e4bb6f13b02d4833e7e6363774b39df1ba"
+hash = "83089084a83bb1716edc42b26ca49c4db530590acd1308bea39623425be36ea4"
 
 [versions]
 forge = "40.2.17"

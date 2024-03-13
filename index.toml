@@ -1678,7 +1678,7 @@ hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "51c16ac418827ece32d465e4963264c767ba00a6cd8a0b0e372d0c20eca86f57"
+hash = "c0776966a0c7ef17544394980a85314d9616da0df5dfd2bd2f92e4290aea1db9"
 
 [[files]]
 file = "config/pamhc2crops.toml"
