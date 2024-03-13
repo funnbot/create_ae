@@ -6520,7 +6520,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c5012d7abd319b7551a112d56f8bd557a5b1631a267862018f460784a37fb168"
+hash = "b7e209df197413f7a7811f5bdf79eaea0830a2dec2a8578714488acd6d192fc2"
 metafile = true
 
 [[files]]
@@ -6860,7 +6860,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "66030ae91a178c9681cfd941f6f6eb90d5c521e9ea54f6d5685378f7e49638bd"
+hash = "af301de5352385e224f18d1ddc88cc6ceb37f73af41d2caa2c87a75a7edecd12"
 metafile = true
 
 [[files]]
