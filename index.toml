@@ -1085,10 +1085,6 @@ file = "config/dustrial_decor-common.toml"
 hash = "0859aa9dc822c15f5ccf26dfc9a6a212b3115ce0c1146fa06651dfca1ee8b9d6"
 
 [[files]]
-file = "config/effective_fg-client.toml"
-hash = "c86c21683479e7af6df4c70d57f61018e9116ed347ec55df1926d122c830d891"
-
-[[files]]
 file = "config/embeddium-mixins.properties"
 hash = "abcfe48332f4c5128a8f2184f09c7dc6b6878b008e274ea5ec88b24dc70ea77d"
 
@@ -6516,11 +6512,6 @@ metafile = true
 [[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "f6322f6f8bf75d09eced113c8c937c046b460b5905a6ee8af7520ccb642ecb2d"
-metafile = true
-
-[[files]]
-file = "mods/effective-forge.pw.toml"
-hash = "d5df1d8072c5e8be550e04604bad325ed77d9d67cba0bbb8cb96d003c87396f3"
 metafile = true
 
 [[files]]
